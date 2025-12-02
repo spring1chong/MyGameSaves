@@ -10,13 +10,13 @@
 
 ## 常见游戏存档位置（Windows）
 
-1. **Steam（本地存档）** 
+1. **Steam** 
    `...\Steam\userdata\<Steam 好友代码>\<AppID>\remote`
 2. **文档目录** 
    `%USERPROFILE%\Documents\(<开发团队/公司/发行商名>\)<游戏名>\`
    或 
    `%OneDrive%\文档\(<开发团队/公司/发行商名>\)<游戏名>\`
-3. **本地应用数据（常见）**  
+3. **本地应用数据**  
    `%USERPROFILE%\AppData\Local\<游戏名>\`  
    或 
    `%USERPROFILE%\AppData\LocalLow\(<开发团队/公司/发行商名>\)<游戏名>\`

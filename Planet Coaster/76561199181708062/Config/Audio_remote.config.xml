@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Audio_remote>
+	<Volume preset="Custom" version="1">
+		<Volume>0.750000</Volume>
+		<SoundtrackVolume>0.750000</SoundtrackVolume>
+		<ParkMusicVolume>1.000000</ParkMusicVolume>
+		<SFXVolume>1.000000</SFXVolume>
+		<VoiceVolume>1.000000</VoiceVolume>
+		<MuteSFX>false</MuteSFX>
+		<MuteMenuMusicFinal>false</MuteMenuMusicFinal>
+		<MuteSoundtrack>false</MuteSoundtrack>
+		<MuteRideMusic>false</MuteRideMusic>
+		<MuteGUI>false</MuteGUI>
+		<MuteShopRadio>false</MuteShopRadio>
+		<PlaySoundtrackInPauseOnly>false</PlaySoundtrackInPauseOnly>
+		<MuteLicencedMusic>false</MuteLicencedMusic>
+		<MuteVO>false</MuteVO>
+	</Volume>
+</Audio_remote>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Game_remote>
+	<GUI preset="Custom" version="2">
+		<AccentColour>4278621143</AccentColour>
+		<ShowParkBoundary>true</ShowParkBoundary>
+		<HidePlayerName>false</HidePlayerName>
+		<LockCursorToWindow>false</LockCursorToWindow>
+		<LockCursorToFullscreen>true</LockCursorToFullscreen>
+		<DistanceUnit>metres</DistanceUnit>
+		<SpeedUnit>milesperhour</SpeedUnit>
+		<PopUpNotificationsSecurity>3</PopUpNotificationsSecurity>
+		<PopUpNotificationsPark>3</PopUpNotificationsPark>
+		<PopUpNotificationsSequence>3</PopUpNotificationsSequence>
+		<PopUpNotificationsGhostbusters>3</PopUpNotificationsGhostbusters>
+		<PopUpNotificationsStaff>3</PopUpNotificationsStaff>
+		<PopUpNotificationsStalls>3</PopUpNotificationsStalls>
+		<PopUpNotificationsImportant>3</PopUpNotificationsImportant>
+		<PopUpNotificationsGuests>3</PopUpNotificationsGuests>
+		<PopUpNotificationsRides>3</PopUpNotificationsRides>
+		<NewsEnabled>true</NewsEnabled>
+		<ColourBlindHeatmaps>false</ColourBlindHeatmaps>
+	</GUI>
+	<Volatile preset="Custom" version="6">
+		<SceneryBrowserRows>172</SceneryBrowserRows>
+		<SceneryBrowserView>Grid</SceneryBrowserView>
+		<TerrainBrowserRows>172</TerrainBrowserRows>
+		<TerrainBrowserView>Grid</TerrainBrowserView>
+		<BlueprintBrowserRows>172</BlueprintBrowserRows>
+		<BlueprintBrowserView>Grid</BlueprintBrowserView>
+		<UGCBrowserRows>172</UGCBrowserRows>
+		<UGCBrowserView>Grid</UGCBrowserView>
+		<CoasterBrowserRows>172</CoasterBrowserRows>
+		<CoasterBrowserView>Grid</CoasterBrowserView>
+		<TrackedRideBrowserRows>172</TrackedRideBrowserRows>
+		<TrackedRideBrowserView>Grid</TrackedRideBrowserView>
+		<ShopBrowserRows>172</ShopBrowserRows>
+		<ShopBrowserView>Grid</ShopBrowserView>
+		<PathBrowserRows>172</PathBrowserRows>
+		<PathBrowserView>Grid</PathBrowserView>
+		<BuildingBrowserRows>172</BuildingBrowserRows>
+		<BuildingBrowserView>Grid</BuildingBrowserView>
+		<RideBrowserRows>172</RideBrowserRows>
+		<RideBrowserView>SmallGrid</RideBrowserView>
+		<FlatRideCamMode>cinematic</FlatRideCamMode>
+		<TrackedRideCamMode>seat</TrackedRideCamMode>
+		<PathSettingsHeight>0</PathSettingsHeight>
+		<TerrainSettingsHeight>0</TerrainSettingsHeight>
+		<RotationSnapSize>15.000000</RotationSnapSize>
+		<VerticalGridSize>1.000000</VerticalGridSize>
+		<RotationSnapEnabled>true</RotationSnapEnabled>
+		<ShouldFlattenTerrain>false</ShouldFlattenTerrain>
+		<AllowAutoStack>true</AllowAutoStack>
+		<AlignToSurfaceScenery>false</AlignToSurfaceScenery>
+		<AlignToSurfaceBuildings>true</AlignToSurfaceBuildings>
+		<AlignToSurfaceShops>true</AlignToSurfaceShops>
+		<AutoAddToBuildings>true</AutoAddToBuildings>
+		<EnableVerticalGrid>false</EnableVerticalGrid>
+		<advancedMoveToggle>false</advancedMoveToggle>
+		<AdvancedMoveAlignmentType>BoundingBox</AdvancedMoveAlignmentType>
+		<PathStandardWidth>4.000000</PathStandardWidth>
+		<PathQueueWidth>3.000000</PathQueueWidth>
+		<PathStandardStep>5.000000</PathStandardStep>
+		<PathStandardStep>5.000000</PathStandardStep>
+		<PathAngleSnap>0.261799</PathAngleSnap>
+		<PathCameraBehaviour>Nudge</PathCameraBehaviour>
+		<PathSelectedStandardPathResourceName>Path_04</PathSelectedStandardPathResourceName>
+		<PathSelectedNaturalPathResourceName>Path_07</PathSelectedNaturalPathResourceName>
+		<PathSelectedQueuePathResourceName>Queue_01</PathSelectedQueuePathResourceName>
+		<PathLastSelectedType>Standard</PathLastSelectedType>
+		<PathSquareEdges>false</PathSquareEdges>
+		<PathKerbOnGround>true</PathKerbOnGround>
+		<PathRailingOnGroundedPath>false</PathRailingOnGroundedPath>
+		<PathRailingOnGroundQueue>true</PathRailingOnGroundQueue>
+		<PathFlatten>false</PathFlatten>
+		<PathCurvedElevated>true</PathCurvedElevated>
+		<PathAngleSnapEnabled>false</PathAngleSnapEnabled>
+		<PathRailingOnElevated>true</PathRailingOnElevated>
+		<PathTunneling>false</PathTunneling>
+		<PathSupports>true</PathSupports>
+		<TrackEditAngleSnapValue>22.500000</TrackEditAngleSnapValue>
+		<TrackEditAngleSnapToggle>true</TrackEditAngleSnapToggle>
+		<TrackEditCameraMode>1</TrackEditCameraMode>
+		<TrackEditTunnelling>false</TrackEditTunnelling>
+		<TrackEditTrackRelativeDragging>false</TrackEditTrackRelativeDragging>
+		<TrackEditHeightMarkerMode>hm_off</TrackEditHeightMarkerMode>
+		<TerrainIntensity>0.500000</TerrainIntensity>
+		<TerrainSize>15.000000</TerrainSize>
+		<TerrainSceneryLock>false</TerrainSceneryLock>
+		<TerrainSurfaceLock>true</TerrainSurfaceLock>
+		<TerrainModeIndex>0</TerrainModeIndex>
+		<TerrainDeformationIndex>0</TerrainDeformationIndex>
+		<TerrainPaintingIndex>0</TerrainPaintingIndex>
+		<TerrainWaterIndex>0</TerrainWaterIndex>
+		<RecentlyUsedFlexiColours />
+		<GlobeFilterType>1</GlobeFilterType>
+		<HideAutosaves>false</HideAutosaves>
+		<TutorialDismissedFlags>262145</TutorialDismissedFlags>
+		<TutorialHideAll>false</TutorialHideAll>
+		<MaxBrowserRecentlyUsedItems>30</MaxBrowserRecentlyUsedItems>
+		<SceneryRecentlyUsedItems>
+			<item>PalmAlexander_01</item>
+			<item>PalmAlexander_02</item>
+			<item>PalmAlexander_03</item>
+			<item>WF_Bin_CHN</item>
+			<item>PC_FlowerShrub</item>
+		</SceneryRecentlyUsedItems>
+		<CoasterRecentlyUsedItems>
+			<item>Overhang</item>
+			<item>HopTheGaps</item>
+		</CoasterRecentlyUsedItems>
+		<TrackedRideRecentlyUsedItems />
+		<ShopRecentlyUsedItems>
+			<item>SH_Frites</item>
+			<item>WF_Churreria_Del_Sol</item>
+			<item>SH_GulpeeSlushie</item>
+			<item>SH_Drink_Premium</item>
+			<item>TO_Toilets_Standard</item>
+			<item>PC_VendingMachine_CosmicCow</item>
+		</ShopRecentlyUsedItems>
+		<BuildingRecentlyUsedItems />
+		<RideRecentlyUsedItems>
+			<item>FR_ShotTower</item>
+			<item>Polyp</item>
+			<item>FR_ShotTower_Tall</item>
+			<item>FR_Roundup</item>
+			<item>FR_GrandCarousel</item>
+			<item>FR_FFly</item>
+			<item>MindBender</item>
+			<item>FR_FlyingSnapper</item>
+			<item>FR_ObservationArm</item>
+			<item>FR_SatelliteTower</item>
+			<item>Forge</item>
+			<item>FR_HHeights</item>
+			<item>FR_TeaCups</item>
+		</RideRecentlyUsedItems>
+		<SceneryRecentlyUsedBlueprintItems />
+		<BlueprintRecentlyUsedBlueprintItems>
+			<item>s2284280706</item>
+			<item>s893855858</item>
+			<item>s871938225</item>
+			<item>s1349345842</item>
+			<item>s926958832</item>
+		</BlueprintRecentlyUsedBlueprintItems>
+		<CoasterRecentlyUsedBlueprintItems>
+			<item>p92</item>
+		</CoasterRecentlyUsedBlueprintItems>
+		<TrackedRideRecentlyUsedBlueprintItems>
+			<item>p213</item>
+			<item>p90</item>
+			<item>p173</item>
+			<item>p295</item>
+		</TrackedRideRecentlyUsedBlueprintItems>
+		<ShopRecentlyUsedBlueprintItems />
+		<BuildingRecentlyUsedBlueprintItems />
+		<RideRecentlyUsedBlueprintItems />
+		<SceneryRecentlyUsedTMTItems />
+		<UGCRecentlyUsedTMTItems />
+		<BuildingRecentlyUsedTMTItems />
+		<FavouriteTriggers />
+		<RideDeclineEnabled>true</RideDeclineEnabled>
+		<SecurityFeaturesEnabled>true</SecurityFeaturesEnabled>
+		<DisableSceneryObstruction>false</DisableSceneryObstruction>
+		<DisableCoasterObstruction>false</DisableCoasterObstruction>
+		<DisableRideObstruction>false</DisableRideObstruction>
+		<DisableTerrainObstruction>false</DisableTerrainObstruction>
+		<DLCItemsShown>false</DLCItemsShown>
+		<SeenDLCProducts>522720</SeenDLCProducts>
+		<SnapAutomatically>false</SnapAutomatically>
+		<UseSnapPointUpDirection>true</UseSnapPointUpDirection>
+		<ShowCoasterFrictionSlider>false</ShowCoasterFrictionSlider>
+		<ShowExtraInterchangeableTrains>false</ShowExtraInterchangeableTrains>
+		<DefaultToBoundingBoxAlignment>false</DefaultToBoundingBoxAlignment>
+		<UseStaffHappiness>true</UseStaffHappiness>
+		<BreakdownsEnabled>true</BreakdownsEnabled>
+		<FacilityCleanlinessEnabled>true</FacilityCleanlinessEnabled>
+		<ToiletCleanlinessEnabled>true</ToiletCleanlinessEnabled>
+		<LitterEnabled>true</LitterEnabled>
+		<VomitEnabled>true</VomitEnabled>
+		<FavouriteCustomTexture />
+	</Volatile>
+</Game_remote>

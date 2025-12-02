@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"displayGamma": 2.2000000476837158,
+	"motionBlurEnabled": false,
+	"resolutionScaling": 55,
+	"antiAliasing": "Temporal",
+	"detailDistance": "High",
+	"textures": "High",
+	"lighting": "High",
+	"shadows": "High",
+	"ambientOcclusion": "High",
+	"reflections": "High",
+	"postProcessing": "High"
+}

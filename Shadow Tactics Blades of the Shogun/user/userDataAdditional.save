@@ -1,0 +1,20 @@
+﻿%JOML Jojos Odd Markup Language%
+Copyright:"Mimimi Productions"
+Version:"0.1"
+#
+FileVersion:"0.01"
+#
+SaveGameUserAdditional:!SaveGameUserAdditional
+ m_activityFeed:!ActivityFeed
+  m_iSaveCount:1157
+  m_iLoadCount:1407
+  m_iKilledGuards:1481
+  m_iKilledSamurai:82
+  m_iLastKillingSpreeCount:1
+  m_lLastKillingSpreeTime:!System.Int64|133116850190318950
+  m_lActivityFeedPushAfterToolkitInitialized:~
+ m_sPreviousSaveFile:"C:\Users\86137\AppData\Local\Daedalic Entertainment GmbH\Shadow Tactics Blades of the Shogun\user\gameState_00\quickSave\lvl_final_castle133116857734870962.save"
+ m_bShownConsolePCPatchDialogOnce:True
+ m_bShownSaveWarningDialogOnce:True
+#
+&

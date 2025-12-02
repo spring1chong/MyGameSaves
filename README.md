@@ -1,4 +1,4 @@
-# 游戏存档位置与备份说明
+# 游戏存档位置说明
 
 常见（Windows）存档位置：
 1. Steam（本地）  
@@ -13,6 +13,6 @@
 5. Roaming 配置  
    C:\Users\<用户名>\AppData\Roaming\<游戏名>\
 
-如何查找 AppID：、
+如何查找 AppID：
 - AppID：Steam 商店页面 URL 中的数字，或在 https://steamdb.info/ 搜索游戏名。也可以在游戏属性 -> 更新中查看。
 

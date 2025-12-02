@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\Roaming\Baba_Is_You

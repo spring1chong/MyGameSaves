@@ -1,1 +1,0 @@
-# BlazBlue Continuum Shift Extend

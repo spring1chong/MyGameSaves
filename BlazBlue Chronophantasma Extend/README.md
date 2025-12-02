@@ -1,1 +1,1 @@
-# BlazBlue Chronophantasma Extend
+D:\steam\steamapps\common\BlazBlue Chronophantasma Extend\Save

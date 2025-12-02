@@ -1,1 +1,1 @@
-# Blasphemous
+%USERPROFILE%\AppData\LocalLow\TheGameKitchen\Blasphemous

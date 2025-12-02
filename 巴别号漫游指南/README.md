@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\LocalLow\StarryStarry\Babel

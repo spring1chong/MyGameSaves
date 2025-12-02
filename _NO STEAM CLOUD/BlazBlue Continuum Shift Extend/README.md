@@ -1,0 +1,1 @@
+D:\steam\steamapps\common\BlazBlue Continuum Shift Extend\Save

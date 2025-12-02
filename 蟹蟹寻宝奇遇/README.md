@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\LocalLow\Aggro Crab\AnotherCrabsTreasure

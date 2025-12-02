@@ -1,1 +1,1 @@
-# BlazBlue Centralfiction
+D:\steam\steamapps\common\BlazBlue Centralfiction\Save

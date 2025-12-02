@@ -1,0 +1,25 @@
+{
+  "Player": {
+    "s1p.plr": true,
+    "泰拉钓鱼王.plr": true,
+    "春虫.plr": false
+  },
+  "World": {
+    "a.wld": true,
+    "钓鱼世界.wld": true,
+    "1_4_4_言寺全物品（旅行）.wld": true,
+    "1_4_4_言寺全物品（专家）.wld": true,
+    "1_4_4_言寺全物品（经典）.wld": true,
+    "100%净化.wld": true,
+    "1_4_4_言寺全物品（大师）.wld": true,
+    "Drunk_world.wld": true,
+    "for_the_worthy.wld": true,
+    "not_the_bees.wld": true,
+    "颠倒世界.wld": true,
+    "十周年快乐.wld": true,
+    "天顶.wld": true,
+    "天顶世界.wld": true,
+    "陷阱世界.wld": true,
+    "怀疑的泡泡冰川.wld": false
+  }
+}

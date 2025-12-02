@@ -1,0 +1,13 @@
+add|i|j 0 0 reg0
+label INPUT
+write input reg0 0
+addi 1 reg0 reg0
+sub|i 32 reg0 reg1
+jne|i 0 reg1 INPUT
+
+addi|j 0 0 reg0
+label OUTPUT
+read 0 reg0 output
+addi 1 reg0 reg0
+sub|i 32 reg0 reg1
+jne|i 0 reg1 OUTPUT

@@ -1,0 +1,13 @@
+je 0 0 main
+
+label test
+	addi|j 0 0 output
+	addi|j 0 1 output
+	addi|j 0 2 output
+	addi|j 0 3 output
+	ret 0 0 0
+
+label main
+	call test 0 0
+	addi|j 5 3 output
+	

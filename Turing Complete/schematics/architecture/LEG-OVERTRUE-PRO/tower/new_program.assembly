@@ -1,0 +1,57 @@
+je 0 0 main
+
+label hanoi
+	jne|j reg0 0 recursive
+	# move disk from source to dest
+	addi 0 reg1 output
+	addi|j 0 5 output
+	addi 0 reg2 output
+	addi|j 0 5 output
+	ret 0 0 0
+	
+	label recursive
+	
+	push reg0 0 0
+	push reg1 0 0
+	push reg2 0 0
+	push reg3 0 0
+	push reg4 0 0
+	sub|j reg0 1 reg0#reg0-=1
+	addi 0 reg2 reg4#tmp=reg2
+	addi 0 reg3 reg2#reg2=reg3
+	addi 0 reg4 reg3#reg3=tmp
+	call hanoi 0 0
+	pop 0 0 reg4
+	pop 0 0 reg3
+	pop 0 0 reg2
+	pop 0 0 reg1
+	pop 0 0 reg0
+	# move disk from source to dest
+	addi 0 reg1 output
+	addi|j 0 5 output
+	addi 0 reg2 output
+	addi|j 0 5 output
+	
+	push reg0 0 0
+	push reg1 0 0
+	push reg2 0 0
+	push reg3 0 0
+	push reg4 0 0
+	sub|j reg0 1 reg0#reg0-=1
+	addi 0 reg1 reg4#tmp=reg1
+	addi 0 reg3 reg1#reg1=reg3
+	addi 0 reg4 reg3#reg3=tmp
+	call hanoi 0 0
+	pop 0 0 reg4
+	pop 0 0 reg3
+	pop 0 0 reg2
+	pop 0 0 reg1
+	pop 0 0 reg0
+	ret 0 0 0
+
+label main
+	addi 0 input reg0
+	addi 0 input reg1
+	addi 0 input reg2
+	addi 0 input reg3
+	call hanoi 0 0

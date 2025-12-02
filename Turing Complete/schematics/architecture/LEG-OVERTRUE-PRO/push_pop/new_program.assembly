@@ -1,0 +1,10 @@
+label START
+addi 0 input reg0
+je|i 0 reg0 POP
+# not equal->push
+push reg0 0 0
+je reg0 reg0 START
+# equal->pop
+label POP
+pop 0 0 output
+je|i reg0 reg0 START

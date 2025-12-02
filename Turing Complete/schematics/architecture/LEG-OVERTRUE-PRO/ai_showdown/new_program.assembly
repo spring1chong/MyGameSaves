@@ -1,0 +1,5 @@
+addi|j 3 0 output
+sub|j input 5 reg0
+addi 0 reg0 output
+sub|j input 1 reg0
+addi 0 reg0 output

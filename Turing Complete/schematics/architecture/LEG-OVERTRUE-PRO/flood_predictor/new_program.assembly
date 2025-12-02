@@ -1,0 +1,108 @@
+# 输入长度为16
+const length 16
+addi|j 0 0 reg0
+label INPUT
+addi 0 input reg1
+je|j reg0 length CALC
+write reg1 reg0 0
+addi 1 reg0 reg0
+je 0 0 INPUT
+
+label CALC
+	push reg2 0 0 
+	push reg1 0 0
+	call cmp_left 0 0
+	# pop 0 0 reg1
+	# pop 0 0 reg2
+	# push reg2 0 0 
+	# push reg1 0 0
+	call cmp_right 0 0
+	# pop 0 0 reg1
+	# pop 0 0 reg2
+	# push reg2 0 0 
+	# push reg1 0 0
+	call get_volumn 0 0
+	pop 0 0 reg1
+	pop 0 0 reg2
+	addi 0 reg3 output
+label cmp_left
+	# cur addr(16)->0
+	write|i 0 reg0 0
+	addi 1 reg0 reg0
+	label WRITE_left
+	# reg1->(addr-17)->left's height
+	sub|j reg0 length+1 reg1
+	read 0 reg1 reg1
+	# reg2->(addr-1)->left highest
+	sub|j reg0 1 reg2
+	read 0 reg2 reg2
+	# left's height VS left highest
+	jl reg1 reg2 WHO_IS_HIGHER_left
+	addi 0 reg1 reg2 
+	label WHO_IS_HIGHER_left
+	write reg2 reg0 0
+	
+	addi 1 reg0 reg0
+	jl|j reg0 32 WRITE_left
+	ret 0 0 0
+label cmp_right
+	# cur addr(16)->0
+	addi|j 47 0 reg0
+	write|i 0 reg0 0
+	sub|j reg0 1 reg0
+	label WRITE_right
+	# reg1->(addr-15)->right's height
+	sub|j reg0 2*length-1 reg1
+	read 0 reg1 reg1
+	# reg2->(addr+1)->right highest
+	add|j reg0 1 reg2
+	read 0 reg2 reg2
+	# right's height VS right highest
+	jl reg1 reg2 WHO_IS_HIGHER_right
+	addi 0 reg1 reg2 
+	label WHO_IS_HIGHER_right
+	write reg2 reg0 0
+	
+	sub|j reg0 1 reg0
+	jg|j reg0 31 WRITE_right
+	ret 0 0 0
+label get_volumn
+	# reg3->0(init total volumn)
+	addi|j 0 0 reg3
+	# reg0->0
+	addi|j 0 0 reg0
+	label START
+	# reg1->reg0+16->left highest
+	addi 16 reg0 reg1
+	read 0 reg1 reg1
+	# reg2->reg0+32->right highest
+	addi 32 reg0 reg2
+	read 0 reg2 reg2
+	# reg1->lower highest
+	jl reg1 reg2 GOTTEN_THE_LOWER
+	addi 0 reg2 reg1
+	label GOTTEN_THE_LOWER
+	# reg2->self height
+	read 0 reg0 reg2
+	jg reg1 reg2 GOTTEN_VOLUMN
+	# reg1->volumn=0
+	addi|j 0 0 reg1
+	je 0 0 WRITE_VLOLUMN
+	label GOTTEN_VOLUMN
+	# reg1->volumn
+	sub reg1 reg2 reg1
+	label WRITE_VLOLUMN
+	# reg2->reg0+48
+	addi 48 reg0 reg2
+	write reg1 reg2 0
+	
+	# reg3+=cur volumn
+	add reg1 reg3 reg3
+	
+	addi 1 reg0 reg0
+	jl|j reg0 16 START
+	ret 0 0 0
+	
+	
+	
+	

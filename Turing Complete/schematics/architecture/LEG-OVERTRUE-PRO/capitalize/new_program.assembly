@@ -1,0 +1,15 @@
+sub|j input 32 output
+
+label SCAN
+addi 0 input reg0
+je|j reg0 0 FINISH
+je|j reg0 32 CONVERT
+addi 0 reg0 output
+je 0 0 SCAN
+
+label CONVERT
+addi 0 reg0 output
+sub|j input 32 output
+je 0 0 SCAN
+
+label FINISH

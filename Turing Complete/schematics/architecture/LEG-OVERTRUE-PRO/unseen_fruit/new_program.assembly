@@ -1,0 +1,27 @@
+addi|j 0 0 output
+addi|j 1 0 output
+addi|j 0 0 output
+addi|j 1 0 output
+addi|j 1 0 output
+addi|j 1 0 output
+addi|j 0 0 output
+addi|j 1 0 output
+addi|j 2 0 output
+addi|j 1 0 output
+addi|j 1 0 output
+
+label WAIT
+addi|j 3 0 output
+addi 0 input reg0
+je|j reg0 92 WAIT
+read 0 reg0 reg1
+je|j reg1 1 PRESS
+write|i 1 reg0 0
+je 0 0 WAIT
+label PRESS
+addi|j 2 0 output
+addi|j 4 0 output
+addi|j 0 0 output
+write|i 0 reg0 0
+je 0 0 WAIT
+

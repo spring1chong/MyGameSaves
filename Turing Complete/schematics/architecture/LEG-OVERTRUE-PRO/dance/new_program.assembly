@@ -1,0 +1,20 @@
+#reg0->seed
+addi 0 input reg0
+label START
+#reg1->seed shr 1
+shr|j reg0 1 reg1
+#reg0->tmp1=seed xor seed shr 1
+xor reg0 reg1 reg0
+#reg1->tmp1 shl 1
+shl|j reg0 1 reg1
+#reg0->tmp2=tmp1 xor tmp1 shl 1
+xor reg0 reg1 reg0
+#reg1->tmp2 shr 2
+shr|j reg0 2 reg1
+#reg0->n_seed=tmp2 xor tmp2 shr 2
+xor reg0 reg1 reg0
+#reg1->n_seed
+and|i 3 reg0 reg1
+#output->n_seed
+addi 0 reg1 output
+je 0 0 START

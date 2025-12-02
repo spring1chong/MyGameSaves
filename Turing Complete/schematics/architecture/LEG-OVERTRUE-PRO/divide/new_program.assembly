@@ -1,0 +1,13 @@
+addi 0 input reg1
+addi 0 input reg2
+addi 0 0 reg0
+
+label SUB
+jl reg1 reg2 OUTPUT
+sub reg1 reg2 reg1
+addi 1 reg0 reg0
+je 0 0 SUB
+
+label OUTPUT
+addi 0 reg0 output
+addi 0 reg1 output

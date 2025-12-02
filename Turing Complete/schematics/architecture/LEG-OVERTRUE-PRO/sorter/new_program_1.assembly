@@ -1,0 +1,68 @@
+# 输入长度为15
+const length 15
+addi|j 0 0 reg0
+label INPUT
+addi 0 input reg1
+je|j reg0 length SORT_START
+write reg1 reg0 0
+addi 1 reg0 reg0
+je 0 0 INPUT
+
+# reag 0 address register
+# write register address 0
+label SORT_START
+push reg5 0 0
+push reg3 0 0
+push reg2 0 0
+push reg1 0 0
+push reg0 0 0
+addi 0 reg0 reg5
+addi|j 0 0 reg0
+call SORT 0 0
+pop 0 0 reg0
+pop 0 0 reg1
+pop 0 0 reg2
+pop 0 0 reg3
+pop 0 0 reg5
+je 0 0 FINISH
+
+label SORT
+
+    label READ
+	sub|j reg5 1 reg1
+    je reg0 reg1 RECURSIVE
+    read 0 reg0 reg1
+    addi 1 reg0 reg0
+    read 0 reg0 reg2
+
+    jle reg1 reg2 READ
+    write reg1 reg0 0
+    sub|j reg0 1 reg3
+    write reg2 reg3 0
+    je 0 0 READ
+
+    label RECURSIVE
+    je|j reg5 1 RETURN
+	push reg5 0 0
+	push reg3 0 0
+	push reg2 0 0
+	push reg1 0 0
+	push reg0 0 0
+    sub|j reg5 1 reg5
+    addi|j 0 0 reg0
+    call SORT 0 0
+	pop 0 0 reg0
+	pop 0 0 reg1
+	pop 0 0 reg2
+	pop 0 0 reg3
+	pop 0 0 reg5
+    
+    label RETURN
+    ret 0 0 0
+
+label FINISH
+addi|j 0 0 reg1
+label OUTPUT
+read 0 reg1 output
+addi 1 reg1 reg1
+jl reg1 reg0 OUTPUT

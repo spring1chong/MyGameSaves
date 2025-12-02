@@ -1,0 +1,23 @@
+1
+0to2
+0 # 左转
+0toout
+label moveForward
+1 # 前进
+0toout
+0 # 左转
+0toout
+label ifWall
+into1 # 检测输入
+sub
+turnRight
+je
+4 # 交互
+0toout
+moveForward
+jump
+label turnRight
+2 # 右转
+0toout
+ifWall
+jump

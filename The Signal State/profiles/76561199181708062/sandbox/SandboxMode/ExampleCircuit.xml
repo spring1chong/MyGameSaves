@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SignalStateSaveGame Puzzle="SandboxMode" FormatVersion="1" Timestamp="2022-06-18 02:52:08Z" Playtime="2650.247" UnlockedHintIndex="-1">
+  <Rack RowCount="7">
+    <RackRows>
+      <Row Index="0">
+        <SandboxSourceModule Index="0" Deletable="false" Movable="true" Copyable="false" MoveLocked="false" Resizable="false">
+          <CustomData SyncedPlayback="1" Tempo="120" TempoMultiplier="0.4447621" MasterReverb="0.1293411" />
+        </SandboxSourceModule>
+        <TextBlank Index="6" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" Width="8" Text="Here are some unique things you can do in the Sandbox:&#xA;Row 2: random generative melodies with the Noise module and Synth Voice&#xA;Row 3: pixel animations with the LED Matrix and CV Sequencer&#xA;Row 4: chord progressions with the Chord Voice and CV Sequencer&#xA;Row 5: beats with the Drum Voice and CV Sequencer&#xA;Row 6: melodies with the Synth Voice and CV Sequencer" TextLocKey="Puzzles/SandboxMode/0_6/Text" />
+        <BriefBlank12 Index="52" Deletable="true" Movable="true" Copyable="false" MoveLocked="false" Resizable="false" />
+      </Row>
+      <Row Index="1">
+        <Multiclock Index="0" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <Mult Index="6" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <Mult Index="8" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <Mult Index="10" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <Noise Index="20" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <SampleAndHold Index="22" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <Attenuverter Index="28" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.65" />
+        </Attenuverter>
+        <Bias Index="32" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.6524999" />
+        </Bias>
+        <Quantizer Index="36" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <CustomData keyboard="1,0,0,1,0,0,0,1,0,0,1,0," />
+        </Quantizer>
+        <SynthVoice Index="42" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0" />
+          <Potentiometer Index="1" NormalizedValue="0.2525003" />
+          <Potentiometer Index="2" NormalizedValue="0.2825001" />
+          <Potentiometer Index="3" NormalizedValue="0.8024999" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0" />
+          <CustomData currentSynthProgram="1" />
+        </SynthVoice>
+        <Bias Index="52" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.6624998" />
+        </Bias>
+        <LFO Index="56" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.08666686" />
+        </LFO>
+      </Row>
+      <Row Index="2">
+        <CVSequencer Index="26" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.04761905" />
+          <CustomData lastStepMemoryBanks="3,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64," memoryBanks="1,2,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|" currentProgram="0" />
+        </CVSequencer>
+        <LedMatrix Index="52" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <CustomData currentColourIndex="1" currentMemoryBankIndex="0" ledMatrixMemoryBanks="0:1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,|1:1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0,|2:1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,|3:1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,0,0,|" />
+        </LedMatrix>
+      </Row>
+      <Row Index="3">
+        <CVSequencer Index="2" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.04761905" />
+          <CustomData lastStepMemoryBanks="3,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64," memoryBanks="49,47,40,44,-4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|" currentProgram="0" />
+        </CVSequencer>
+        <CVSequencer Index="28" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.04761905" />
+          <CustomData lastStepMemoryBanks="3,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64," memoryBanks="3,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|" currentProgram="0" />
+        </CVSequencer>
+        <ChordVoice Index="54" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.09749997" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.7699997" />
+          <Potentiometer Index="3" NormalizedValue="0.5" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0" />
+          <CustomData currentSynthProgram="2" />
+        </ChordVoice>
+      </Row>
+      <Row Index="4">
+        <StepSequencer Index="4" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="1" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.2" />
+          <Potentiometer Index="3" NormalizedValue="1" />
+          <CustomData channel0="21845,0,0,0,0,0,0,0," channelLastSteps0="15,15,15,15,15,15,15,15," channelCurrProgram0="0" channel1="50244,0,0,0,0,0,0,0," channelLastSteps1="15,15,15,15,15,15,15,15," channelCurrProgram1="0" channel2="15,0,0,0,0,0,0,0," channelLastSteps2="3,16,16,16,16,16,16,16," channelCurrProgram2="0" channel3="0,0,0,0,0,0,0,0," channelLastSteps3="15,15,15,15,15,15,15,15," channelCurrProgram3="0" />
+        </StepSequencer>
+        <DrumVoice Index="34" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="1" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.5" />
+          <Potentiometer Index="3" NormalizedValue="0.5" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0" />
+          <CustomData currentDrumX="0" currentDrumY="2" />
+        </DrumVoice>
+        <DrumVoice Index="44" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="1" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.5" />
+          <Potentiometer Index="3" NormalizedValue="0.5" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0" />
+          <CustomData currentDrumX="0" currentDrumY="1" />
+        </DrumVoice>
+        <DrumVoice Index="54" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="1" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.5" />
+          <Potentiometer Index="3" NormalizedValue="0.5" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0" />
+          <CustomData currentDrumX="2" currentDrumY="0" />
+        </DrumVoice>
+      </Row>
+      <Row Index="5">
+        <CVSequencer Index="24" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0.2380952" />
+          <CustomData lastStepMemoryBanks="15,64,64,64,64,64,64,64,64,64,64,64,64,64,64,64," memoryBanks="61,0,52,44,0,0,0,0,44,0,47,0,54,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,|" currentProgram="0" />
+        </CVSequencer>
+        <Mult Index="50" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <AND Index="52" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false" />
+        <SynthVoice Index="54" Deletable="true" Movable="true" Copyable="true" MoveLocked="false" Resizable="false">
+          <Potentiometer Index="0" NormalizedValue="0" />
+          <Potentiometer Index="1" NormalizedValue="1" />
+          <Potentiometer Index="2" NormalizedValue="0.4950001" />
+          <Potentiometer Index="3" NormalizedValue="0.5" />
+          <Potentiometer Index="4" NormalizedValue="1" />
+          <Potentiometer Index="5" NormalizedValue="0" />
+          <Potentiometer Index="6" NormalizedValue="0" />
+          <Potentiometer Index="7" NormalizedValue="0.0575" />
+          <CustomData currentSynthProgram="2" />
+        </SynthVoice>
+      </Row>
+      <Row Index="6" />
+    </RackRows>
+    <Cables>
+      <Cable Color="96E5FF26" RowIndex1="1" RowContainerIndex1="4" InterfacesIndex1="1" RowIndex2="1" RowContainerIndex2="5" InterfacesIndex2="0" />
+      <Cable Color="E0E0E026" RowIndex1="1" RowContainerIndex1="7" InterfacesIndex1="0" RowIndex2="1" RowContainerIndex2="6" InterfacesIndex2="1" />
+      <Cable Color="E0E0E026" RowIndex1="1" RowContainerIndex1="7" InterfacesIndex1="1" RowIndex2="1" RowContainerIndex2="8" InterfacesIndex2="0" />
+      <Cable Color="42C0BE26" RowIndex1="1" RowContainerIndex1="9" InterfacesIndex1="2" RowIndex2="1" RowContainerIndex2="8" InterfacesIndex2="1" />
+      <Cable Color="42C0BE26" RowIndex1="1" RowContainerIndex1="2" InterfacesIndex1="0" RowIndex2="1" RowContainerIndex2="0" InterfacesIndex2="2" />
+      <Cable Color="8D583D26" RowIndex1="1" RowContainerIndex1="0" InterfacesIndex1="6" RowIndex2="2" RowContainerIndex2="0" InterfacesIndex2="2" />
+      <Cable Color="E3C32426" RowIndex1="2" RowContainerIndex1="0" InterfacesIndex1="3" RowIndex2="2" RowContainerIndex2="1" InterfacesIndex2="0" />
+      <Cable Color="619FC426" RowIndex1="1" RowContainerIndex1="0" InterfacesIndex1="8" RowIndex2="1" RowContainerIndex2="1" InterfacesIndex2="0" />
+      <Cable Color="B63C3C26" RowIndex1="3" RowContainerIndex1="0" InterfacesIndex1="3" RowIndex2="3" RowContainerIndex2="2" InterfacesIndex2="2" />
+      <Cable Color="F8E3E326" RowIndex1="3" RowContainerIndex1="2" InterfacesIndex1="11" RowIndex2="3" RowContainerIndex2="1" InterfacesIndex2="3" />
+      <Cable Color="24E3E026" RowIndex1="1" RowContainerIndex1="1" InterfacesIndex1="1" RowIndex2="3" RowContainerIndex2="2" InterfacesIndex2="1" />
+      <Cable Color="30835226" RowIndex1="3" RowContainerIndex1="0" InterfacesIndex1="2" RowIndex2="1" RowContainerIndex2="1" InterfacesIndex2="2" />
+      <Cable Color="2E3D4D26" RowIndex1="1" RowContainerIndex1="1" InterfacesIndex1="3" RowIndex2="3" RowContainerIndex2="1" InterfacesIndex2="2" />
+      <Cable Color="E3C32426" RowIndex1="4" RowContainerIndex1="0" InterfacesIndex1="3" RowIndex2="4" RowContainerIndex2="3" InterfacesIndex2="10" />
+      <Cable Color="22562426" RowIndex1="4" RowContainerIndex1="0" InterfacesIndex1="0" RowIndex2="1" RowContainerIndex2="3" InterfacesIndex2="1" />
+      <Cable Color="B63C3C26" RowIndex1="1" RowContainerIndex1="5" InterfacesIndex1="2" RowIndex2="1" RowContainerIndex2="6" InterfacesIndex2="0" />
+      <Cable Color="FFC15B26" RowIndex1="1" RowContainerIndex1="2" InterfacesIndex1="1" RowIndex2="1" RowContainerIndex2="9" InterfacesIndex2="1" />
+      <Cable Color="B63C3C26" RowIndex1="1" RowContainerIndex1="2" InterfacesIndex1="2" RowIndex2="1" RowContainerIndex2="5" InterfacesIndex2="1" />
+      <Cable Color="30835226" RowIndex1="4" RowContainerIndex1="2" InterfacesIndex1="10" RowIndex2="4" RowContainerIndex2="0" InterfacesIndex2="6" />
+      <Cable Color="C6939326" RowIndex1="1" RowContainerIndex1="11" InterfacesIndex1="4" RowIndex2="1" RowContainerIndex2="10" InterfacesIndex2="0" />
+      <Cable Color="2E3D4D26" RowIndex1="5" RowContainerIndex1="1" InterfacesIndex1="1" RowIndex2="5" RowContainerIndex2="3" InterfacesIndex2="2" />
+      <Cable Color="44628026" RowIndex1="5" RowContainerIndex1="1" InterfacesIndex1="0" RowIndex2="5" RowContainerIndex2="0" InterfacesIndex2="3" />
+      <Cable Color="2A504F26" RowIndex1="5" RowContainerIndex1="2" InterfacesIndex1="0" RowIndex2="5" RowContainerIndex2="1" InterfacesIndex2="2" />
+      <Cable Color="36B55F26" RowIndex1="5" RowContainerIndex1="2" InterfacesIndex1="2" RowIndex2="5" RowContainerIndex2="3" InterfacesIndex2="1" />
+      <Cable Color="36B55F26" RowIndex1="5" RowContainerIndex1="0" InterfacesIndex1="2" RowIndex2="1" RowContainerIndex2="3" InterfacesIndex2="2" />
+      <Cable Color="22562426" RowIndex1="1" RowContainerIndex1="3" InterfacesIndex1="0" RowIndex2="1" RowContainerIndex2="0" InterfacesIndex2="0" />
+      <Cable Color="8D583D26" RowIndex1="1" RowContainerIndex1="10" InterfacesIndex1="1" RowIndex2="1" RowContainerIndex2="9" InterfacesIndex2="7" />
+      <Cable Color="F8E3E326" RowIndex1="4" RowContainerIndex1="1" InterfacesIndex1="10" RowIndex2="4" RowContainerIndex2="0" InterfacesIndex2="9" />
+      <Cable Color="C6939326" RowIndex1="1" RowContainerIndex1="3" InterfacesIndex1="4" RowIndex2="5" RowContainerIndex2="2" InterfacesIndex2="1" />
+    </Cables>
+  </Rack>
+</SignalStateSaveGame>

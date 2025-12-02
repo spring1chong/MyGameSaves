@@ -1,0 +1,21 @@
+1
+0to2
+sub # 3:-1
+3to1 # 1:-1
+into2 # 2:in_1
+sub # 3:~in_1
+3to5 # 5:~in_1
+2to4 # 4:in_1
+into2 # 2:in_2
+sub # 3:~in_2；释放1号寄存器
+5to1 # 1:~in_1
+3to5 # 5:~in_2
+and # 3:~in_1&in_2
+3to0 # 0:~in_1&in_2
+4to1 # 1:in_1
+5to2 # 2:~in_2
+and # 3:in_1&~in_2
+0to1 # 1:~in_1&in_2
+3to2 # 2:in_1&~in_2
+or # ~in_1&in_2 | in_1&~in_2
+3toout

@@ -1,0 +1,36 @@
+<Stats deaths="56" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="16" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="5" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 酸液 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：冰冷蒸汽" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：酸液" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="17" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+  </kill_map>
+</Stats>

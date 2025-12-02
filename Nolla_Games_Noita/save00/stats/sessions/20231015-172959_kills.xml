@@ -1,0 +1,20 @@
+<Stats deaths="0" kills="18" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="friend_fly" value="1" >
+    </E>
+    <E key="sheep" value="2" >
+    </E>
+    <E key="sheep_bat" value="3" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+    <E key="swarm_firebug" value="4" >
+    </E>
+    <E key="swarm_fly" value="5" >
+    </E>
+    <E key="swarm_wasp" value="2" >
+    </E>
+  </kill_map>
+</Stats>

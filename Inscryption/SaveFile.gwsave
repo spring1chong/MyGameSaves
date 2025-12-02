@@ -1,0 +1,3719 @@
+{
+    "$id": 0,
+    "$type": "0|SaveFile, Assembly-CSharp",
+    "randomSeed": 359623171,
+    "currentScene": "Part3_Cabin",
+    "playTime": 8104.13232,
+    "storyEvents": {
+        "$id": 1,
+        "$type": "1|DiskCardGame.StoryEventsData, Assembly-CSharp",
+        "completedEvents": {
+            "$id": 2,
+            "$type": "2|System.Collections.Generic.List`1[[DiskCardGame.StoryEvent, Assembly-CSharp]], mscorlib",
+            "$rlength": 38,
+            "$rcontent": [
+                40,
+                48,
+                33,
+                43,
+                44,
+                45,
+                34,
+                35,
+                36,
+                37,
+                24,
+                47,
+                38,
+                6,
+                19,
+                29,
+                60,
+                64,
+                4,
+                5,
+                27,
+                28,
+                0,
+                1,
+                3,
+                59,
+                66,
+                162,
+                126,
+                81,
+                73,
+                82,
+                67,
+                68,
+                74,
+                53,
+                49,
+                138
+            ]
+        }
+    },
+    "dialogueData": {
+        "$id": 3,
+        "$type": "3|DiskCardGame.DialogueEventsData, Assembly-CSharp",
+        "eventData": {
+            "$id": 4,
+            "$type": "4|System.Collections.Generic.List`1[[DiskCardGame.DialogueEventsData+EventSaveData, Assembly-CSharp]], mscorlib",
+            "$rlength": 44,
+            "$rcontent": [
+                {
+                    "$id": 5,
+                    "$type": "5|DiskCardGame.DialogueEventsData+EventSaveData, Assembly-CSharp",
+                    "eventId": "Part3Intro1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 6,
+                    "$type": 5,
+                    "eventId": "Part3Intro2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 7,
+                    "$type": 5,
+                    "eventId": "HoloAreaIntro1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 8,
+                    "$type": 5,
+                    "eventId": "Part3FirstBattle1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 9,
+                    "$type": 5,
+                    "eventId": "HoloAreaIntro2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 10,
+                    "$type": 5,
+                    "eventId": "HoloAreaIntro3",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 11,
+                    "$type": 5,
+                    "eventId": "UnlockItemTutorial",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 12,
+                    "$type": 5,
+                    "eventId": "Hint_AllSlotsFull",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 13,
+                    "$type": 5,
+                    "eventId": "HoloAreaIntro4",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 14,
+                    "$type": 5,
+                    "eventId": "HoloAreaIntro5",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 15,
+                    "$type": 5,
+                    "eventId": "HoloMapReachedCheckpointFirstTime",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 16,
+                    "$type": 5,
+                    "eventId": "HoloMapReachedCheckpoint",
+                    "repeatCount": 4
+                },
+                {
+                    "$id": 17,
+                    "$type": 5,
+                    "eventId": "HoloAreaEast1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 18,
+                    "$type": 5,
+                    "eventId": "HoloAreaEast2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 19,
+                    "$type": 5,
+                    "eventId": "TutorialBounty",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 20,
+                    "$type": 5,
+                    "eventId": "HoloMapPowerOut",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 21,
+                    "$type": 5,
+                    "eventId": "FactoryFetchBattery1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 22,
+                    "$type": 5,
+                    "eventId": "FactoryFetchBattery2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 23,
+                    "$type": 5,
+                    "eventId": "FactoryFetchBattery3",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 24,
+                    "$type": 5,
+                    "eventId": "FactoryFetchBattery4",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 25,
+                    "$type": 5,
+                    "eventId": "FactoryFetchBattery5",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 26,
+                    "$type": 5,
+                    "eventId": "HoloAreaUndead1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 27,
+                    "$type": 5,
+                    "eventId": "TradeCards1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 28,
+                    "$type": 5,
+                    "eventId": "TradeCards2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 29,
+                    "$type": 5,
+                    "eventId": "TutorialBountyTiers",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 30,
+                    "$type": 5,
+                    "eventId": "HoloAreaUndeadTemple1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 31,
+                    "$type": 5,
+                    "eventId": "HoloMapLibrariansQuill",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 32,
+                    "$type": 5,
+                    "eventId": "HoloAreaUndeadTempleBoss",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 33,
+                    "$type": 5,
+                    "eventId": "ArchivistPreIntro",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 34,
+                    "$type": 5,
+                    "eventId": "ArchivistIntro",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 35,
+                    "$type": 5,
+                    "eventId": "ArchivistAskForAccess",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 36,
+                    "$type": 5,
+                    "eventId": "ArchivistChooseDamageFile",
+                    "repeatCount": 3
+                },
+                {
+                    "$id": 37,
+                    "$type": 5,
+                    "eventId": "ArchivistFileSize1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 38,
+                    "$type": 5,
+                    "eventId": "ArchivistFileSize3",
+                    "repeatCount": 2
+                },
+                {
+                    "$id": 39,
+                    "$type": 5,
+                    "eventId": "ArchivistChooseHostageFile",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 40,
+                    "$type": 5,
+                    "eventId": "ArchivistPickedHostage",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 41,
+                    "$type": 5,
+                    "eventId": "ArchivistHostagePower1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 42,
+                    "$type": 5,
+                    "eventId": "Hint_PlayDuringDrawPhase",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 43,
+                    "$type": 5,
+                    "eventId": "ArchivistFileDeleted",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 44,
+                    "$type": 5,
+                    "eventId": "ArchivistPostDefeated",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 45,
+                    "$type": 5,
+                    "eventId": "TutorialModifySideDeck1",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 46,
+                    "$type": 5,
+                    "eventId": "TutorialModifySideDeck2",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 47,
+                    "$type": 5,
+                    "eventId": "TutorialModifySideDeck3",
+                    "repeatCount": 1
+                },
+                {
+                    "$id": 48,
+                    "$type": 5,
+                    "eventId": "ArchivistPlayerDeletedFile",
+                    "repeatCount": 1
+                }
+            ]
+        }
+    },
+    "progressionData": {
+        "$id": 49,
+        "$type": "6|DiskCardGame.ProgressionData, Assembly-CSharp",
+        "learnedAbilities": {
+            "$id": 50,
+            "$type": "7|System.Collections.Generic.List`1[[DiskCardGame.Ability, Assembly-CSharp]], mscorlib",
+            "$rlength": 43,
+            "$rcontent": [
+                19,
+                105,
+                35,
+                21,
+                89,
+                33,
+                2,
+                34,
+                11,
+                75,
+                6,
+                4,
+                83,
+                17,
+                9,
+                14,
+                1,
+                5,
+                18,
+                26,
+                12,
+                31,
+                29,
+                23,
+                20,
+                15,
+                24,
+                32,
+                30,
+                3,
+                16,
+                13,
+                10,
+                22,
+                25,
+                7,
+                8,
+                76,
+                53,
+                54,
+                52,
+                51,
+                62
+            ]
+        },
+        "learnedMechanics": {
+            "$id": 51,
+            "$type": "8|System.Collections.Generic.List`1[[DiskCardGame.MechanicsConcept, Assembly-CSharp]], mscorlib",
+            "$rlength": 33,
+            "$rcontent": [
+                1,
+                2,
+                4,
+                27,
+                11,
+                36,
+                35,
+                28,
+                29,
+                30,
+                0,
+                3,
+                13,
+                9,
+                17,
+                18,
+                16,
+                53,
+                6,
+                5,
+                7,
+                14,
+                12,
+                8,
+                26,
+                33,
+                24,
+                38,
+                37,
+                49,
+                62,
+                50,
+                48
+            ]
+        },
+        "learnedCards": {
+            "$id": 52,
+            "$type": "9|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+            "$rlength": 16,
+            "$rcontent": [
+                "BatteryBot",
+                "Sniper",
+                "Shieldbot",
+                "MineCart",
+                "CloserBot",
+                "BrokenBot",
+                "EmptyVessel",
+                "Bombbot",
+                "BridgeRailing",
+                "AlarmBot",
+                "DeadTree",
+                "TombStone",
+                "Librarian",
+                "CaptiveFile",
+                "RoboSkeleton",
+                "LatcherBrittle"
+            ]
+        },
+        "introducedCards": {
+            "$id": 53,
+            "$type": 9,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "introducedConsumables": {
+            "$id": 54,
+            "$type": 9,
+            "$rlength": 2,
+            "$rcontent": [
+                "SquirrelBottle",
+                "Pliers"
+            ]
+        }
+    },
+    "currentRun": {
+        "$id": 55,
+        "$type": "10|DiskCardGame.RunState, Assembly-CSharp",
+        "playerDeck": {
+            "$id": 56,
+            "$type": "11|DiskCardGame.DeckInfo, Assembly-CSharp",
+            "cardIds": {
+                "$id": 57,
+                "$type": 9,
+                "$rlength": 4,
+                "$rcontent": [
+                    "Wolf",
+                    "Stinkbug_Talking",
+                    "Stoat_Talking",
+                    "Bullfrog"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 58,
+                "$type": "12|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[DiskCardGame.CardModificationInfo, Assembly-CSharp]], mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 59,
+                    "$type": "13|System.Collections.Generic.InternalStringComparer, mscorlib"
+                },
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": "Wolf",
+                        "$v": {
+                            "$id": 60,
+                            "$type": "14|System.Collections.Generic.List`1[[DiskCardGame.CardModificationInfo, Assembly-CSharp]], mscorlib",
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Stinkbug_Talking",
+                        "$v": {
+                            "$id": 61,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Stoat_Talking",
+                        "$v": {
+                            "$id": 62,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Bullfrog",
+                        "$v": {
+                            "$id": 63,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "totems": {
+            "$id": 64,
+            "$type": "15|System.Collections.Generic.List`1[[DiskCardGame.TotemDefinition, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "totemTops": {
+            "$id": 65,
+            "$type": "16|System.Collections.Generic.List`1[[DiskCardGame.Tribe, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "totemBottoms": {
+            "$id": 66,
+            "$type": 7,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "consumables": {
+            "$id": 67,
+            "$type": 9,
+            "$rlength": 2,
+            "$rcontent": [
+                "SquirrelBottle",
+                "Pliers"
+            ]
+        },
+        "currency": 4,
+        "playerLives": 2,
+        "maxPlayerLives": 2,
+        "storyEventsCompleted": {
+            "$id": 68,
+            "$type": 2,
+            "$rlength": 11,
+            "$rcontent": [
+                162,
+                126,
+                81,
+                73,
+                82,
+                67,
+                68,
+                74,
+                53,
+                49,
+                138
+            ]
+        },
+        "eyeState": 0,
+        "runIntroCompleted": false,
+        "leshyBossBattle": false,
+        "riggedDraws": {
+            "$id": 69,
+            "$type": 9,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "bonelordPuzzleActive": false,
+        "skullTeeth": 2,
+        "survivorsDead": false,
+        "trapperKnifeBought": false,
+        "map": null,
+        "currentNodeId": 999,
+        "regionTier": 0,
+        "regionOrder": {
+            "$id": 70,
+            "$type": "17|System.Int32[], mscorlib",
+            "$plength": 3,
+            "$pcontent": [
+                0,
+                1,
+                2
+            ]
+        },
+        "playerAvatarHead": 0,
+        "playerAvatarArms": 1,
+        "playerAvatarBody": 5,
+        "causeOfDeath": null,
+        "gaveUp": false,
+        "completed": false,
+        "deathcardName": null
+    },
+    "pastRuns": {
+        "$id": 71,
+        "$type": "18|System.Collections.Generic.List`1[[DiskCardGame.RunState, Assembly-CSharp]], mscorlib",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "deathCardMods": {
+        "$id": 72,
+        "$type": 14,
+        "$rlength": 4,
+        "$rcontent": [
+            {
+                "$id": 73,
+                "$type": "19|DiskCardGame.CardModificationInfo, Assembly-CSharp",
+                "singletonId": null,
+                "nameReplacement": "Reginald",
+                "attackAdjustment": 1,
+                "healthAdjustment": 3,
+                "abilities": {
+                    "$id": 74,
+                    "$type": 7,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        4
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 75,
+                    "$type": 7,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 0,
+                "bonesCostAdjustment": 3,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 76,
+                    "$type": "20|System.Collections.Generic.List`1[[DiskCardGame.GemType, Assembly-CSharp]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 77,
+                    "$type": "21|System.Collections.Generic.List`1[[DiskCardGame.SpecialTriggeredAbility, Assembly-CSharp]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "fromEvolve": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 78,
+                    "$type": "22|DiskCardGame.DeathCardInfo, Assembly-CSharp",
+                    "headType": 0,
+                    "mouthIndex": 5,
+                    "eyesIndex": 2,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 79,
+                "$type": 19,
+                "singletonId": null,
+                "nameReplacement": "Kaycee",
+                "attackAdjustment": 1,
+                "healthAdjustment": 2,
+                "abilities": {
+                    "$id": 80,
+                    "$type": 7,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        24,
+                        15
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 81,
+                    "$type": 7,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 1,
+                "bonesCostAdjustment": 0,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 82,
+                    "$type": 20,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 83,
+                    "$type": 21,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "fromEvolve": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 84,
+                    "$type": 22,
+                    "headType": 3,
+                    "mouthIndex": 1,
+                    "eyesIndex": 4,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 85,
+                "$type": 19,
+                "singletonId": null,
+                "nameReplacement": "Louis",
+                "attackAdjustment": 1,
+                "healthAdjustment": 1,
+                "abilities": {
+                    "$id": 86,
+                    "$type": 7,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        3,
+                        13
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 87,
+                    "$type": 7,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 1,
+                "bonesCostAdjustment": 0,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 88,
+                    "$type": 20,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 89,
+                    "$type": 21,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "fromEvolve": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 90,
+                    "$type": 22,
+                    "headType": 2,
+                    "mouthIndex": 2,
+                    "eyesIndex": 0,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 91,
+                "$type": 19,
+                "singletonId": null,
+                "nameReplacement": "Kaminski",
+                "attackAdjustment": 0,
+                "healthAdjustment": 1,
+                "abilities": {
+                    "$id": 92,
+                    "$type": 7,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        18,
+                        15
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 93,
+                    "$type": 7,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 0,
+                "bonesCostAdjustment": 1,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 94,
+                    "$type": 20,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 95,
+                    "$type": 21,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "fromEvolve": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 96,
+                    "$type": 22,
+                    "headType": 1,
+                    "mouthIndex": 3,
+                    "eyesIndex": 1,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            }
+        ]
+    },
+    "wallCandlesProgress": 0,
+    "oilPaintingState": {
+        "$id": 97,
+        "$type": "23|DiskCardGame.OilPaintingPuzzle+SaveState, Assembly-CSharp",
+        "isAscension": false,
+        "puzzleSolution": {
+            "$id": 98,
+            "$type": 9,
+            "$rlength": 4,
+            "$rcontent": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "puzzleSolved": false,
+        "rewardIndex": 0,
+        "rewardTaken": false
+    },
+    "sliderTrackStates": {
+        "$id": 99,
+        "$type": "24|System.Collections.Generic.List`1[[DiskCardGame.SliderPuzzleTrack+SaveState, Assembly-CSharp]], mscorlib",
+        "$rlength": 24,
+        "$rcontent": [
+            {
+                "$id": 100,
+                "$type": "25|DiskCardGame.SliderPuzzleTrack+SaveState, Assembly-CSharp",
+                "id": "Part3_Cabin_23",
+                "sliderPositions": {
+                    "$id": 101,
+                    "$type": "26|System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 102,
+                "$type": 25,
+                "id": "Part3_Cabin_21",
+                "sliderPositions": {
+                    "$id": 103,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 104,
+                "$type": 25,
+                "id": "Part3_Cabin_24",
+                "sliderPositions": {
+                    "$id": 105,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 106,
+                "$type": 25,
+                "id": "Part3_Cabin_22",
+                "sliderPositions": {
+                    "$id": 107,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 108,
+                "$type": 25,
+                "id": "Part3_Cabin_13",
+                "sliderPositions": {
+                    "$id": 109,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        2,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 110,
+                "$type": 25,
+                "id": "Part3_Cabin_14",
+                "sliderPositions": {
+                    "$id": 111,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        2,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 112,
+                "$type": 25,
+                "id": "Part3_Cabin_11",
+                "sliderPositions": {
+                    "$id": 113,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 114,
+                "$type": 25,
+                "id": "Part3_Cabin_12",
+                "sliderPositions": {
+                    "$id": 115,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 116,
+                "$type": 25,
+                "id": "Part1_Cabin_12",
+                "sliderPositions": {
+                    "$id": 117,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 118,
+                "$type": 25,
+                "id": "Part1_Cabin_31",
+                "sliderPositions": {
+                    "$id": 119,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 120,
+                "$type": 25,
+                "id": "Part1_Cabin_43",
+                "sliderPositions": {
+                    "$id": 121,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 122,
+                "$type": 25,
+                "id": "Part1_Cabin_233",
+                "sliderPositions": {
+                    "$id": 123,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        0,
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 124,
+                "$type": 25,
+                "id": "Part1_Cabin_14",
+                "sliderPositions": {
+                    "$id": 125,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 126,
+                "$type": 25,
+                "id": "Part1_Cabin_11",
+                "sliderPositions": {
+                    "$id": 127,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        0
+                    ]
+                }
+            },
+            {
+                "$id": 128,
+                "$type": 25,
+                "id": "Part1_Cabin_34",
+                "sliderPositions": {
+                    "$id": 129,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 130,
+                "$type": 25,
+                "id": "Part1_Cabin_32",
+                "sliderPositions": {
+                    "$id": 131,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 132,
+                "$type": 25,
+                "id": "Part1_Cabin_21",
+                "sliderPositions": {
+                    "$id": 133,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 134,
+                "$type": 25,
+                "id": "Part1_Cabin_41",
+                "sliderPositions": {
+                    "$id": 135,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        3
+                    ]
+                }
+            },
+            {
+                "$id": 136,
+                "$type": 25,
+                "id": "Part1_Cabin_33",
+                "sliderPositions": {
+                    "$id": 137,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 138,
+                "$type": 25,
+                "id": "Part1_Cabin_44",
+                "sliderPositions": {
+                    "$id": 139,
+                    "$type": 26,
+                    "$rlength": 3,
+                    "$rcontent": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 140,
+                "$type": 25,
+                "id": "Part1_Cabin_244",
+                "sliderPositions": {
+                    "$id": 141,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 142,
+                "$type": 25,
+                "id": "Part1_Cabin_13",
+                "sliderPositions": {
+                    "$id": 143,
+                    "$type": 26,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        1
+                    ]
+                }
+            },
+            {
+                "$id": 144,
+                "$type": 25,
+                "id": "Part1_Cabin_42",
+                "sliderPositions": {
+                    "$id": 145,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        2
+                    ]
+                }
+            },
+            {
+                "$id": 146,
+                "$type": 25,
+                "id": "Part1_Cabin_22",
+                "sliderPositions": {
+                    "$id": 147,
+                    "$type": 26,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        1,
+                        2
+                    ]
+                }
+            }
+        ]
+    },
+    "gbcData": {
+        "$id": 148,
+        "$type": "27|GBC.SaveData, Assembly-CSharp",
+        "deck": {
+            "$id": 149,
+            "$type": 11,
+            "cardIds": {
+                "$id": 150,
+                "$type": 9,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 151,
+                "$type": 12,
+                "comparer": $iref:59,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "collection": {
+            "$id": 152,
+            "$type": "28|DiskCardGame.CardCollectionInfo, Assembly-CSharp",
+            "cardIds": {
+                "$id": 153,
+                "$type": 9,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "cardsViewedInCollection": {
+            "$id": 154,
+            "$type": 9,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currency": 0,
+        "packsOpened": 0,
+        "npcAttempts": 0,
+        "fusedCardsIndex": 0,
+        "tentacleIndex": 0,
+        "overworldNode": null,
+        "overworldScene": "GBC_WorldMap",
+        "overworldIndoorPosition": {
+            "$type": "29|UnityEngine.Vector2, UnityEngine.CoreModule",
+            0,
+            0
+        },
+        "overworldIndoorLookDirection": 0,
+        "objectStates": {
+            "$id": 155,
+            "$type": "30|System.Collections.Generic.List`1[[GBC.SaveData+ObjectStateData, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "playerAvatarHead": 4,
+        "playerAvatarArms": 3,
+        "playerAvatarBody": 3,
+        "undeadTemple": {
+            "$id": 156,
+            "$type": "31|GBC.UndeadTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 157,
+                "$type": "32|GBC.TempleSaveData+ShopInventoryState, Assembly-CSharp",
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 29,
+                0,
+                0
+            },
+            "roomId": null,
+            "epitaphPieces": {
+                "$id": 158,
+                "$type": "33|System.Collections.Generic.List`1[[GBC.UndeadTempleSaveData+EpitaphPieceState, Assembly-CSharp]], mscorlib",
+                "$rlength": 9,
+                "$rcontent": [
+                    {
+                        "$id": 159,
+                        "$type": "34|GBC.UndeadTempleSaveData+EpitaphPieceState, Assembly-CSharp",
+                        "index": 0,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 160,
+                        "$type": 34,
+                        "index": 1,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 161,
+                        "$type": 34,
+                        "index": 2,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 162,
+                        "$type": 34,
+                        "index": 3,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 163,
+                        "$type": 34,
+                        "index": 4,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 164,
+                        "$type": 34,
+                        "index": 5,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 165,
+                        "$type": 34,
+                        "index": 6,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 166,
+                        "$type": 34,
+                        "index": 7,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 167,
+                        "$type": 34,
+                        "index": 8,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    }
+                ]
+            }
+        },
+        "natureTemple": {
+            "$id": 168,
+            "$type": "35|GBC.NatureTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 169,
+                "$type": 32,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 29,
+                0,
+                0
+            },
+            "roomId": null,
+            "hasCamera": false,
+            "hookedShark": false,
+            "trappedRabbit": false,
+            "trapPosition": {
+                "$type": 29,
+                0,
+                0
+            },
+            "trapperHeadTurned": false,
+            "safeState": {
+                "$id": 170,
+                "$type": "36|GBC.TempleSaveData+SlidersSaveState, Assembly-CSharp",
+                "index": 0,
+                "sliderPositions": {
+                    "$id": 171,
+                    "$type": 17,
+                    "$plength": 3,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        },
+        "wizardTemple": {
+            "$id": 172,
+            "$type": "37|GBC.WizardTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 173,
+                "$type": 32,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 29,
+                0,
+                0
+            },
+            "roomId": null,
+            "pedestals": {
+                "$id": 174,
+                "$type": "38|System.Collections.Generic.List`1[[GBC.TempleSaveData+SlidersSaveState, Assembly-CSharp]], mscorlib",
+                "$rlength": 3,
+                "$rcontent": [
+                    {
+                        "$id": 175,
+                        "$type": 36,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 176,
+                            "$type": 17,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "$id": 177,
+                        "$type": 36,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 178,
+                            "$type": 17,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "$id": 179,
+                        "$type": 36,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 180,
+                            "$type": 17,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "techTemple": {
+            "$id": 181,
+            "$type": "39|GBC.TechTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 182,
+                "$type": 32,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 29,
+                0,
+                0
+            },
+            "roomId": null
+        }
+    },
+    "part3Data": {
+        "$id": 183,
+        "$type": "40|DiskCardGame.Part3SaveData, Assembly-CSharp",
+        "deck": {
+            "$id": 184,
+            "$type": 11,
+            "cardIds": {
+                "$id": 185,
+                "$type": 9,
+                "$rlength": 4,
+                "$rcontent": [
+                    "Shieldbot",
+                    "Sniper",
+                    "CloserBot",
+                    "Bombbot"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 186,
+                "$type": 12,
+                "comparer": $iref:59,
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": "Shieldbot",
+                        "$v": {
+                            "$id": 187,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Sniper",
+                        "$v": {
+                            "$id": 188,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "CloserBot",
+                        "$v": {
+                            "$id": 189,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Bombbot",
+                        "$v": {
+                            "$id": 190,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "riggedDraws": {
+            "$id": 191,
+            "$type": 9,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currency": 13,
+        "shopNodeCostModifier": 0,
+        "deckGemsDistribution": {
+            "$id": 192,
+            "$type": 17,
+            "$plength": 3,
+            "$pcontent": [
+                3,
+                3,
+                4
+            ]
+        },
+        "sideDeckAbilities": {
+            "$id": 193,
+            "$type": 7,
+            "$rlength": 1,
+            "$rcontent": [
+                23
+            ]
+        },
+        "playerLives": 1,
+        "playerMaxLives": 1,
+        "items": {
+            "$id": 194,
+            "$type": 9,
+            "$rlength": 1,
+            "$rcontent": [
+                "Battery"
+            ]
+        },
+        "unlockedItems": {
+            "$id": 195,
+            "$type": "41|System.Collections.Generic.List`1[[DiskCardGame.Part3SaveData+ItemUnlock, Assembly-CSharp]], mscorlib",
+            "$rlength": 1,
+            "$rcontent": [
+                0
+            ]
+        },
+        "areaData": {
+            "$id": 196,
+            "$type": "42|System.Collections.Generic.List`1[[DiskCardGame.Part3SaveData+MapAreaStateData, Assembly-CSharp]], mscorlib",
+            "$rlength": 32,
+            "$rcontent": [
+                {
+                    "$id": 197,
+                    "$type": "43|DiskCardGame.Part3SaveData+MapAreaStateData, Assembly-CSharp",
+                    "id": "HoloMapArea_StartingIslandTablets(Clone)(2,0)",
+                    "clearedDirections": {
+                        "$id": 198,
+                        "$type": "44|System.Collections.Generic.List`1[[LookDirection, Assembly-CSharp]], mscorlib",
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 199,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 200,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "StartingArea",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 201,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandStraight(Clone)(2,1)",
+                    "clearedDirections": {
+                        "$id": 202,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 203,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 204,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 205,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandJunction(Clone)(2,2)",
+                    "clearedDirections": {
+                        "$id": 206,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 207,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 208,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 209,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandRight_1(Clone)(3,2)",
+                    "clearedDirections": {
+                        "$id": 210,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 211,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 212,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 213,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandBattery(Clone)(3,3)",
+                    "clearedDirections": {
+                        "$id": 214,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 215,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 216,
+                        "$type": 26,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            333
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 217,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandRight_2(Clone)(3,4)",
+                    "clearedDirections": {
+                        "$id": 218,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 219,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 220,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 221,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandEnterBridge(Clone)(2,4)",
+                    "clearedDirections": {
+                        "$id": 222,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 223,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 224,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 225,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandBridge(Clone)(2,5)",
+                    "clearedDirections": {
+                        "$id": 226,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 227,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 228,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 229,
+                    "$type": 43,
+                    "id": "HoloMapArea_Bridge_Battle(Clone)(2,6)",
+                    "clearedDirections": {
+                        "$id": 230,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 231,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 232,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 233,
+                    "$type": 43,
+                    "id": "HoloMapArea_StartingIslandWaypoint(Clone)(2,7)",
+                    "clearedDirections": {
+                        "$id": 234,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 235,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 236,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 237,
+                    "$type": 43,
+                    "id": "HoloMapArea_Center(Clone)(2,8)",
+                    "clearedDirections": {
+                        "$id": 238,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 239,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 240,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "NorthNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 241,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_1(Clone)(1,2)",
+                    "clearedDirections": {
+                        "$id": 242,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 243,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 244,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 245,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_2(Clone)(2,2)",
+                    "clearedDirections": {
+                        "$id": 246,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 247,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 248,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 249,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_3(Clone)(3,2)",
+                    "clearedDirections": {
+                        "$id": 250,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 251,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 252,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 253,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_4(Clone)(4,2)",
+                    "clearedDirections": {
+                        "$id": 254,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 255,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 256,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 257,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_5(Clone)(5,2)",
+                    "clearedDirections": {
+                        "$id": 258,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 259,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 260,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 261,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_6(Clone)(6,2)",
+                    "clearedDirections": {
+                        "$id": 262,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 263,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 264,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 265,
+                    "$type": 43,
+                    "id": "HoloMapArea_NeutralEastMain_7(Clone)(7,2)",
+                    "clearedDirections": {
+                        "$id": 266,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 267,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 268,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 269,
+                    "$type": 43,
+                    "id": "HoloMapArea_ZoneTransitionBridge(Clone)(7,3)",
+                    "clearedDirections": {
+                        "$id": 270,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 271,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 272,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "EastNeutralPath",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 273,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadEntrance(Clone)(3,1)",
+                    "clearedDirections": {
+                        "$id": 274,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 275,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 276,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 277,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadShortcut_Exit(Clone)(4,1)",
+                    "clearedDirections": {
+                        "$id": 278,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 279,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 280,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 281,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadMainPath_1(Clone)(3,2)",
+                    "clearedDirections": {
+                        "$id": 282,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 283,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 284,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 285,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadMainPath_2(Clone)(3,3)",
+                    "clearedDirections": {
+                        "$id": 286,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            2
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 287,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 288,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 289,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadMainPath_3(Clone)(3,4)",
+                    "clearedDirections": {
+                        "$id": 290,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 291,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 292,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 293,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadBridge(Clone)(4,4)",
+                    "clearedDirections": {
+                        "$id": 294,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 295,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            1
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 296,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 297,
+                    "$type": 43,
+                    "id": "HoloMapArea_UndeadMainPath_4(Clone)(5,4)",
+                    "clearedDirections": {
+                        "$id": 298,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 299,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 300,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_01",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 301,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadEntrance(Clone)(2,3)",
+                    "clearedDirections": {
+                        "$id": 302,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 303,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 304,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_02",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 305,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadLeft_1(Clone)(1,3)",
+                    "clearedDirections": {
+                        "$id": 306,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            0
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 307,
+                        "$type": 44,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            0
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 308,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_02",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 309,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadMain_1(Clone)(2,2)",
+                    "clearedDirections": {
+                        "$id": 310,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 311,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 312,
+                        "$type": 26,
+                        "$rlength": 1,
+                        "$rcontent": [
+                            0
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_02",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 313,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadLeft_2(Clone)(1,2)",
+                    "clearedDirections": {
+                        "$id": 314,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 315,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 316,
+                        "$type": 26,
+                        "$rlength": 2,
+                        "$rcontent": [
+                            1,
+                            0
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_02",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 317,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadMain_2(Clone)(2,1)",
+                    "clearedDirections": {
+                        "$id": 318,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 319,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 320,
+                        "$type": 26,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_02",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                },
+                {
+                    "$id": 321,
+                    "$type": 43,
+                    "id": "HoloMapArea_TempleUndeadBoss(Clone)(0,0)",
+                    "clearedDirections": {
+                        "$id": 322,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "clearedBattles": {
+                        "$id": 323,
+                        "$type": 44,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "completedNodesIds": {
+                        "$id": 324,
+                        "$type": 26,
+                        "$rlength": 4,
+                        "$rcontent": [
+                            0,
+                            4,
+                            2,
+                            3
+                        ]
+                    },
+                    "checkpointId": "UndeadArea_03",
+                    "visited": true,
+                    "lukeFileIndex": 0
+                }
+            ]
+        },
+        "playerPos": {
+            "$id": 325,
+            "$type": "45|DiskCardGame.Part3SaveData+WorldPosition, Assembly-CSharp",
+            "worldId": "UndeadArea_03",
+            "gridX": 1,
+            "gridY": 0
+        },
+        "checkpointPos": {
+            "$id": 326,
+            "$type": 45,
+            "worldId": "UndeadArea_02",
+            "gridX": 2,
+            "gridY": 1
+        },
+        "bloodstainPos": null,
+        "bloodstainCurrency": 0,
+        "bounty": 114,
+        "battlesSinceBountyHunter": 1,
+        "bountyHunterMods": {
+            "$id": 327,
+            "$type": 14,
+            "$rlength": 2,
+            "$rcontent": [
+                {
+                    "$id": 328,
+                    "$type": 19,
+                    "singletonId": null,
+                    "nameReplacement": "\u624e\u666e \u683c\u6797\u5fb7\u7ef4\u514b",
+                    "attackAdjustment": 1,
+                    "healthAdjustment": 10,
+                    "abilities": {
+                        "$id": 329,
+                        "$type": 7,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "negateAbilities": {
+                        "$id": 330,
+                        "$type": 7,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "bloodCostAdjustment": 0,
+                    "bonesCostAdjustment": 0,
+                    "energyCostAdjustment": 3,
+                    "nullifyGemsCost": false,
+                    "addGemCost": {
+                        "$id": 331,
+                        "$type": 20,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "gemify": false,
+                    "specialAbilities": {
+                        "$id": 332,
+                        "$type": 21,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "statIcon": 0,
+                    "fromCardMerge": false,
+                    "fromDuplicateMerge": false,
+                    "fromTotem": false,
+                    "fromLatch": false,
+                    "fromOverclock": false,
+                    "sideDeckMod": false,
+                    "nonCopyable": false,
+                    "fromEvolve": false,
+                    "transformerBeastCardId": null,
+                    "deathCardInfo": null,
+                    "bountyHunterInfo": {
+                        "$id": 333,
+                        "$type": "46|DiskCardGame.BountyHunterInfo, Assembly-CSharp",
+                        "faceIndex": 1,
+                        "hatIndex": 2,
+                        "mouthIndex": 2,
+                        "eyesIndex": 1,
+                        "tier": 1,
+                        "dialogueIndex": 0,
+                        "status": 0
+                    },
+                    "buildACardPortraitInfo": null,
+                    "decalIds": null
+                },
+                {
+                    "$id": 334,
+                    "$type": 19,
+                    "singletonId": null,
+                    "nameReplacement": "\u51ef\u831c \u514b\u83b1\u80af\u4f2f\u683c",
+                    "attackAdjustment": 4,
+                    "healthAdjustment": 3,
+                    "abilities": {
+                        "$id": 335,
+                        "$type": 7,
+                        "$rlength": 2,
+                        "$rcontent": [
+                            18,
+                            15
+                        ]
+                    },
+                    "negateAbilities": {
+                        "$id": 336,
+                        "$type": 7,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "bloodCostAdjustment": 0,
+                    "bonesCostAdjustment": 0,
+                    "energyCostAdjustment": 3,
+                    "nullifyGemsCost": false,
+                    "addGemCost": {
+                        "$id": 337,
+                        "$type": 20,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "gemify": false,
+                    "specialAbilities": {
+                        "$id": 338,
+                        "$type": 21,
+                        "$rlength": 0,
+                        "$rcontent": [
+                        ]
+                    },
+                    "statIcon": 0,
+                    "fromCardMerge": false,
+                    "fromDuplicateMerge": false,
+                    "fromTotem": false,
+                    "fromLatch": false,
+                    "fromOverclock": false,
+                    "sideDeckMod": false,
+                    "nonCopyable": false,
+                    "fromEvolve": false,
+                    "transformerBeastCardId": null,
+                    "deathCardInfo": null,
+                    "bountyHunterInfo": {
+                        "$id": 339,
+                        "$type": 46,
+                        "faceIndex": 1,
+                        "hatIndex": 3,
+                        "mouthIndex": 3,
+                        "eyesIndex": 2,
+                        "tier": 1,
+                        "dialogueIndex": 1,
+                        "status": 0
+                    },
+                    "buildACardPortraitInfo": null,
+                    "decalIds": null
+                }
+            ]
+        },
+        "reachedCheckpoints": {
+            "$id": 340,
+            "$type": 9,
+            "$rlength": 5,
+            "$rcontent": [
+                "StartingArea",
+                "NorthNeutralPath",
+                "EastNeutralPath",
+                "UndeadArea_01",
+                "UndeadArea_02"
+            ]
+        },
+        "nodesActivated": 46,
+        "pelts": 0,
+        "collectedTarots": {
+            "$id": 341,
+            "$type": "47|System.Collections.Generic.List`1[[DiskCardGame.TraderTarotType, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "lukeFileIndex": 0,
+        "deletedFilePath": "D:\\86137\\\u4e0b\u8f7d\\84c2fab6\u592b\u9488.txt",
+        "canvasBossEyeIndex": -1,
+        "canvasBossMouthIndex": -1,
+        "foundUndeadTempleQuill": true,
+        "wellDredgedQuill": true,
+        "wellDredgedCoin": true,
+        "undeadTempleSignedScroll": true,
+        "techAreaSatellitesOn": {
+            "$id": 342,
+            "$type": "48|System.Boolean[], mscorlib",
+            "$plength": 4,
+            "$pcontent": [
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        "techElevatorOn": false
+    },
+    "grimoraData": {
+        "$id": 343,
+        "$type": "49|DiskCardGame.GrimoraSaveData, Assembly-CSharp",
+        "gridX": 1,
+        "gridY": 6,
+        "removedPieces": {
+            "$id": 344,
+            "$type": 26,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "deck": {
+            "$id": 345,
+            "$type": 11,
+            "cardIds": {
+                "$id": 346,
+                "$type": 9,
+                "$rlength": 5,
+                "$rcontent": [
+                    "Gravedigger",
+                    "Gravedigger",
+                    "Gravedigger",
+                    "FrankNStein",
+                    "FrankNStein"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 347,
+                "$type": 12,
+                "comparer": $iref:59,
+                "$rlength": 5,
+                "$rcontent": [
+                    {
+                        "$k": "Gravedigger",
+                        "$v": {
+                            "$id": 348,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Gravedigger#1",
+                        "$v": {
+                            "$id": 349,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Gravedigger#2",
+                        "$v": {
+                            "$id": 350,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "FrankNStein",
+                        "$v": {
+                            "$id": 351,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "FrankNStein#1",
+                        "$v": {
+                            "$id": 352,
+                            "$type": 14,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "gbcCardsCollected": {
+        "$id": 353,
+        "$type": 9,
+        "$rlength": 92,
+        "$rcontent": [
+            "Squirrel",
+            "Warren",
+            "Stoat",
+            "Hawk",
+            "Adder",
+            "Raven",
+            "Urayuli",
+            "Insectodrone",
+            "Thickbot",
+            "Grizzly",
+            "MoleMan",
+            "ForceMage",
+            "MantisGod",
+            "Bloodhound",
+            "Gravedigger",
+            "GhostShip",
+            "OrangeMage",
+            "FieldMouse",
+            "MageKnight",
+            "ElkCub",
+            "Cat",
+            "SkeletonMage",
+            "WolfCub",
+            "Bonepile",
+            "Mummy",
+            "Draugr",
+            "Banshee",
+            "Pupil",
+            "TombRobber",
+            "Steambot",
+            "BlueMage",
+            "Skeleton",
+            "DeadHand",
+            "AttackConduit",
+            "DrownedSoul",
+            "Salmon",
+            "Elk",
+            "GreenMage",
+            "SentryBot",
+            "MoxSapphire",
+            "SquirrelBall",
+            "LeapBot",
+            "Hrokkall",
+            "MoxEmerald",
+            "FrankNStein",
+            "Necromancer",
+            "MeatBot",
+            "CoinRight",
+            "Bombbot",
+            "StimMage",
+            "Ouroboros",
+            "HeadlessHorseman",
+            "BatteryBot",
+            "MarrowMage",
+            "MoxDualGO",
+            "MoxDualBG",
+            "MoxDualOB",
+            "MasterGoranj",
+            "FactoryConduit",
+            "EnergyConduit",
+            "FlyingMage",
+            "NullConduit",
+            "BoltHound",
+            "MuscleMage",
+            "BombMaiden",
+            "AboveCurve",
+            "Shutterbug",
+            "PlasmaGunner",
+            "MineCart",
+            "EnergyRoller",
+            "RubyGolem",
+            "Automaton",
+            "Sarcophagus",
+            "TechMoxTriple",
+            "MoxRuby",
+            "MasterOrlu",
+            "Mole",
+            "RoboMice",
+            "Rabbit",
+            "JuniorSage",
+            "Kraken",
+            "Gravedigger_Fused",
+            "FieldMouse_Fused",
+            "SentryBot_Fused",
+            "BlueMage_Fused",
+            "Family",
+            "CoinLeft",
+            "CloserBot",
+            "Revenant",
+            "GemFiend",
+            "Zombie",
+            "DeadPets"
+        ]
+    },
+    "ouroborosDeaths": 0,
+    "unlockedAchievements": {
+        "$id": 354,
+        "$type": "50|System.Collections.Generic.List`1[[Achievement, Assembly-CSharp]], mscorlib",
+        "$rlength": 28,
+        "$rcontent": [
+            11,
+            0,
+            1,
+            2,
+            14,
+            3,
+            4,
+            12,
+            13,
+            5,
+            6,
+            8,
+            7,
+            9,
+            10,
+            17,
+            19,
+            18,
+            20,
+            21,
+            27,
+            22,
+            23,
+            16,
+            15,
+            25,
+            29,
+            37
+        ]
+    },
+    "ascensionData": {
+        "$id": 355,
+        "$type": "51|DiskCardGame.AscensionSaveData, Assembly-CSharp",
+        "dialogueData": {
+            "$id": 356,
+            "$type": 3,
+            "eventData": {
+                "$id": 357,
+                "$type": 4,
+                "$rlength": 57,
+                "$rcontent": [
+                    {
+                        "$id": 358,
+                        "$type": 5,
+                        "eventId": "LeshyGramophoneTrack",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 359,
+                        "$type": 5,
+                        "eventId": "TraderIntro",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 360,
+                        "$type": 5,
+                        "eventId": "TraderPeltsHare",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 361,
+                        "$type": 5,
+                        "eventId": "TraderOutro",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 362,
+                        "$type": 5,
+                        "eventId": "StatBoostIntro",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 363,
+                        "$type": 5,
+                        "eventId": "StatBoostPushLuck1",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 364,
+                        "$type": 5,
+                        "eventId": "StatBoostCardEaten",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 365,
+                        "$type": 5,
+                        "eventId": "OpponentSurrender",
+                        "repeatCount": 5
+                    },
+                    {
+                        "$id": 366,
+                        "$type": 5,
+                        "eventId": "PlayerLifeLost",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 367,
+                        "$type": 5,
+                        "eventId": "TrapperIntro",
+                        "repeatCount": 5
+                    },
+                    {
+                        "$id": 368,
+                        "$type": 5,
+                        "eventId": "ChallengeExpensivePelts",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 369,
+                        "$type": 5,
+                        "eventId": "TrapperFreePelt",
+                        "repeatCount": 5
+                    },
+                    {
+                        "$id": 370,
+                        "$type": 5,
+                        "eventId": "TrapperOutro",
+                        "repeatCount": 5
+                    },
+                    {
+                        "$id": 371,
+                        "$type": 5,
+                        "eventId": "WoodcarverIntro",
+                        "repeatCount": 11
+                    },
+                    {
+                        "$id": 372,
+                        "$type": 5,
+                        "eventId": "WoodcarverOutro",
+                        "repeatCount": 11
+                    },
+                    {
+                        "$id": 373,
+                        "$type": 5,
+                        "eventId": "TrapperTraderPreIntro",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 374,
+                        "$type": 5,
+                        "eventId": "TrapperTraderIntro",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 375,
+                        "$type": 5,
+                        "eventId": "Hint_AllSlotsFull",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 376,
+                        "$type": 5,
+                        "eventId": "TrapperTraderPrePhase2",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 377,
+                        "$type": 5,
+                        "eventId": "TrapperTraderPhase2",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 378,
+                        "$type": 5,
+                        "eventId": "TrapperTraderPreTrade",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 379,
+                        "$type": 5,
+                        "eventId": "TrapperTraderPostTrade",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 380,
+                        "$type": 5,
+                        "eventId": "Part1CardsExhausted",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 381,
+                        "$type": 5,
+                        "eventId": "OpponentSkipTurn",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 382,
+                        "$type": 5,
+                        "eventId": "Hint_NotEnoughBlood",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 383,
+                        "$type": 5,
+                        "eventId": "GainConsumablesFull",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 384,
+                        "$type": 5,
+                        "eventId": "Hint_NotEnoughBones",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 385,
+                        "$type": 5,
+                        "eventId": "AnglerPreIntro",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 386,
+                        "$type": 5,
+                        "eventId": "AnglerIntro",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 387,
+                        "$type": 5,
+                        "eventId": "ReplenishLives",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 388,
+                        "$type": 5,
+                        "eventId": "RareCardsIntro",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 389,
+                        "$type": 5,
+                        "eventId": "RegionNext",
+                        "repeatCount": 6
+                    },
+                    {
+                        "$id": 390,
+                        "$type": 5,
+                        "eventId": "RegionForest",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 391,
+                        "$type": 5,
+                        "eventId": "DeckTrialPassed",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 392,
+                        "$type": 5,
+                        "eventId": "Hint_PlayDuringDrawPhase",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 393,
+                        "$type": 5,
+                        "eventId": "StatBoostOutro",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 394,
+                        "$type": 5,
+                        "eventId": "CopyCardIntro1",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 395,
+                        "$type": 5,
+                        "eventId": "CopyCardIntro2",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 396,
+                        "$type": 5,
+                        "eventId": "CopyCardExamineSelection",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 397,
+                        "$type": 5,
+                        "eventId": "CopyCardPresentResult",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 398,
+                        "$type": 5,
+                        "eventId": "ProspectorIntro",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 399,
+                        "$type": 5,
+                        "eventId": "RegionAlpine",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 400,
+                        "$type": 5,
+                        "eventId": "Hint_NotEnoughBloodTerrain",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 401,
+                        "$type": 5,
+                        "eventId": "DoctorIntro",
+                        "repeatCount": 4
+                    },
+                    {
+                        "$id": 402,
+                        "$type": 5,
+                        "eventId": "DuplicateMergeLookAway",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 403,
+                        "$type": 5,
+                        "eventId": "DuplicateMergeResult",
+                        "repeatCount": 3
+                    },
+                    {
+                        "$id": 404,
+                        "$type": 5,
+                        "eventId": "LeshyBossIntro1",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 405,
+                        "$type": 5,
+                        "eventId": "LeshyBossAddCandle",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 406,
+                        "$type": 5,
+                        "eventId": "Hint_DrawDuringTurn",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 407,
+                        "$type": 5,
+                        "eventId": "BoulderChoiceIntro",
+                        "repeatCount": 2
+                    },
+                    {
+                        "$id": 408,
+                        "$type": 5,
+                        "eventId": "BoulderChoiceGold",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 409,
+                        "$type": 5,
+                        "eventId": "BoulderChoiceCreature",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 410,
+                        "$type": 5,
+                        "eventId": "AscensionFecundityNerf",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 411,
+                        "$type": 5,
+                        "eventId": "RegionWetlands",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 412,
+                        "$type": 5,
+                        "eventId": "StatBoostSurvivorsDead",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 413,
+                        "$type": 5,
+                        "eventId": "DeckTrialFailed",
+                        "repeatCount": 1
+                    },
+                    {
+                        "$id": 414,
+                        "$type": 5,
+                        "eventId": "DuplicateMergeNoPairs",
+                        "repeatCount": 1
+                    }
+                ]
+            }
+        },
+        "progressionData": {
+            "$id": 415,
+            "$type": 6,
+            "learnedAbilities": {
+                "$id": 416,
+                "$type": 7,
+                "$rlength": 31,
+                "$rcontent": [
+                    19,
+                    76,
+                    75,
+                    31,
+                    29,
+                    26,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    20,
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    83
+                ]
+            },
+            "learnedMechanics": {
+                "$id": 417,
+                "$type": 8,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "learnedCards": {
+                "$id": 418,
+                "$type": 9,
+                "$rlength": 56,
+                "$rcontent": [
+                    "Squirrel",
+                    "Skink",
+                    "Mole",
+                    "ElkCub",
+                    "SkinkTail",
+                    "Bullfrog",
+                    "Sparrow",
+                    "Wolf",
+                    "Rabbit",
+                    "WolfCub",
+                    "Tail_Furry",
+                    "TrapFrog",
+                    "Trap",
+                    "PeltHare",
+                    "FrozenOpossum",
+                    "Opossum",
+                    "SquidMirror",
+                    "Kingfisher",
+                    "RavenEgg",
+                    "Starvation",
+                    "Goat",
+                    "Ant",
+                    "RingWorm",
+                    "Stoat",
+                    "Otter",
+                    "Bee",
+                    "PackRat",
+                    "Smoke",
+                    "BaitBucket",
+                    "Shark",
+                    "Tree",
+                    "Raven",
+                    "Porcupine",
+                    "Tail_Bird",
+                    "Pronghorn",
+                    "Boulder",
+                    "Mule",
+                    "Coyote",
+                    "GoldNugget",
+                    "Moose",
+                    "DefaultTail",
+                    "JerseyDevil",
+                    "Elk",
+                    "PeltGolden",
+                    "MoleMan",
+                    "Bloodhound",
+                    "Snapper",
+                    "MantisGod",
+                    "Mantis",
+                    "Amalgam",
+                    "SquidCards",
+                    "PeltWolf",
+                    "Stump",
+                    "Geck",
+                    "Tree_SnowCovered",
+                    "Adder"
+                ]
+            },
+            "introducedCards": {
+                "$id": 419,
+                "$type": 9,
+                "$rlength": 40,
+                "$rcontent": [
+                    "Elk",
+                    "Vulture",
+                    "Wolf",
+                    "Bloodhound",
+                    "Sparrow",
+                    "Pronghorn",
+                    "WolfCub",
+                    "Opossum",
+                    "RatKing",
+                    "Alpha",
+                    "Snapper",
+                    "Ant",
+                    "Kingfisher",
+                    "!STATIC!GLITCH",
+                    "Rattler",
+                    "Bullfrog",
+                    "Snelk",
+                    "Geck",
+                    "JerseyDevil",
+                    "Mole",
+                    "Cat",
+                    "Beaver",
+                    "Amoeba",
+                    "MoleMan",
+                    "Urayuli",
+                    "Goat",
+                    "SquidCards",
+                    "Grizzly",
+                    "Adder",
+                    "RingWorm",
+                    "Skink",
+                    "ElkCub",
+                    "Daus",
+                    "MantisGod",
+                    "Raven",
+                    "Coyote",
+                    "Shark",
+                    "PackRat",
+                    "Mothman_Stage1",
+                    "Amalgam"
+                ]
+            },
+            "introducedConsumables": {
+                "$id": 420,
+                "$type": 9,
+                "$rlength": 7,
+                "$rcontent": [
+                    "GoatBottle",
+                    "FrozenOpossumBottle",
+                    "BirdLegFan",
+                    "SquirrelBottle",
+                    "Hourglass",
+                    "PiggyBank",
+                    "Pliers"
+                ]
+            }
+        },
+        "stats": {
+            "$id": 421,
+            "$type": "52|DiskCardGame.AscensionStatsData, Assembly-CSharp",
+            "currentRunStats": {
+                "$id": 422,
+                "$type": "53|System.Collections.Generic.List`1[[DiskCardGame.AscensionStat, Assembly-CSharp]], mscorlib",
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "allTimeStats": {
+                "$id": 423,
+                "$type": 53,
+                "$rlength": 11,
+                "$rcontent": [
+                    {
+                        "$id": 424,
+                        "$type": "54|DiskCardGame.AscensionStat, Assembly-CSharp",
+                        "type": 8,
+                        "value": 20
+                    },
+                    {
+                        "$id": 425,
+                        "$type": 54,
+                        "type": 3,
+                        "value": 373
+                    },
+                    {
+                        "$id": 426,
+                        "$type": 54,
+                        "type": 7,
+                        "value": 140
+                    },
+                    {
+                        "$id": 427,
+                        "$type": 54,
+                        "type": 6,
+                        "value": 88
+                    },
+                    {
+                        "$id": 428,
+                        "$type": 54,
+                        "type": 5,
+                        "value": 34
+                    },
+                    {
+                        "$id": 429,
+                        "$type": 54,
+                        "type": 4,
+                        "value": 12
+                    },
+                    {
+                        "$id": 430,
+                        "$type": 54,
+                        "type": 11,
+                        "value": 44
+                    },
+                    {
+                        "$id": 431,
+                        "$type": 54,
+                        "type": 9,
+                        "value": 5
+                    },
+                    {
+                        "$id": 432,
+                        "$type": 54,
+                        "type": 1,
+                        "value": 4
+                    },
+                    {
+                        "$id": 433,
+                        "$type": 54,
+                        "type": 2,
+                        "value": 6
+                    },
+                    {
+                        "$id": 434,
+                        "$type": 54,
+                        "type": 10,
+                        "value": 1
+                    }
+                ]
+            }
+        },
+        "challengeLevel": 1,
+        "itemUnlockEvents": {
+            "$id": 435,
+            "$type": 2,
+            "$rlength": 1,
+            "$rcontent": [
+                170
+            ]
+        },
+        "activeChallenges": {
+            "$id": 436,
+            "$type": "55|System.Collections.Generic.List`1[[DiskCardGame.AscensionChallenge, Assembly-CSharp]], mscorlib",
+            "$rlength": 1,
+            "$rcontent": [
+                7
+            ]
+        },
+        "conqueredChallenges": {
+            "$id": 437,
+            "$type": 55,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currentStarterDeck": "Vanilla",
+        "conqueredStarterDecks": {
+            "$id": 438,
+            "$type": 9,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currentRun": null,
+        "currentRunSeed": 104233109,
+        "currentOuroborosDeaths": 0,
+        "numRunsSinceReachedFirstBoss": 0,
+        "oilPaintingState": {
+            "$id": 439,
+            "$type": 23,
+            "isAscension": true,
+            "puzzleSolution": {
+                "$id": 440,
+                "$type": 9,
+                "$rlength": 4,
+                "$rcontent": [
+                    "Bloodhound",
+                    "Skunk",
+                    null,
+                    null
+                ]
+            },
+            "puzzleSolved": false,
+            "rewardIndex": 0,
+            "rewardTaken": false
+        },
+        "gramophoneTrackIndex": 4,
+        "playerAvatarHead": 3,
+        "playerAvatarArms": 0,
+        "playerAvatarBody": 6
+    },
+    "ascensionActive": true
+}

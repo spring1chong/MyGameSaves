@@ -1,0 +1,18 @@
+<Stats deaths="4" kills="2" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | 来自材料的伤害：汇聚法力" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="rock_curse | $damage_rock_curse" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+  </kill_map>
+</Stats>

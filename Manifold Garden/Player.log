@@ -1,0 +1,2424 @@
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path D:/steam/steamapps/common/Manifold Garden/ManifoldGarden_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25e0)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   32.0.15.6614
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+New input system (experimental) initialized
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.654600 ms
+Begin DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<ShowStudioSplashAndLoadStartScreen>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+StudioLogoScreenManager:Update()
+
+savesDirectoryPath: C:/Users/86137/AppData/LocalLow/William Chyr Studio/Manifold Garden/Saves
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.GameObject:AddComponent()
+SaveGameManager:get_Instance()
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<ShowStudioSplashAndLoadStartScreen>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+StudioLogoScreenManager:Update()
+
+DetermineAndLoadCorrectStartScreen mostRecentSaveSlotIndex=0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<ShowStudioSplashAndLoadStartScreen>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+StudioLogoScreenManager:Update()
+
+DetermineAndLoadCorrectStartScreen startScreenLevelName=StartScreen_01
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<ShowStudioSplashAndLoadStartScreen>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+StudioLogoScreenManager:Update()
+
+End DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+UNIFY: Engagaement, Awake
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+SingletonBehaviour`1:Awake()
+
+[ line -1966151240]
+
+HideAllAccessPoints Called
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameCenterAccessCanvas:Awake()
+
+SYSTEM GRAPHICS DEVICE:NVIDIA GeForce RTX 3050 Ti Laptop GPU
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MobiusPost:OnEnable()
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+GameManager:CreatePlayer()
+GameManager:Init()
+<SetUpRequiredComponentsAndFirstSceneRoutine>d__74:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+UpdateTrackInfo 0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MusicPlayerPanel:UpdateTrackInfo(Int32)
+MusicPlayerPanel:Start()
+
+YES childMinY=221.6554 checkRectMinY=-307.875  -  childMaxY=291.8751 checkRectMaxY=307.875
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RectTransformExtensions:IsInScrollRect(RectTransform, ScrollRect)
+MusicPlayerEntryButton:ShowButtonInScrollview()
+MusicPlayerEntryButton:Update()
+
+CONTROLLERS FOUND 0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PhotographyModeController:Update()
+
+SYSTEM GRAPHICS DEVICE:NVIDIA GeForce RTX 3050 Ti Laptop GPU
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MobiusPost:OnEnable()
+LevelLoader:MovePlayerIntoNewScene(LevelSystems, Boolean, Boolean)
+<SetupStartScreen>d__79:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Fading load screen at end of Startup now
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<ShowStudioSplashAndLoadStartScreen>d__28:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:OnUserStatsReceived(UserStatsReceived_t)
+System.Action`1:Invoke(T)
+Steamworks.Callback`1:OnRunCallback(IntPtr)
+Steamworks.CallbackDispatcher:RunFrame(Boolean)
+
+Handle controller button press : UI Confirm : New Game Select Panel
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UIControllerPrompts:CheckForControllerButtons(ControllerPromptProps[], ControllerPromptItem[])
+UIControllerPrompts:Update()
+
+[FMOD] Event not found: event:/UI/UI_ContinueGame
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FMODUnity.RuntimeManager:PlayOneShot(String, Vector3)
+SoundManager:PlayOneShot(String, Vector3)
+UltimateMenuSoundEmitterManager:OnContinueGameStart()
+NewGameSelectPanel:ContinueGame()
+Steamworks.PlayersRefreshComplete:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+MgCustomButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.EventFunction`1:Invoke(T1, BaseEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvent(Int32, Int32)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvents()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 69762.
+Total: 122.217100 ms (FindLiveObjects: 3.334300 ms CreateObjectMapping: 0.712500 ms MarkObjects: 117.986500 ms  DeleteObjects: 0.183100 ms)
+
+Handle controller button press : UI Cancel : Pause Panel
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+UIControllerPrompts:CheckForControllerButtons(ControllerPromptProps[], ControllerPromptItem[])
+UIControllerPrompts:Update()
+
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 200 unused Assets to reduce memory usage. Loaded Objects now: 193726.
+Total: 154.699100 ms (FindLiveObjects: 10.553100 ms CreateObjectMapping: 4.315000 ms MarkObjects: 139.351800 ms  DeleteObjects: 0.478100 ms)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+TreeGrowthControllerOptimized:TryAndGrowFromCube(GravityCube)
+NormalGravityCube:CheckWaterTurnActive()
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:StartWaterCast()
+WaterCaster:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+TreeGrowthControllerOptimized:TryAndGrowFromCube(GravityCube)
+NormalGravityCube:CheckWaterTurnActive()
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:StartWaterCast()
+WaterCaster:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+TreeGrowthControllerOptimized:TryAndGrowFromCube(GravityCube)
+NormalGravityCube:CheckWaterTurnActive()
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+WaterCaster:CastWaterForward(Vector3, Vector3, Vector3, RaycastHit, Int32)
+WaterCaster:CastWaterDownward(Vector3, Vector3, Vector3, Int32)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+Begin Autosave 180.0057 -- 291.3271
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:Update()
+
+@@@ bytesThumbnail: 38630
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveGameManager: Set thumbnail save path to: C:/Users/86137/AppData/LocalLow/William Chyr Studio/Manifold Garden/Saves/Screenshot1.jpg
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+WaterDetector:OnLevelUpdate()
+LevelSystems:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCageController:OpenLaserSource(Boolean)
+DarkModeCageController:StartFilling(Boolean)
+Chainable:InternalFill(Boolean)
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+Screen position out of view frustum (screen pos 1192.000000, 1364.000000, 1000.000000) (Camera rect 1192 1364 180 200)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+[ line -1966237688]
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCube:OnPickup()
+CarryRigidbody:PutBoxInCarryingStateAndConnectToSpring(GravityCube)
+CarryRigidbody:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+PlayThunderSound
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:TickEmission()
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+RainManager Update 0.007759221
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update -0.01775078
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+PlayThunderSound
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:TickEmission()
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+RainManager Update 1.06929
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.054382
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.039308
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.024502
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.009485
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9943732
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9793283
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9643119
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9497565
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.934819
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9209148
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.906398
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8910922
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8761579
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8616499
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8473927
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8331804
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8184956
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8041294
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7892756
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7748074
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.760014
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7453263
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7305023
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7158037
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7025383
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6891715
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6757068
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6612622
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6462128
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6316312
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6162012
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6023021
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.587516
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5732112
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5592239
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5453218
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5312341
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5168468
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5029548
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4886506
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4740362
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4580984
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4436198
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4295596
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4154707
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4012072
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3870036
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3727025
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3582737
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3442653
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3303027
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3160489
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3018255
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2884834
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2753679
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.261515
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2476503
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2345597
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2195917
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2063615
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1925059
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1781524
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1645229
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1506908
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1367959
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1229422
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.10883
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.09496596
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.08107787
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.06723957
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.05379007
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.03966667
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.02576627
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.01183467
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update -0.001940732
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+PlayThunderSound
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:TickEmission()
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+RainManager Update 0.4450967
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4317089
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4181039
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4042051
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3906013
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3765435
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3623566
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3490247
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3346725
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3230471
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3077039
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2937402
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2802707
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2662625
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2524609
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2386467
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2248572
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2110601
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1978542
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1846694
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1710042
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1566268
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1426153
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1294575
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1160307
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1017793
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.09051395
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.07639425
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.06330515
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.04968226
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.03561135
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.02124995
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.008187254
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update -0.006180446
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+PlayThunderSound
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:TickEmission()
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+RainManager Update 1.130617
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.105102
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.081803
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.058844
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.035497
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 1.011135
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9875904
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9645354
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9425371
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.9192731
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8964617
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8744667
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8515554
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.829617
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.8069542
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7856692
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7649832
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7437913
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.7232831
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.702763
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6825674
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6610928
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6413363
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.6202754
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.601166
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.58069
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5614896
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5411738
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5217782
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.5025823
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4842345
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4650747
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4456796
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4259751
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.4066821
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.3655619
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.309995
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.2504412
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1968266
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1651741
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1409
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.1186186
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.09784323
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.07739633
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.05730933
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.03750613
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update 0.01766233
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+RainManager Update -0.001272367
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+RainManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+<ShrinkWorldAndFadeInWhitePanelRoutine>d__63:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+DarkModeTreeTrigger:Update()
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3336 unused Assets to reduce memory usage. Loaded Objects now: 193909.
+Total: 170.829200 ms (FindLiveObjects: 11.469100 ms CreateObjectMapping: 4.708600 ms MarkObjects: 149.023300 ms  DeleteObjects: 5.627600 ms)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+AudioVisualLevelData:Update()
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 193909.
+Total: 156.508800 ms (FindLiveObjects: 10.324500 ms CreateObjectMapping: 1.554500 ms MarkObjects: 144.491100 ms  DeleteObjects: 0.137800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 193916.
+Total: 151.806300 ms (FindLiveObjects: 10.297400 ms CreateObjectMapping: 1.583000 ms MarkObjects: 139.787900 ms  DeleteObjects: 0.137500 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor02"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor05"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor04"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor03"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor01a"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/Church Entrance Door/ChurchEntranceRightDoors/RightDoor01b"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/pedastal1/left_pedastal/pedastal_top_left"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_01"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_02"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_03"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_04"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_05"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_06"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_07"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_08"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_09"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_010"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_011"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_012"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_013"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_014"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_015"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_016"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_017"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_018"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_019"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_020"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_021"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_022"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_023"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_024"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_025"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_026"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_027"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_028"
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCollapsedCubeWorldGrow:TickGrowTime()
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+@@@ bytesThumbnail: 69255
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveGameManager: Set thumbnail save path to: C:/Users/86137/AppData/LocalLow/William Chyr Studio/Manifold Garden/Saves/Screenshot1.jpg
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+Screen position out of view frustum (screen pos 1235.000000, 930.000000, 899.135864) (Camera rect 1235 930 33 128)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+[ line -1966243496]
+
+Screen position out of view frustum (screen pos 918.000000, 1020.000000, 899.982605) (Camera rect 893 1020 25 63)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+[ line -1966243496]
+
+Screen position out of view frustum (screen pos 912.000000, 951.000000, 899.987549) (Camera rect 912 951 23 62)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+PortalView:RenderIntoCamera(MobiusPost, Int32, Single, Rect, RenderPassStack)
+MobiusPost:RenderCameraWithPortals(RenderPassStack)
+MobiusPost:DoRender(ScriptableRenderContext)
+MobiusRenderPipe:Render(ScriptableRenderContext, Camera[])
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1)
+
+[ line -1966243496]
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+The referenced script on this Behaviour (Game Object 'Mandelbulb') is missing!
+
+The AnimationClip 'hypercube 1' used by the Animation component 'Faces' must be marked as Legacy.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153416]
+
+Default clip could not be found in attached animations list.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153064]
+
+The AnimationClip 'hypercube 1' used by the Animation component 'Wireframe' must be marked as Legacy.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153416]
+
+Default clip could not be found in attached animations list.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153064]
+
+The AnimationClip 'MandelbulbEndingV2' used by the Animation component 'Mandelbulb' must be marked as Legacy.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153416]
+
+The AnimationClip 'MandelbulbEndingV2' used by the Animation component 'Mandelbulb' must be marked as Legacy.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153416]
+
+Default clip could not be found in attached animations list.
+LevelSystems:SetChildActiveYield(Transform, Boolean, Int32)
+<SetLevelStatePhase2>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+LevelSystems:SetLevelStatePhase(LevelState, Int32)
+<SetLevelStateRoutine>d__120:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line -1966153064]
+
+Waiting for 190seconds
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<FinalEffectsSequence>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+<FinalEffectsSequence>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Begin DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<RunCredits>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+DetermineAndLoadCorrectStartScreen mostRecentSaveSlotIndex=0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<RunCredits>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+DetermineAndLoadCorrectStartScreen startScreenLevelName=StartScreen_01
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<RunCredits>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+End DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[FMOD] Event not found: event:/UI/UI_ContinueGame
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FMODUnity.RuntimeManager:PlayOneShot(String, Vector3)
+SoundManager:PlayOneShot(String, Vector3)
+UltimateMenuSoundEmitterManager:OnContinueGameStart()
+NewGameSelectPanel:ContinueGame()
+Steamworks.PlayersRefreshComplete:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+MgCustomButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.EventFunction`1:Invoke(T1, BaseEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvent(Int32, Int32)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvents()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 914 unused Assets to reduce memory usage. Loaded Objects now: 70963.
+Total: 136.235300 ms (FindLiveObjects: 4.533700 ms CreateObjectMapping: 0.921400 ms MarkObjects: 129.534600 ms  DeleteObjects: 1.245100 ms)
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_01"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_02"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_03"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_04"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_05"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_06"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_07"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_08"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_09"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_010"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_011"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_012"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_013"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_014"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_015"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_016"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_017"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_018"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_019"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_020"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_021"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_022"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_023"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_024"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_025"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_026"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_027"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_028"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/pedastal1/left_pedastal/pedastal_top_left"
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+WaterDetector:OnLevelUpdate()
+LevelSystems:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCageController:OpenLaserSource(Boolean)
+DarkModeCageController:StartFilling(Boolean)
+Chainable:InternalFill(Boolean)
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+STEAM -CheckForDependentAchievements checking 3 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+RigidbodyController:CalculateFalling()
+RigidbodyController:MG_Update()
+GameManager:Update()
+
+Begin Autosave 180.0115 -- 1303.266
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SaveGameManager:Update()
+
+@@@ bytesThumbnail: 21445
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+SaveGameManager: Set thumbnail save path to: C:/Users/86137/AppData/LocalLow/William Chyr Studio/Manifold Garden/Saves/Screenshot1.jpg
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+<WriteSaveNowRoutine>d__68:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+MandalaSnapshotTrigger - OnEnterTrigger
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MandalaSnapshotTrigger:OnTriggerEnter(Collider)
+
+STEAM -CheckForDependentAchievements checking 10 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+<ShrinkIntoLevelRoutine>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+MiniatureWorldButton:IInteractable.OnInteract(GravityDirection)
+OperateObjects:TryInteractWithObject(IInteractable)
+OperateObjects:Update()
+
+MandalaSnapshotTrigger - OnEnterTrigger
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MandalaSnapshotTrigger:OnTriggerEnter(Collider)
+
+ColorChangeBeam needs a MeshCollider Mesh World_051_CeilingSuspendPuzzle_Optimized:Base 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+ColorChangeBeam:SplitToCollider(GameObject)
+ColorChangeBeam:InitializeGameplayComponentsAndCacheReferencesAndSetupDelegates()
+<InitializeAndLoadLevel>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ColorChangeBeam needs a MeshCollider Mesh World_051_CeilingSuspendPuzzle_Optimized:Base 2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+ColorChangeBeam:SplitToCollider(GameObject)
+ColorChangeBeam:InitializeGameplayComponentsAndCacheReferencesAndSetupDelegates()
+<InitializeAndLoadLevel>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ColorChangeBeam needs a MeshCollider Mesh World_051_CeilingSuspendPuzzle_Optimized:Base 1
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+ColorChangeBeam:SplitToCollider(GameObject)
+ColorChangeBeam:InitializeGameplayComponentsAndCacheReferencesAndSetupDelegates()
+<InitializeAndLoadLevel>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+ColorChangeBeam needs a MeshCollider Mesh World_051_CeilingSuspendPuzzle_Optimized:Base 2
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+ColorChangeBeam:SplitToCollider(GameObject)
+ColorChangeBeam:InitializeGameplayComponentsAndCacheReferencesAndSetupDelegates()
+<InitializeAndLoadLevel>d__130:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Setting controller to null
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<ShrinkIntoLevelRoutine>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+TRIGGER HOMECOMING
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+<ShrinkIntoLevelRoutine>d__40:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+STEAM -CheckForDependentAchievements checking 10 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCageController:OpenLaserSource(Boolean)
+DarkModeCageController:StartFilling(Boolean)
+Chainable:InternalFill(Boolean)
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+STEAM -CheckForDependentAchievements checking 10 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCageController:OpenLaserSource(Boolean)
+DarkModeCageController:StartFilling(Boolean)
+Chainable:InternalFill(Boolean)
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_01"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_02"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_03"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_04"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_05"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_06"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_07"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_08"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_09"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_010"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_011"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_012"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_013"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_014"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_015"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_016"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_017"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_018"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_019"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_020"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_021"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_022"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_023"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_024"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_025"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_026"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_027"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/altar_stairs/altar_cube_028"
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "WorldRoot/GameplayRoot/High Altar Door New/High Altar Door Animated/pedastal1/left_pedastal/pedastal_top_left"
+
+Begin DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<QuitToStartScreenCoroutine>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+DetermineAndLoadCorrectStartScreen mostRecentSaveSlotIndex=0
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<QuitToStartScreenCoroutine>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+DetermineAndLoadCorrectStartScreen startScreenLevelName=StartScreen_01
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<QuitToStartScreenCoroutine>d__123:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+End DetermineAndLoadCorrectStartScreen
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AppleDebug:Log(String)
+<DetermineAndLoadCorrectStartScreen>d__77:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[FMOD] Event not found: event:/UI/UI_ContinueGame
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+FMODUnity.RuntimeManager:PlayOneShot(String, Vector3)
+SoundManager:PlayOneShot(String, Vector3)
+UltimateMenuSoundEmitterManager:OnContinueGameStart()
+NewGameSelectPanel:ContinueGame()
+Steamworks.PlayersRefreshComplete:Invoke()
+UnityEngine.Events.UnityEvent:Invoke()
+MgCustomButton:OnPointerClick(PointerEventData)
+UnityEngine.EventSystems.EventFunction`1:Invoke(T1, BaseEventData)
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMousePress(MouseButtonEventData)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvent(Int32, Int32)
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:ProcessMouseEvents()
+Rewired.Integration.UnityUI.RewiredStandaloneInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+Unloading 20 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1212 unused Assets to reduce memory usage. Loaded Objects now: 70126.
+Total: 130.898200 ms (FindLiveObjects: 4.613700 ms CreateObjectMapping: 1.056300 ms MarkObjects: 123.399600 ms  DeleteObjects: 1.827900 ms)
+
+STEAM -CheckForDependentAchievements checking 10 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+WaterDetector:OnLevelUpdate()
+LevelSystems:Update()
+
+STEAM -CheckForDependentAchievements checking 10 NOT UNLOCKED - FAIL
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchievementsMG:CheckForDependentAchievements()
+SteamAchievementsMG:UnlockTrophy(TrophyID)
+AchievmentTrophyManager:TriggerTrophyUnlock(TrophyID)
+DarkModeCageController:OpenLaserSource(Boolean)
+DarkModeCageController:StartFilling(Boolean)
+Chainable:InternalFill(Boolean)
+Unify.AuthorizedCallback:Invoke(Boolean)
+QuickDelegate`1:Call(T)
+Chainable:Filled(Boolean)
+LineDisplay:OnLevelUpdate()
+LevelSystems:Update()
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4cb0 -> priority: 1 
+  Thread -> id: 4918 -> priority: 1 
+  Thread -> id: 42e8 -> priority: 1 
+  Thread -> id: 60f8 -> priority: 1 

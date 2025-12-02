@@ -1,0 +1,30 @@
+<Stats deaths="35" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="4" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="3" >
+    </E>
+    <E key="NULL | $damage_fire" value="10" >
+    </E>
+    <E key="NULL | 来自 紫色毒液 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 酸液 的材料伤害" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="13" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+  </kill_map>
+</Stats>

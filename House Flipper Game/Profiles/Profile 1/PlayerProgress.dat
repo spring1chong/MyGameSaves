@@ -1,0 +1,689 @@
+{
+  "$id": "1",
+  "canContiueGame": true,
+  "hasFinishedGame": false,
+  "hasShownCredits": false,
+  "cheatModeTriggered": false,
+  "hgtvMapOpen": false,
+  "profileName": "Default",
+  "flamethrowerFuelLvl": 0.15,
+  "moneyEarnedFromRent": 0.0,
+  "gardenCompetitionPresence": {
+    "$id": "2",
+    "firstCompetitionPresence": "0001-01-01T00:00:00",
+    "previousCompetitionPresence": "0001-01-01T00:00:00",
+    "currentCompetitionPresence": "0001-01-01T00:00:00"
+  },
+  "moneyProgress": {
+    "$id": "3",
+    "_money": 480399.518640995
+  },
+  "housesProgress": {
+    "$id": "4",
+    "boughtHouseScenes": [
+      "SmallFirstHouse"
+    ],
+    "soldHouseScenes": [
+      "FirstOffice"
+    ],
+    "rentedHouseScenes": {
+      "$id": "5"
+    },
+    "hasEverBoughtAnyHouse": true
+  },
+  "coursesProgress": {
+    "$id": "6",
+    "boughtCourses": []
+  },
+  "tutorialProgress": {
+    "$id": "7",
+    "openFrontDoor": false,
+    "thrownTheTrash": true,
+    "triedToOpenLockedDoor": false,
+    "findKey": false
+  },
+  "ordersProgress": {
+    "$id": "8",
+    "orderProgresses": [
+      {
+        "$id": "9",
+        "id": 1,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "10",
+        "id": 10,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "11",
+        "id": 11,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "12",
+        "id": 12,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "13",
+        "id": 13,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "14",
+        "id": 14,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "15",
+        "id": 15,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "16",
+        "id": 16,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "17",
+        "id": 17,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 68
+      },
+      {
+        "$id": "18",
+        "id": 2,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "19",
+        "id": 20,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 73
+      },
+      {
+        "$id": "20",
+        "id": 21,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "21",
+        "id": 39,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "22",
+        "id": 44,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "23",
+        "id": 3,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "24",
+        "id": 4,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "25",
+        "id": 5,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "26",
+        "id": 6,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "27",
+        "id": 63,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "28",
+        "id": 7,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 100
+      },
+      {
+        "$id": "29",
+        "id": 8,
+        "isRead": true,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 27
+      },
+      {
+        "$id": "30",
+        "id": 80,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "31",
+        "id": 81,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "32",
+        "id": 82,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "33",
+        "id": 83,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "34",
+        "id": 9,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "35",
+        "id": 95,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 82
+      },
+      {
+        "$id": "36",
+        "id": 96,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 73
+      },
+      {
+        "$id": "37",
+        "id": 97,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 70
+      },
+      {
+        "$id": "38",
+        "id": 18,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 0
+      },
+      {
+        "$id": "39",
+        "id": 19,
+        "isRead": true,
+        "isDone": true,
+        "isUnlockedByCode": false,
+        "completition": 70
+      },
+      {
+        "$id": "40",
+        "id": 51,
+        "isRead": false,
+        "isDone": false,
+        "isUnlockedByCode": false,
+        "completition": 0
+      }
+    ]
+  },
+  "adoptionProgress": {
+    "$id": "41",
+    "petTypes": [],
+    "animalTypes": []
+  },
+  "farmAchievementsProgress": {
+    "$id": "42",
+    "jumpsOverObstacle": 0,
+    "madePhoto": false,
+    "usedWatering": false
+  },
+  "skills": {
+    "$id": "43",
+    "cleaning": {
+      "$id": "44",
+      "eyeOfTheMotherInLaw": 3,
+      "fastHands": 1,
+      "longDistance": 1,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "demolition": {
+      "$id": "45",
+      "tempo": 0,
+      "muscle": 0,
+      "biggerHammer": 3,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "painting": {
+      "$id": "46",
+      "paintingBase": 2,
+      "fastHands": 2,
+      "paintMore": 3,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "building": {
+      "$id": "47",
+      "bricklayer": 1,
+      "mason": 0,
+      "fixer": 1,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "design": {
+      "$id": "48",
+      "designer": 0,
+      "strongMan": 0,
+      "shop": 0,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "negotiation": {
+      "$id": "49",
+      "negotiatePrice": 1,
+      "fasterOrder": 1,
+      "higherPayment": 3,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "handyman": {
+      "$id": "50",
+      "fitter": 3,
+      "plasterer": 1,
+      "tiler": 2,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "gardener": {
+      "$id": "51",
+      "quick": 0,
+      "equipped": 0,
+      "sense": 0,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "farmer": {
+      "$id": "52",
+      "deligentFarmer": 0,
+      "animalWhisperer": 0,
+      "highTechFarmer": 0,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "architect": {
+      "$id": "53",
+      "fastestBricklayer": 0,
+      "scroogeMcBrick": 0,
+      "miracleWorker": 0,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    },
+    "restaurateur": {
+      "$id": "54",
+      "masterChef": 0,
+      "landlord": 0,
+      "restaurantPrecision": 0,
+      "numberOfPerksAvailable": 0,
+      "isCertificated": false
+    }
+  },
+  "statistics": {
+    "$id": "55",
+    "cleaned": 689,
+    "throwed": 568,
+    "destroyed": 99,
+    "build": 36,
+    "painted": 3381,
+    "tiled": 254,
+    "paneled": 13,
+    "plastered": 0,
+    "sold": 230,
+    "mounted": 44,
+    "bought": 255,
+    "completedOrders": 15,
+    "soldHouses": 1,
+    "windowsCleaned": 31,
+    "cockroachNestsDestroyed": 11,
+    "plantsPlanted": 0,
+    "mowingGrassTime": 2.651774,
+    "lawnsMowed": 0,
+    "weedsRemoved": 20,
+    "pondsBuried": 0,
+    "cutTrees": 3,
+    "molesFled": 0,
+    "carrotsPlanted": 0,
+    "filledWithWater": 0,
+    "windowsChanged": 0,
+    "furnituresRenovated": 0,
+    "buildingsErected": 0,
+    "harvestedCrops": 0,
+    "harvestedAnimalProducts": 0,
+    "fertilizedPlants": 0,
+    "minutesPlayed": 219,
+    "totalSecondsPassed": 1,
+    "preparedDishes": 0,
+    "rentedHouses": 0,
+    "designedTableware": 0,
+    "landInHotWater": 0,
+    "cropMemory": {
+      "$id": "56",
+      "totalCropUnitsCollected": 0,
+      "cornCollected": 0,
+      "sunflowersCollected": 0,
+      "pumpkinsCollected": 0,
+      "tomatoesCollected": 0,
+      "potatoesCollected": 0,
+      "carrotsCollected": 0
+    },
+    "rentCollectionSecondsPassed": 1
+  },
+  "currentOfficeHouse": {
+    "$id": "57",
+    "baseScene": "62a2addb1b5eff74983367119a78f658",
+    "exteriorScene": "7e786d781a2303f40bc97393d4c4c358",
+    "interiorScene": null
+  },
+  "currentOfficeHouseCreatedDateTime": "0001-01-01T00:00:00",
+  "avaialbleTools": {
+    "$id": "58",
+    "tools": [
+      0,
+      10,
+      8,
+      9,
+      11,
+      23,
+      24,
+      27,
+      30,
+      45,
+      46,
+      47,
+      50,
+      1,
+      2,
+      3,
+      6,
+      5,
+      4,
+      13,
+      12,
+      18,
+      7
+    ]
+  },
+  "toolsUsedInUnlockingToolQuest": [],
+  "usedDlc": [
+    0,
+    4
+  ],
+  "unlockedHousesToBuy": [
+    {
+      "$id": "59",
+      "baseScene": "72a262dcca5d15d46b11d267fa47824a",
+      "exteriorScene": "3151c24448332a446931c00a98fc31e7",
+      "interiorScene": null
+    },
+    {
+      "$id": "60",
+      "baseScene": "a9db33eac67e4034ca618eba67f409d7",
+      "exteriorScene": "62d792cc848f4cb4786ae2bbf2178619",
+      "interiorScene": null
+    },
+    {
+      "$id": "61",
+      "baseScene": "8421d6ed7acfd8248ac6fd9a754473c4",
+      "exteriorScene": "9692f9b6dfcbed7488f2cc300add1fc8",
+      "interiorScene": null
+    }
+  ],
+  "mainPopupsUnlocked": {
+    "$id": "62",
+    "NewGame": true,
+    "Laptop": true,
+    "Cleaning": true,
+    "Skills": true,
+    "Tablet": true,
+    "FirstOrderDone": true,
+    "Painting": true,
+    "WallsHighlight": true,
+    "BrokenGlass": true,
+    "FirstHouseBuy": true,
+    "FirstHouseSold": true
+  },
+  "appraisersKnownFacts": {
+    "$id": "63",
+    "27fb7d1e56aef144089e73916e16afd5": {
+      "$id": "64",
+      "positiveKnownFactsLocKey": [
+        "GorgioShanua_ZeroDirt0",
+        "GorgioShanua_item0",
+        "GorgioShanua_room0",
+        "GorgioShanua_room5"
+      ],
+      "negativeKnownFactsLocKey": [
+        "GorgioShanua_house5",
+        "GorgioShanua_house1",
+        "GorgioShanua_house2",
+        "GorgioShanua_ZeroDestroyed1"
+      ]
+    },
+    "f1eb2dc293b369344a4a8d8e277c8083": {
+      "$id": "65",
+      "positiveKnownFactsLocKey": [
+        "JackTarinton_ZeroTrash0",
+        "JackTarinton_house1"
+      ],
+      "negativeKnownFactsLocKey": [
+        "JackTarinton_house16_sauna",
+        "JackTarinton_house8",
+        "JackTarinton_house10",
+        "JackTarinton_house5",
+        "JackTarinton_item1"
+      ]
+    },
+    "44fd4e7581d34704ca858a6638e77ba8": {
+      "$id": "66",
+      "positiveKnownFactsLocKey": [
+        "VeronicaLiptson_ZeroDirt0",
+        "VeronicaLiptson_house15",
+        "VeronicaLiptson_house4",
+        "VeronicaLiptson_house1"
+      ],
+      "negativeKnownFactsLocKey": [
+        "VeronicaLiptson_house11",
+        "VeronicaLiptson_house8",
+        "VeronicaLiptson_room0"
+      ]
+    },
+    "0c2666a193619dc4787ca730fe32eb54": {
+      "$id": "67",
+      "positiveKnownFactsLocKey": [
+        "RafaelErko_houseBedroom1",
+        "RafaelErko_houseBathroom1",
+        "RafaelErko_houseKids0",
+        "RafaelErko_roomBookcase2",
+        "RafaelErko_itemModern0"
+      ],
+      "negativeKnownFactsLocKey": [
+        "RafaelErko_houseSauna0",
+        "RafaelErko_houseMenCave0",
+        "RafaelErko_roomTV0",
+        "RafaelErko_wallSegDamaged2",
+        "RafaelErko_roomDoubleBedBedroom0"
+      ]
+    },
+    "9b7af8118ce49294c883652da4f43fc1": {
+      "$id": "68",
+      "positiveKnownFactsLocKey": [
+        "JimmyTraitor_wallZeroDirts0",
+        "JimmyTraitor_house4",
+        "JimmyTraitor_wallZeroCavities0",
+        "JimmyTraitor_house1",
+        "JimmyTraitor_item7"
+      ],
+      "negativeKnownFactsLocKey": [
+        "JimmyTraitor_house6",
+        "JimmyTraitor_item1",
+        "JimmyTraitor_wallZeroDestroyed2",
+        "JimmyTraitor_room7"
+      ]
+    },
+    "f26ea54a9b75bf947bfc6deb4dc566fc": {
+      "$id": "69",
+      "positiveKnownFactsLocKey": [
+        "ChangChoi_house12",
+        "ChangChoi_house1",
+        "ChangChoi_house15",
+        "ChangChoi_room1"
+      ],
+      "negativeKnownFactsLocKey": []
+    },
+    "d238161ffc3ca73469b427242622fddd": {
+      "$id": "70",
+      "positiveKnownFactsLocKey": [
+        "DolanTrusk_houseBedroom1",
+        "DolanTrusk_houseBathroom1",
+        "DolanTrusk_roomBookcase2"
+      ],
+      "negativeKnownFactsLocKey": [
+        "DolanTrusk_houseKids0",
+        "DolanTrusk_houseCabinet0",
+        "DolanTrusk_ItemsCheap0"
+      ]
+    },
+    "3bd9119a78476534bafeef3952dd3731": {
+      "$id": "71",
+      "positiveKnownFactsLocKey": [
+        "MrAndMrsJantart_house10",
+        "MrAndMrsJantart_ZeroDirt0",
+        "MrAndMrsJantart_house8",
+        "MrAndMrsJantart_house22",
+        "MrAndMrsJantart_house32"
+      ],
+      "negativeKnownFactsLocKey": [
+        "MrAndMrsJantart_house5",
+        "MrAndMrsJantart_house16",
+        "MrAndMrsJantart_house26",
+        "MrAndMrsJantart_ZeroRoomDestroyed2.live"
+      ]
+    }
+  },
+  "cameraMapTypeSpawnPosition": {
+    "$id": "72"
+  },
+  "recentItems": {
+    "$id": "73",
+    "recentlyViewedItems": [
+      "80650_name",
+      "439bcbda91d79f64f992238cb8e615a6",
+      "439bcbda91d79f64f992238cb8e615a6",
+      "45b49acda8ed954499e6502bcbb41c10",
+      "7552ff772e6c8594ba808da011f773e4",
+      "739000eb1c0e77545a762463839d6bc3",
+      "bf0a7b6327146034789e37a80a0c2c89",
+      "77e60a96431ba874184f725d133c3aa0",
+      "030d69b7320674440a59981a89cc623f",
+      "a1936fec09c0dc345acce51edbfec926",
+      "439bcbda91d79f64f992238cb8e615a6",
+      "80672_name"
+    ],
+    "recentlyBoughtItems": [
+      "47e4ac32aefbe154eaaf8b9e3eaa6718",
+      "593f70ce24a4b074780697f5ae44cded",
+      "bf7f392a1c61c1f40b545f12ea057e76",
+      "bc4a2f02906099240ad78fde85145ca1",
+      "name_10827",
+      "80650_name",
+      "45b49acda8ed954499e6502bcbb41c10",
+      "739000eb1c0e77545a762463839d6bc3",
+      "77e60a96431ba874184f725d133c3aa0",
+      "030d69b7320674440a59981a89cc623f",
+      "439bcbda91d79f64f992238cb8e615a6",
+      "80672_name"
+    ]
+  },
+  "adoptedPetsFromOrders": {
+    "$id": "74"
+  },
+  "unlockedRecipes": [],
+  "tablewarePresets": []
+}

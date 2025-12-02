@@ -1,0 +1,20 @@
+<Stats deaths="0" kills="8" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="boss_pit" value="1" >
+    </E>
+    <E key="gate_monster_a" value="1" >
+    </E>
+    <E key="gate_monster_b" value="1" >
+    </E>
+    <E key="gate_monster_c" value="1" >
+    </E>
+    <E key="gate_monster_d" value="1" >
+    </E>
+    <E key="necromancer" value="1" >
+    </E>
+    <E key="skullrat" value="2" >
+    </E>
+  </kill_map>
+</Stats>

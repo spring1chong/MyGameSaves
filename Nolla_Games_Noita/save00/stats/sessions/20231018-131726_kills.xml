@@ -1,0 +1,34 @@
+<Stats deaths="0" kills="32" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="2" >
+    </E>
+    <E key="bomb_small" value="1" >
+    </E>
+    <E key="coward" value="1" >
+    </E>
+    <E key="fly" value="10" >
+    </E>
+    <E key="fungus" value="1" >
+    </E>
+    <E key="lukki" value="2" >
+    </E>
+    <E key="monk" value="2" >
+    </E>
+    <E key="necromancer_shop" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shooterflower" value="1" >
+    </E>
+    <E key="spearbot" value="1" >
+    </E>
+    <E key="worm_big" value="7" >
+    </E>
+  </kill_map>
+</Stats>

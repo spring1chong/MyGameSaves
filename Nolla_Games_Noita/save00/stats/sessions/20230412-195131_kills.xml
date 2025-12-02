@@ -1,0 +1,18 @@
+<Stats deaths="1" kills="18" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish" value="1" >
+    </E>
+    <E key="rat" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="10" >
+    </E>
+    <E key="scavenger_smg" value="4" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,6877 @@
+{
+  "$id": "1",
+  "forceFreshStart": false,
+  "version": 3,
+  "gardenCompetitionStatistics": {
+    "$id": "2",
+    "Crop Garden Contest": {
+      "$id": "3",
+      "startTrashCount": 0,
+      "maxGainedScore": -2147483648,
+      "gardenCompetitionName": "Crop Garden Contest"
+    },
+    "Modern Garden Contest": {
+      "$id": "4",
+      "startTrashCount": 0,
+      "maxGainedScore": -2147483648,
+      "gardenCompetitionName": "Modern Garden Contest"
+    },
+    "English Garden Contest": {
+      "$id": "5",
+      "startTrashCount": 0,
+      "maxGainedScore": -2147483648,
+      "gardenCompetitionName": "English Garden Contest"
+    },
+    "American Garden Contest": {
+      "$id": "6",
+      "startTrashCount": 0,
+      "maxGainedScore": -2147483648,
+      "gardenCompetitionName": "American Garden Contest"
+    },
+    "Japanese Garden Contest": {
+      "$id": "7",
+      "startTrashCount": 0,
+      "maxGainedScore": -2147483648,
+      "gardenCompetitionName": "Japanese Garden Contest"
+    }
+  },
+  "houseInfo": {
+    "$id": "8",
+    "baseScene": "a35db41f43a678f40b8115a262981934",
+    "exteriorScene": "7e786d781a2303f40bc97393d4c4c358",
+    "interiorScene": "12ce59175ff017e479fd81b0457441e2"
+  },
+  "dateTime": "2025-03-11T23:14:16.3412546+08:00",
+  "createdDateTime": "0001-01-01T00:00:00",
+  "modifiedOuterWalls": [],
+  "modifiedWallsToRebuild": [],
+  "modifiedWalls": [],
+  "modifiedWallSides": [
+    {
+      "$id": "9",
+      "x": 54,
+      "z": 60,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "10",
+      "x": 54,
+      "z": 60,
+      "floor": "GroundFloor",
+      "wallSideIndex": 8,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "11",
+      "x": 54,
+      "z": 62,
+      "floor": "GroundFloor",
+      "wallSideIndex": 8,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "12",
+      "x": 54,
+      "z": 58,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "13",
+      "x": 54,
+      "z": 58,
+      "floor": "GroundFloor",
+      "wallSideIndex": 8,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "14",
+      "x": 54,
+      "z": 62,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "15",
+      "x": 54,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "16",
+      "x": 54,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "17",
+      "x": 54,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "18",
+      "x": 54,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "19",
+      "x": 54,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "20",
+      "x": 54,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "21",
+      "x": 54,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "22",
+      "x": 54,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "23",
+      "x": 54,
+      "z": 72,
+      "floor": "GroundFloor",
+      "wallSideIndex": 8,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "24",
+      "x": 54,
+      "z": 72,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "25",
+      "x": 54,
+      "z": 72,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "26",
+      "x": 52,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "27",
+      "x": 52,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "28",
+      "x": 50,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "29",
+      "x": 50,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "30",
+      "x": 48,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 15,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "31",
+      "x": 48,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 14,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "32",
+      "x": 46,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 15,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "33",
+      "x": 46,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 14,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "34",
+      "x": 44,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 15,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "35",
+      "x": 44,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 14,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "36",
+      "x": 42,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 15,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "37",
+      "x": 42,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 14,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "38",
+      "x": 40,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "39",
+      "x": 40,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "40",
+      "x": 38,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "41",
+      "x": 36,
+      "z": 71,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "42",
+      "x": 36,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "43",
+      "x": 36,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "44",
+      "x": 36,
+      "z": 69,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "45",
+      "x": 36,
+      "z": 67,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "46",
+      "x": 36,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "47",
+      "x": 36,
+      "z": 65,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "48",
+      "x": 36,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "49",
+      "x": 36,
+      "z": 72,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "50",
+      "x": 36,
+      "z": 73,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "51",
+      "x": 36,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "52",
+      "x": 38,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "53",
+      "x": 36,
+      "z": 63,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "54",
+      "x": 36,
+      "z": 62,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "55",
+      "x": 36,
+      "z": 61,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "56",
+      "x": 36,
+      "z": 60,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "57",
+      "x": 36,
+      "z": 59,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "58",
+      "x": 36,
+      "z": 58,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "59",
+      "x": 36,
+      "z": 57,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "60",
+      "x": 36,
+      "z": 56,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "61",
+      "x": 36,
+      "z": 55,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "cffcdd91c66c8f348b59f99949096f3c"
+    },
+    {
+      "$id": "62",
+      "x": 36,
+      "z": 54,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "63",
+      "x": 36,
+      "z": 53,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "64",
+      "x": 36,
+      "z": 52,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "65",
+      "x": 36,
+      "z": 51,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "66",
+      "x": 37,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "67",
+      "x": 38,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "68",
+      "x": 39,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "69",
+      "x": 40,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "70",
+      "x": 43,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "71",
+      "x": 42,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "72",
+      "x": 41,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "73",
+      "x": 44,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "74",
+      "x": 45,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "75",
+      "x": 46,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "76",
+      "x": 47,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "77",
+      "x": 48,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "78",
+      "x": 49,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "79",
+      "x": 51,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "80",
+      "x": 50,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "81",
+      "x": 52,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "82",
+      "x": 53,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "83",
+      "x": 54,
+      "z": 50,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "84",
+      "x": 54,
+      "z": 52,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "85",
+      "x": 54,
+      "z": 52,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "86",
+      "x": 54,
+      "z": 54,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "87",
+      "x": 54,
+      "z": 54,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "88",
+      "x": 54,
+      "z": 56,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "89",
+      "x": 54,
+      "z": 56,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "90",
+      "x": 54,
+      "z": 52,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "91",
+      "x": 54,
+      "z": 56,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "92",
+      "x": 54,
+      "z": 56,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "93",
+      "x": 54,
+      "z": 54,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "94",
+      "x": 54,
+      "z": 54,
+      "floor": "GroundFloor",
+      "wallSideIndex": 0,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "95",
+      "x": 54,
+      "z": 52,
+      "floor": "GroundFloor",
+      "wallSideIndex": 1,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "96",
+      "x": 54,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "97",
+      "x": 54,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "98",
+      "x": 54,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "99",
+      "x": 54,
+      "z": 70,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "100",
+      "x": 54,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "101",
+      "x": 54,
+      "z": 68,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "102",
+      "x": 54,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "103",
+      "x": 54,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "104",
+      "x": 54,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "105",
+      "x": 54,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 3,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "106",
+      "x": 54,
+      "z": 66,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "107",
+      "x": 54,
+      "z": 64,
+      "floor": "GroundFloor",
+      "wallSideIndex": 2,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "108",
+      "x": 42,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 16,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "109",
+      "x": 42,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 17,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "110",
+      "x": 44,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 16,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "111",
+      "x": 44,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 17,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "112",
+      "x": 46,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 16,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "113",
+      "x": 48,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 16,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "114",
+      "x": 46,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 17,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "115",
+      "x": 48,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 17,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "116",
+      "x": 50,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 7,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "117",
+      "x": 50,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 8,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "118",
+      "x": 48,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "119",
+      "x": 46,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "120",
+      "x": 44,
+      "z": 74,
+      "floor": "GroundFloor",
+      "wallSideIndex": 5,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    },
+    {
+      "$id": "121",
+      "x": 54,
+      "z": 62,
+      "floor": "GroundFloor",
+      "wallSideIndex": 4,
+      "material": "9a342060ef74b2443844169d8c017cbe"
+    }
+  ],
+  "modifiedStandaloneWallSides": [],
+  "modifiedFloors": [],
+  "modifiedCeilings": [
+    {
+      "$id": "122",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "123",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "124",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "125",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "126",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "127",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "128",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "129",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "130",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "131",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "132",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "133",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "134",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "135",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "136",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "137",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "138",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "139",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "140",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "141",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "142",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "143",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "144",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "145",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "146",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "147",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "148",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "149",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "150",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "151",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "152",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "153",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "154",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "155",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "156",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "157",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "158",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "159",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "160",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "161",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "162",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "163",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "164",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "165",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "166",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "167",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "168",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "169",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "170",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "171",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "172",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "173",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "174",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "175",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "176",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "177",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "178",
+      "x": 1.25,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "179",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "180",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "181",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "182",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "183",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "184",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "185",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "186",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "187",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "188",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "189",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "190",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "191",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "192",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "193",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "194",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "195",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "196",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "197",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "198",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "199",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "200",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "201",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "202",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "203",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "204",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "205",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "206",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "207",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "208",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "209",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "210",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "211",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "212",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "213",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "214",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "215",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "216",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "217",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "218",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "219",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "220",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "221",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "222",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "223",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "224",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "225",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "226",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "227",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "228",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "229",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "230",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "231",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "232",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "233",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "234",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "235",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "236",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "237",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "238",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "239",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "240",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "241",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "242",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "243",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "244",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "245",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "246",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "247",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "248",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "249",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "250",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "251",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "252",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "253",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "254",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "255",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "256",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "257",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "258",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "259",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "260",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "261",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "262",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "263",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "264",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "265",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "266",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "267",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "268",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "269",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "270",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "271",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "272",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "273",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "274",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "275",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "276",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "277",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "278",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "279",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "280",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "281",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "282",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "283",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "284",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "285",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "286",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 0.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "287",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "288",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "289",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 1.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "290",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 0.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "291",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "292",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "293",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "294",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 0.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "295",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "296",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "297",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "298",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "299",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "300",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "301",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "302",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "303",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "304",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "305",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "306",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "307",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "308",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "309",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "310",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "311",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "312",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "313",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "314",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "315",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "316",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "317",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "318",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "319",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "320",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "321",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "322",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "323",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "324",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "325",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "326",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "327",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "328",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "329",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "330",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "331",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "332",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "333",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "334",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "335",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "336",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "337",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "338",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "339",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "340",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "341",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "342",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "343",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "344",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "345",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "346",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "347",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "348",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "349",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "350",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "351",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "352",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "353",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "354",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "355",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "356",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "357",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "358",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "359",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "360",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "361",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "362",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "363",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "364",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "365",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "366",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "367",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "368",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "369",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "370",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "371",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "372",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "373",
+      "x": -2.5,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "374",
+      "x": -2.75,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "375",
+      "x": -2.25,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "376",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "377",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "378",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "379",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "380",
+      "x": -3.0,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "381",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "382",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "383",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "384",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "385",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "386",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "387",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "388",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "389",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "390",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "391",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "392",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "393",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "394",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "395",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "396",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "397",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "398",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "399",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "400",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "401",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "402",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "403",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "404",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "405",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "406",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "407",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 5.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "408",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 5.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "409",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 5.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "410",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 4.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "411",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "412",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "413",
+      "x": 0.5,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "414",
+      "x": 0.25,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "415",
+      "x": 0.75,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "416",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "417",
+      "x": 1.0,
+      "y": 2.749,
+      "z": 5.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "418",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "419",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "420",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "421",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "422",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "423",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "424",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "425",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "426",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "427",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "428",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "429",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "430",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "431",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "432",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "433",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "434",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "435",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "436",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "437",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "438",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "439",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "440",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "441",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "442",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "443",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "444",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "445",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "446",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "447",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "448",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "449",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "450",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "451",
+      "x": -2.0,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "452",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "453",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "454",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 4.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "455",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 4.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "456",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 3.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "457",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 4.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "458",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 3.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "459",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "460",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "461",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "462",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "463",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "464",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "465",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "466",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "467",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "468",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "469",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "470",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "471",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "472",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "473",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "474",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "475",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "476",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "477",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "478",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "479",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "480",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "481",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "482",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "483",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "484",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "485",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "486",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "487",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "488",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "489",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "490",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "491",
+      "x": -1.5,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "492",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "493",
+      "x": -1.25,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "494",
+      "x": -1.0,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "495",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "496",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "497",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "498",
+      "x": -0.75,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "499",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "500",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "501",
+      "x": -1.75,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "502",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "503",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "504",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 1.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "505",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "506",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 1.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "507",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 1.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "508",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 2.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "509",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "510",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "511",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "512",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "513",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "514",
+      "x": 0.0,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "515",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "516",
+      "x": -0.25,
+      "y": 2.749,
+      "z": 2.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "517",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 2.75,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "518",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 3.0,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "519",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 2.5,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    },
+    {
+      "$id": "520",
+      "x": -0.5,
+      "y": 2.749,
+      "z": 3.25,
+      "material": "9a342060ef74b2443844169d8c017cbe",
+      "storey": "GroundFloor"
+    }
+  ],
+  "bulbSettings": [],
+  "modifiedItems": [
+    {
+      "$id": "521",
+      "prefab": "ef46b03089c0ff54593853d746abfcf4",
+      "isDestroyed": true,
+      "variants": [],
+      "sceneGuid": null,
+      "matVariants": null,
+      "position": {
+        "$id": "522",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 4.35,
+        "normalized": {
+          "x": -0.306363344,
+          "y": 0.0,
+          "z": 0.9519146,
+          "normalized": {
+            "x": -0.306363374,
+            "y": 0.0,
+            "z": 0.951914668,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 4.56973743,
+        "sqrMagnitude": 20.8825
+      },
+      "rotation": {
+        "$id": "523",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "itemScale": {
+        "$id": "524",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 69.0,
+      "currentItemState": {
+        "$id": "525",
+        "actualPrice": -0.0652042,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [
+          "da8397c405e848e46ae092e2b1da9092"
+        ],
+        "ActualPrice": -0.0652042
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": 4.807803,
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "526",
+      "prefab": "ac64a68306a8e074eaf38f581155b211",
+      "isDestroyed": false,
+      "variants": [],
+      "sceneGuid": "77c36d75-328c-483b-8ded-d09f09ab8bf5",
+      "matVariants": null,
+      "position": {
+        "$id": "527",
+        "x": -4.70000029,
+        "y": 0.0,
+        "z": 1.25,
+        "normalized": {
+          "x": -0.9664054,
+          "y": 0.0,
+          "z": 0.2570227,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 4.863384,
+        "sqrMagnitude": 23.6525021
+      },
+      "rotation": {
+        "$id": "528",
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "itemScale": {
+        "$id": "529",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 1290.0,
+      "currentItemState": {
+        "$id": "530",
+        "actualPrice": 645.0,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 645.0
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "531",
+      "prefab": "c52d9aee7f3d85b4194a3dddf88fe032",
+      "isDestroyed": true,
+      "variants": [],
+      "sceneGuid": null,
+      "matVariants": null,
+      "position": {
+        "$id": "532",
+        "x": -1.05000007,
+        "y": 0.0,
+        "z": 4.5,
+        "normalized": {
+          "x": -0.227229625,
+          "y": 0.0,
+          "z": 0.973841131,
+          "normalized": {
+            "x": -0.22722964,
+            "y": 0.0,
+            "z": 0.9738412,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999998
+        },
+        "magnitude": 4.620877,
+        "sqrMagnitude": 21.3525
+      },
+      "rotation": {
+        "$id": "533",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "itemScale": {
+        "$id": "534",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 69.0,
+      "currentItemState": {
+        "$id": "535",
+        "actualPrice": -0.0445204377,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [
+          "da8397c405e848e46ae092e2b1da9092"
+        ],
+        "ActualPrice": -0.0445204377
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": 6.98069334,
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "536",
+      "prefab": "c52d9aee7f3d85b4194a3dddf88fe032",
+      "isDestroyed": false,
+      "variants": [],
+      "sceneGuid": null,
+      "matVariants": null,
+      "position": {
+        "$id": "537",
+        "x": -1.4,
+        "y": 0.0,
+        "z": 4.4,
+        "normalized": {
+          "x": -0.303203642,
+          "y": 0.0,
+          "z": 0.9529258,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 4.61735868,
+        "sqrMagnitude": 21.3200016
+      },
+      "rotation": {
+        "$id": "538",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "itemScale": {
+        "$id": "539",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 69.0,
+      "currentItemState": {
+        "$id": "540",
+        "actualPrice": 44.0759239,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 44.0759239
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": 7.98476839,
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "541",
+      "prefab": "f24b96e9861359141988772c9889aabe",
+      "isDestroyed": false,
+      "variants": [
+        0
+      ],
+      "sceneGuid": "41b0f45e-55d6-4e04-9b65-b2291f1db342",
+      "matVariants": null,
+      "position": {
+        "$id": "542",
+        "x": -2.10000014,
+        "y": 0.0,
+        "z": -0.4,
+        "normalized": {
+          "x": -0.9823386,
+          "y": 0.0,
+          "z": -0.187112108,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 2.13775587,
+        "sqrMagnitude": 4.57000065
+      },
+      "rotation": {
+        "$id": "543",
+        "x": 1.01777751E-13,
+        "y": 345.5407,
+        "z": 1.00179132E-05,
+        "normalized": {
+          "x": 2.94546337E-16,
+          "y": 1.0,
+          "z": 2.8991991E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 345.5407,
+        "sqrMagnitude": 119398.383
+      },
+      "itemScale": {
+        "$id": "544",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 45.0,
+      "currentItemState": {
+        "$id": "545",
+        "actualPrice": 22.5,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 22.5
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "546",
+      "prefab": "61c0da30c06300d4cacfbec274443853",
+      "isDestroyed": false,
+      "variants": [],
+      "sceneGuid": "64153d62-5db6-4eb4-ba50-14a02f3469fe",
+      "matVariants": null,
+      "position": {
+        "$id": "547",
+        "x": 0.450000018,
+        "y": 0.0,
+        "z": -1.9,
+        "normalized": {
+          "x": 0.2304664,
+          "y": 0.0,
+          "z": -0.9730803,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 1.95256245,
+        "sqrMagnitude": 3.8125
+      },
+      "rotation": {
+        "$id": "548",
+        "x": 0.0,
+        "y": -6.443962E-05,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 6.443962E-05,
+        "sqrMagnitude": 4.15246459E-09
+      },
+      "itemScale": {
+        "$id": "549",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.623263359,
+        "normalized": {
+          "x": 0.6470551,
+          "y": 0.6470551,
+          "z": 0.403285742,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.54546344,
+        "sqrMagnitude": 2.3884573
+      },
+      "price": 1200.0,
+      "currentItemState": {
+        "$id": "550",
+        "actualPrice": 486.0,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": true,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 486.0
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "551",
+      "prefab": "4f177a2399bcddd4e9e983ae3184f9df",
+      "isDestroyed": false,
+      "variants": [
+        0,
+        0,
+        0
+      ],
+      "sceneGuid": "8b51e615-534b-4f24-bea2-af72a6ae094d",
+      "matVariants": null,
+      "position": {
+        "$id": "552",
+        "x": -1.65,
+        "y": 0.0,
+        "z": -1.30000007,
+        "normalized": {
+          "x": -0.785491645,
+          "y": 0.0,
+          "z": -0.6188722,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 2.10059524,
+        "sqrMagnitude": 4.4125
+      },
+      "rotation": {
+        "$id": "553",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "itemScale": {
+        "$id": "554",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 629.0,
+      "currentItemState": {
+        "$id": "555",
+        "actualPrice": 314.5,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 314.5
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "556",
+      "prefab": "3009931abd632484eb13bd2fe43e0e18",
+      "isDestroyed": false,
+      "variants": [],
+      "sceneGuid": "f98ec0fa-7161-4621-8b00-8519c6f2ceb6",
+      "matVariants": null,
+      "position": {
+        "$id": "557",
+        "x": -0.3,
+        "y": 1.1,
+        "z": 0.25,
+        "normalized": {
+          "x": -0.257011771,
+          "y": 0.9423765,
+          "z": 0.214176476,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 1.16726172,
+        "sqrMagnitude": 1.36250007
+      },
+      "rotation": {
+        "$id": "558",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "itemScale": {
+        "$id": "559",
+        "x": 0.5,
+        "y": 0.5,
+        "z": 0.5,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.8660254,
+        "sqrMagnitude": 0.75
+      },
+      "price": -1.0,
+      "currentItemState": {
+        "$id": "560",
+        "actualPrice": -0.5,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [
+          "a84366521064f4048a609960fe3d3b95"
+        ],
+        "ActualPrice": -0.5
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "561",
+      "prefab": "aabd54a8e4717d4418b91a1c3529788c",
+      "isDestroyed": false,
+      "variants": [
+        1
+      ],
+      "sceneGuid": "0819eec2-685f-4497-82d5-112855b365fa",
+      "matVariants": null,
+      "position": {
+        "$id": "562",
+        "x": -1.35,
+        "y": 0.0,
+        "z": 2.4,
+        "normalized": {
+          "x": -0.490261257,
+          "y": 0.0,
+          "z": 0.8715756,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 2.753634,
+        "sqrMagnitude": 7.58250046
+      },
+      "rotation": {
+        "$id": "563",
+        "x": 0.0,
+        "y": 270.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      },
+      "itemScale": {
+        "$id": "564",
+        "x": 1.200001,
+        "y": 1.0,
+        "z": 1.00000048,
+        "normalized": {
+          "x": 0.646996856,
+          "y": 0.5391636,
+          "z": 0.5391638,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.85472465,
+        "sqrMagnitude": 3.4400034
+      },
+      "price": 2299.0,
+      "currentItemState": {
+        "$id": "565",
+        "actualPrice": 1149.5,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 1149.5
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "566",
+      "prefab": "5fdca4633f9ce7647af87745ddf42a6b",
+      "isDestroyed": false,
+      "variants": [],
+      "sceneGuid": "9bfa53ed-7ced-4ccb-90e3-46d27b9fe271",
+      "matVariants": null,
+      "position": {
+        "$id": "567",
+        "x": 0.1,
+        "y": 0.0,
+        "z": 2.7,
+        "normalized": {
+          "x": 0.03701166,
+          "y": 0.0,
+          "z": 0.9993148,
+          "normalized": {
+            "x": 0.0370116644,
+            "y": 0.0,
+            "z": 0.999314845,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 2.70185137,
+        "sqrMagnitude": 7.3
+      },
+      "rotation": {
+        "$id": "568",
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "itemScale": {
+        "$id": "569",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 1200.0,
+      "currentItemState": {
+        "$id": "570",
+        "actualPrice": 600.0,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 600.0
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    },
+    {
+      "$id": "571",
+      "prefab": "329ed1f2d141b314f86d1bc75c9ac1f8",
+      "isDestroyed": false,
+      "variants": [
+        0,
+        0
+      ],
+      "sceneGuid": "caea3783-1ac9-422c-bc1b-b78df5ee6b72",
+      "matVariants": null,
+      "position": {
+        "$id": "572",
+        "x": 0.1,
+        "y": 0.0,
+        "z": 4.75,
+        "normalized": {
+          "x": 0.0210479684,
+          "y": 0.0,
+          "z": 0.9997785,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 4.75105238,
+        "sqrMagnitude": 22.5725
+      },
+      "rotation": {
+        "$id": "573",
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      },
+      "itemScale": {
+        "$id": "574",
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "price": 249.0,
+      "currentItemState": {
+        "$id": "575",
+        "actualPrice": 124.5,
+        "canSwitchStates": false,
+        "lightOn": false,
+        "wasDamaged": false,
+        "isPlacedByUser": true,
+        "loadedItemState": -1,
+        "hashCode": null,
+        "widthScale": null,
+        "heighScale": null,
+        "dynamicItemTags": [],
+        "ActualPrice": 124.5
+      },
+      "isWorkshopItem": false,
+      "isMounted": false,
+      "isFilledWithWater": false,
+      "isEmpty": false,
+      "hasMagnetPosition": false,
+      "isMagnetOptional": false,
+      "itemToMountPrefabGuid": null,
+      "magnetGuid": null,
+      "resourceAmount": "NaN",
+      "plantsModification": null,
+      "entresolSaveData": null,
+      "imageSettings": null,
+      "petBowlData": null,
+      "fenceGateSaveData": null,
+      "petContainerSaveData": null,
+      "serializedTreeData": null,
+      "petPeeMatSaveData": null,
+      "doghouseInteractionSaveData": null,
+      "roofDamageData": null,
+      "farmInventoryItemData": null,
+      "modifiableMaterialsData": null,
+      "leafPileData": null,
+      "interactableAnimationCyclerData": null,
+      "chickenCoopSaveData": null,
+      "animalBeddingData": null,
+      "tableclothModification": null,
+      "neonModification": null,
+      "pickupable": true,
+      "isRenovated": false,
+      "partsData": null,
+      "renovationSurfaceColorsUsed": null
+    }
+  ],
+  "spawnedPetDirts": [],
+  "modifiedMagnets": [
+    {
+      "$id": "576",
+      "modifiedMagnet": {
+        "$id": "577",
+        "prefab": "3f9a2bd605fb4a04b9f6ff4f8aa0c0de",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "785f6741-83f0-415b-a091-ce80f74f128e",
+        "matVariants": null,
+        "position": {
+          "$id": "578",
+          "x": -3.50000024,
+          "y": 0.0,
+          "z": 5.68,
+          "normalized": {
+            "x": -0.524599135,
+            "y": 0.0,
+            "z": 0.851349354,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 6.67176151,
+          "sqrMagnitude": 44.5124
+        },
+        "rotation": {
+          "$id": "579",
+          "x": 0.0,
+          "y": 270.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "itemScale": {
+          "$id": "580",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 2099.0,
+        "currentItemState": {
+          "$id": "581",
+          "actualPrice": 2099.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 2099.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "582",
+        "prefab": "fbb92105b852b5d4299c6fdb9be117e7",
+        "isDestroyed": false,
+        "variants": [
+          0
+        ],
+        "sceneGuid": "09ae4cab-81e2-4548-a5e5-8739716864c1",
+        "matVariants": null,
+        "position": {
+          "$id": "583",
+          "x": -3.51850033,
+          "y": 0.0,
+          "z": 5.73300028,
+          "normalized": {
+            "x": -0.52307266,
+            "y": 0.0,
+            "z": 0.852288067,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 6.726599,
+          "sqrMagnitude": 45.2471352
+        },
+        "rotation": {
+          "$id": "584",
+          "x": 4.26886885E-07,
+          "y": 270.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 1.5810625E-09,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "itemScale": {
+          "$id": "585",
+          "x": 1.00000238,
+          "y": 1.0,
+          "z": 1.00000238,
+          "normalized": {
+            "x": 0.577350736,
+            "y": 0.577349365,
+            "z": 0.577350736,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 1.73205352,
+          "sqrMagnitude": 3.00000954
+        },
+        "price": 1550.0,
+        "currentItemState": {
+          "$id": "586",
+          "actualPrice": 775.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 775.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "587",
+      "modifiedMagnet": {
+        "$id": "588",
+        "prefab": "b74a4f265b94c2140b153b948a4fe80c",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "5f596456-a2fc-4ce1-b634-1808f0b99838",
+        "matVariants": null,
+        "position": {
+          "$id": "589",
+          "x": -3.50000024,
+          "y": 0.0,
+          "z": 3.821,
+          "normalized": {
+            "x": -0.6754537,
+            "y": 0.0,
+            "z": 0.737402439,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 5.18170261,
+          "sqrMagnitude": 26.8500443
+        },
+        "rotation": {
+          "$id": "590",
+          "x": 0.0,
+          "y": 270.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "itemScale": {
+          "$id": "591",
+          "x": 1.00000048,
+          "y": 1.0,
+          "z": 1.00000048,
+          "normalized": {
+            "x": 0.5773504,
+            "y": 0.5773501,
+            "z": 0.5773504,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 1.73205137,
+          "sqrMagnitude": 3.000002
+        },
+        "price": 1899.0,
+        "currentItemState": {
+          "$id": "592",
+          "actualPrice": 1899.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 1899.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "593",
+        "prefab": "bc147669882d90e49ab0cf3d0554c622",
+        "isDestroyed": false,
+        "variants": [
+          0,
+          0
+        ],
+        "sceneGuid": "cbf2e4e1-3fe9-463b-8719-fb963efc3c27",
+        "matVariants": null,
+        "position": {
+          "$id": "594",
+          "x": -3.52000022,
+          "y": 0.0,
+          "z": 3.821,
+          "normalized": {
+            "x": -0.677544236,
+            "y": 0.0,
+            "z": 0.735482,
+            "normalized": {
+              "x": -0.6775443,
+              "y": 0.0,
+              "z": 0.735482037,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 5.195233,
+          "sqrMagnitude": 26.9904442
+        },
+        "rotation": {
+          "$id": "595",
+          "x": 0.0,
+          "y": 180.0,
+          "z": -4.26886828E-07,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": -2.37159359E-09,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        },
+        "itemScale": {
+          "$id": "596",
+          "x": 1.00000286,
+          "y": 1.0,
+          "z": 1.00000286,
+          "normalized": {
+            "x": 0.5773508,
+            "y": 0.5773492,
+            "z": 0.5773508,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205411,
+          "sqrMagnitude": 3.00001144
+        },
+        "price": 500.0,
+        "currentItemState": {
+          "$id": "597",
+          "actualPrice": 250.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 250.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "598",
+      "modifiedMagnet": {
+        "$id": "599",
+        "prefab": "a65d5511524894d4e94f5efe511d7869",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "82167eb4-2d11-427a-999f-2bd50d3a1bcf",
+        "matVariants": null,
+        "position": {
+          "$id": "600",
+          "x": 0.9999979,
+          "y": 0.0,
+          "z": 1.29999948,
+          "normalized": {
+            "x": 0.6097101,
+            "y": 0.0,
+            "z": 0.7926245,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.64012027,
+          "sqrMagnitude": 2.68999457
+        },
+        "rotation": {
+          "$id": "601",
+          "x": 0.0,
+          "y": 270.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 270.0,
+          "sqrMagnitude": 72900.0
+        },
+        "itemScale": {
+          "$id": "602",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 1999.0,
+        "currentItemState": {
+          "$id": "603",
+          "actualPrice": 1999.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 1999.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "604",
+        "prefab": "439bcbda91d79f64f992238cb8e615a6",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "9a6e0039-ff7d-4216-a2c1-a40eaebf896c",
+        "matVariants": null,
+        "position": {
+          "$id": "605",
+          "x": 0.867997944,
+          "y": 0.204,
+          "z": 1.23016644,
+          "normalized": {
+            "x": 0.5713053,
+            "y": 0.134270221,
+            "z": 0.809680045,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 1.51932418,
+          "sqrMagnitude": 2.30834579
+        },
+        "rotation": {
+          "$id": "606",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "itemScale": {
+          "$id": "607",
+          "x": 1.00000119,
+          "y": 1.0,
+          "z": 1.00000119,
+          "normalized": {
+            "x": 0.5773505,
+            "y": 0.5773498,
+            "z": 0.5773505,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205221,
+          "sqrMagnitude": 3.00000477
+        },
+        "price": 159.0,
+        "currentItemState": {
+          "$id": "608",
+          "actualPrice": 79.5,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [
+            "3c1d3e4cd9eb2614785c7a173d3c3544"
+          ],
+          "ActualPrice": 79.5
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": "5efc7baa-ab8b-4d2f-af47-22677528abe4",
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "609",
+      "modifiedMagnet": {
+        "$id": "610",
+        "prefab": "a65d5511524894d4e94f5efe511d7869",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "668d571c-aa62-408d-a611-010fe38e0a43",
+        "matVariants": null,
+        "position": {
+          "$id": "611",
+          "x": -6.0,
+          "y": 0.0,
+          "z": 4.24999952,
+          "normalized": {
+            "x": -0.816024542,
+            "y": 0.0,
+            "z": 0.5780173,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 7.35272026,
+          "sqrMagnitude": 54.0624962
+        },
+        "rotation": {
+          "$id": "612",
+          "x": 0.0,
+          "y": 90.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        },
+        "itemScale": {
+          "$id": "613",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 1999.0,
+        "currentItemState": {
+          "$id": "614",
+          "actualPrice": 1999.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 1999.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "615",
+        "prefab": "439bcbda91d79f64f992238cb8e615a6",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "59e17b2e-1ced-4a47-aa90-a1eb07bb00bb",
+        "matVariants": null,
+        "position": {
+          "$id": "616",
+          "x": -5.868,
+          "y": 0.204,
+          "z": 4.319833,
+          "normalized": {
+            "x": -0.80499965,
+            "y": 0.0279856734,
+            "z": 0.5926148,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 7.289444,
+          "sqrMagnitude": 53.135994
+        },
+        "rotation": {
+          "$id": "617",
+          "x": -6.1739016E-15,
+          "y": 179.999985,
+          "z": -6.173899E-15,
+          "normalized": {
+            "x": -3.42994577E-17,
+            "y": 1.0,
+            "z": -3.429944E-17,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 179.999985,
+          "sqrMagnitude": 32399.9941
+        },
+        "itemScale": {
+          "$id": "618",
+          "x": 1.00000131,
+          "y": 1.0,
+          "z": 1.00000131,
+          "normalized": {
+            "x": 0.5773505,
+            "y": 0.5773498,
+            "z": 0.5773505,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205233,
+          "sqrMagnitude": 3.00000525
+        },
+        "price": 159.0,
+        "currentItemState": {
+          "$id": "619",
+          "actualPrice": 79.5,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [
+            "3c1d3e4cd9eb2614785c7a173d3c3544"
+          ],
+          "ActualPrice": 79.5
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": "b2a1ed87-5077-4de8-8bb9-45f52306ed3f",
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "620",
+      "modifiedMagnet": {
+        "$id": "621",
+        "prefab": "a65d5511524894d4e94f5efe511d7869",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "04ce8153-6f3a-477f-8fd5-941af3e6d6ad",
+        "matVariants": null,
+        "position": {
+          "$id": "622",
+          "x": -1.05,
+          "y": 0.0,
+          "z": -5.0,
+          "normalized": {
+            "x": -0.205517218,
+            "y": 0.0,
+            "z": -0.9786535,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 5.109061,
+          "sqrMagnitude": 26.102499
+        },
+        "rotation": {
+          "$id": "623",
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "itemScale": {
+          "$id": "624",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 1999.0,
+        "currentItemState": {
+          "$id": "625",
+          "actualPrice": 1999.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 1999.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "626",
+        "prefab": "439bcbda91d79f64f992238cb8e615a6",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "8bd5a65a-e3a8-4f89-bdc0-e5b4c0bf8604",
+        "matVariants": null,
+        "position": {
+          "$id": "627",
+          "x": -1.11983252,
+          "y": 0.204,
+          "z": -4.868,
+          "normalized": {
+            "x": -0.223997563,
+            "y": 0.0408056565,
+            "z": -0.973735034,
+            "normalized": {
+              "x": -0.223997578,
+              "y": 0.04080566,
+              "z": -0.9737351,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 4.99930668,
+          "sqrMagnitude": 24.9930649
+        },
+        "rotation": {
+          "$id": "628",
+          "x": -6.862645E-20,
+          "y": 90.0,
+          "z": 9.389067E-15,
+          "normalized": {
+            "x": -7.62516132E-22,
+            "y": 1.0,
+            "z": 1.04322967E-16,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        },
+        "itemScale": {
+          "$id": "629",
+          "x": 1.000001,
+          "y": 1.0,
+          "z": 1.000001,
+          "normalized": {
+            "x": 0.5773505,
+            "y": 0.5773499,
+            "z": 0.5773505,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 1.73205185,
+          "sqrMagnitude": 3.00000381
+        },
+        "price": 159.0,
+        "currentItemState": {
+          "$id": "630",
+          "actualPrice": 79.5,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [
+            "3c1d3e4cd9eb2614785c7a173d3c3544"
+          ],
+          "ActualPrice": 79.5
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": "65eceb9c-4524-4750-94f3-7137f3f1117a",
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "631",
+      "modifiedMagnet": {
+        "$id": "632",
+        "prefab": "a65d5511524894d4e94f5efe511d7869",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "d8b1108b-9920-4505-a47e-705be757aa57",
+        "matVariants": null,
+        "position": {
+          "$id": "633",
+          "x": -7.5,
+          "y": 0.0,
+          "z": -3.3,
+          "normalized": {
+            "x": -0.915315032,
+            "y": 0.0,
+            "z": -0.4027386,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 8.1939,
+          "sqrMagnitude": 67.14
+        },
+        "rotation": {
+          "$id": "634",
+          "x": 0.0,
+          "y": 90.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        },
+        "itemScale": {
+          "$id": "635",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 1999.0,
+        "currentItemState": {
+          "$id": "636",
+          "actualPrice": 1999.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 1999.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "637",
+        "prefab": "439bcbda91d79f64f992238cb8e615a6",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "faf749b8-f162-42cd-bdc7-8329faa6e47d",
+        "matVariants": null,
+        "position": {
+          "$id": "638",
+          "x": -7.368,
+          "y": 0.204,
+          "z": -3.23016715,
+          "normalized": {
+            "x": -0.915558457,
+            "y": 0.0253493376,
+            "z": -0.4013853,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 8.047547,
+          "sqrMagnitude": 64.76302
+        },
+        "rotation": {
+          "$id": "639",
+          "x": -6.1739016E-15,
+          "y": 179.999985,
+          "z": -6.173899E-15,
+          "normalized": {
+            "x": -3.42994577E-17,
+            "y": 1.0,
+            "z": -3.429944E-17,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 179.999985,
+          "sqrMagnitude": 32399.9941
+        },
+        "itemScale": {
+          "$id": "640",
+          "x": 1.00000131,
+          "y": 1.0,
+          "z": 1.00000131,
+          "normalized": {
+            "x": 0.5773505,
+            "y": 0.5773498,
+            "z": 0.5773505,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205233,
+          "sqrMagnitude": 3.00000525
+        },
+        "price": 159.0,
+        "currentItemState": {
+          "$id": "641",
+          "actualPrice": 79.5,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [
+            "3c1d3e4cd9eb2614785c7a173d3c3544"
+          ],
+          "ActualPrice": 79.5
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": "2879f042-8c9a-4492-a7f7-af06a5cce067",
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    },
+    {
+      "$id": "642",
+      "modifiedMagnet": {
+        "$id": "643",
+        "prefab": "a32f053956b90df48846d4cb645b85b5",
+        "isDestroyed": false,
+        "variants": [],
+        "sceneGuid": "efabed3d-dd25-4006-bb6d-2e983ac9bd8d",
+        "matVariants": null,
+        "position": {
+          "$id": "644",
+          "x": -5.5,
+          "y": 0.0,
+          "z": 5.99999857,
+          "normalized": {
+            "x": -0.675724745,
+            "y": 0.0,
+            "z": 0.737154067,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 8.139409,
+          "sqrMagnitude": 66.2499847
+        },
+        "rotation": {
+          "$id": "645",
+          "x": 0.0,
+          "y": 180.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 180.0,
+          "sqrMagnitude": 32400.0
+        },
+        "itemScale": {
+          "$id": "646",
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.73205078,
+          "sqrMagnitude": 3.0
+        },
+        "price": 2249.0,
+        "currentItemState": {
+          "$id": "647",
+          "actualPrice": 2249.0,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 2249.0
+        },
+        "isWorkshopItem": false,
+        "isMounted": true,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": true,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      },
+      "modifiedItem": {
+        "$id": "648",
+        "prefab": "0dfda16612be5a94f83e1a2fabab1f34",
+        "isDestroyed": false,
+        "variants": [
+          0,
+          0
+        ],
+        "sceneGuid": "da57aed7-26f1-4d30-9643-584856203834",
+        "matVariants": null,
+        "position": {
+          "$id": "649",
+          "x": -5.5,
+          "y": 0.00400000066,
+          "z": 5.515999,
+          "normalized": {
+            "x": -0.706079,
+            "y": 0.000513512059,
+            "z": 0.708132863,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 7.789497,
+          "sqrMagnitude": 60.6762581
+        },
+        "rotation": {
+          "$id": "650",
+          "x": -4.26886885E-07,
+          "y": 90.0,
+          "z": 0.0,
+          "normalized": {
+            "x": -4.74318762E-09,
+            "y": 1.0,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 90.0,
+          "sqrMagnitude": 8100.0
+        },
+        "itemScale": {
+          "$id": "651",
+          "x": 1.00000143,
+          "y": 1.0,
+          "z": 1.00000143,
+          "normalized": {
+            "x": 0.577350557,
+            "y": 0.5773497,
+            "z": 0.577350557,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 1.73205245,
+          "sqrMagnitude": 3.00000572
+        },
+        "price": 1079.0,
+        "currentItemState": {
+          "$id": "652",
+          "actualPrice": 539.5,
+          "canSwitchStates": false,
+          "lightOn": false,
+          "wasDamaged": false,
+          "isPlacedByUser": true,
+          "loadedItemState": -1,
+          "hashCode": null,
+          "widthScale": null,
+          "heighScale": null,
+          "dynamicItemTags": [],
+          "ActualPrice": 539.5
+        },
+        "isWorkshopItem": false,
+        "isMounted": false,
+        "isFilledWithWater": false,
+        "isEmpty": false,
+        "hasMagnetPosition": false,
+        "isMagnetOptional": false,
+        "itemToMountPrefabGuid": null,
+        "magnetGuid": null,
+        "resourceAmount": "NaN",
+        "plantsModification": null,
+        "entresolSaveData": null,
+        "imageSettings": null,
+        "petBowlData": null,
+        "fenceGateSaveData": null,
+        "petContainerSaveData": null,
+        "serializedTreeData": null,
+        "petPeeMatSaveData": null,
+        "doghouseInteractionSaveData": null,
+        "roofDamageData": null,
+        "farmInventoryItemData": null,
+        "modifiableMaterialsData": null,
+        "leafPileData": null,
+        "interactableAnimationCyclerData": null,
+        "chickenCoopSaveData": null,
+        "animalBeddingData": null,
+        "tableclothModification": null,
+        "neonModification": null,
+        "pickupable": false,
+        "isRenovated": false,
+        "partsData": null,
+        "renovationSurfaceColorsUsed": null
+      }
+    }
+  ],
+  "turfCreated": [],
+  "modifiedCavities": [],
+  "extendedDirts": [],
+  "cleanedWindowsGuids": [],
+  "cleanedCleanablesGuids": [],
+  "destroyedCockroachesNests": [],
+  "magnetsNeverWhiteAgain": [
+    "36819509-cd25-4be0-a2e0-12296c261098",
+    "b83b1641-c2ae-464d-bf7b-db80eabd86ab",
+    "46b75d27-4f85-4e68-9001-cc01d7319434",
+    "b6d4550f-0aae-4b93-aa10-5505f03b0bdd",
+    "b20d9024-b4e3-4b7d-8087-4531979807ff",
+    "62e85c20-db2f-437e-9fd3-92c2e46d58ee",
+    "d23b9fcd-7c32-454c-96db-bd34ba214943",
+    "292f8fa8-4f0d-48fd-b0b0-01513a6c6410",
+    "7f4374cc-110f-416a-994b-fc8dca63adcf",
+    "a465820e-b78a-4c9c-b775-32c50872e4b0",
+    "2ed3ed75-16c8-4df3-aae9-de58685e2156",
+    "a76b6ea6-073b-4b20-bad0-88cdf5f91886",
+    "dfb336f4-c687-4704-a4d1-dcbdd6499401",
+    "99731aa4-49d9-4852-8771-51758a6f850d",
+    "b8209e0d-dfb3-49c5-8a1f-9d36369601f4",
+    "ae322bf9-9fbd-4374-9f96-dd9c05f1949a",
+    "0d7b2c87-c562-4af5-a38d-8c5488eee6a0",
+    "58d4d92f-e41a-494e-9f96-faebf2769c29",
+    "6d9544f3-9735-4c29-b2a0-525f039df9f5",
+    "fcb57f37-60ea-40ed-aa4e-71dd722c9335",
+    "852fa7c0-e870-4707-bd60-f1779ca979d5",
+    "d911ab86-8e33-415b-ae90-ca8eb184933c"
+  ],
+  "modifiedReplaceableItems": [],
+  "repairedCockpits": [],
+  "prefabSwaps": [
+    {
+      "$id": "653",
+      "swapperGuid": "7ae0a963-266d-4da5-9071-d617c43efb93",
+      "prefab": "3d4ea0d6511973844b022c1e644f8e2a",
+      "state": 2
+    },
+    {
+      "$id": "654",
+      "swapperGuid": "aa470a49-1653-49b4-b10f-3d3cabbcc0a3",
+      "prefab": "27e1e9841901a064c9c4df6684c28cd8",
+      "state": 2
+    }
+  ],
+  "brokenSubitems": [],
+  "deviceStateSetterStates": [
+    {
+      "$id": "655",
+      "deviceStateSetterGuid": "15a92026-21af-4e69-8ce4-a14395ffaee3",
+      "itemInsideGuid": null,
+      "magnetDevicePrepared": true
+    },
+    {
+      "$id": "656",
+      "deviceStateSetterGuid": "b013e28a-c02e-413a-94b7-3321f3fe3cb9",
+      "itemInsideGuid": null,
+      "magnetDevicePrepared": true
+    },
+    {
+      "$id": "657",
+      "deviceStateSetterGuid": "3e450fb9-c374-46fd-8a7a-ebda1ce17a7c",
+      "itemInsideGuid": null,
+      "magnetDevicePrepared": true
+    }
+  ],
+  "pileOfRubbishModifications": [],
+  "pileOfSnowModifications": [],
+  "marchingPavementsModifications": [],
+  "decisionsMade": [],
+  "cursesProgress": [],
+  "cursePopupChoiceMade": false,
+  "plotTwistActivated": [],
+  "actionWithTriggerActivated": [],
+  "windowInstallations": [],
+  "wallInstallations": [],
+  "changedWindowModifications": [],
+  "placedSoil": [],
+  "soilSaveInitiated": false,
+  "destroyableItemModifications": [],
+  "architectWalls": [],
+  "architectFloors": [],
+  "destroyedWalls": [],
+  "architectBalconyMarkers": [],
+  "architectRooftopPortals": [],
+  "modifiedFloorsDictionary": {
+    "$id": "658"
+  },
+  "houseExtensionsPrice": 0.0,
+  "profitInfoData": {
+    "$id": "659",
+    "profitInfo": {
+      "$id": "660",
+      "PurchaseHouse": {
+        "$id": "661",
+        "moneyValue": -260354.0,
+        "type": "PurchaseHouse"
+      },
+      "RenovationCost": {
+        "$id": "662",
+        "moneyValue": -69.0,
+        "type": "RenovationCost"
+      },
+      "FurnitureBought": {
+        "$id": "663",
+        "moneyValue": 0.0,
+        "type": "FurnitureBought"
+      },
+      "FurnitureSold": {
+        "$id": "664",
+        "moneyValue": 0.0,
+        "type": "FurnitureSold"
+      },
+      "HouseSale": {
+        "$id": "665",
+        "moneyValue": 0.0,
+        "type": "HouseSale"
+      },
+      "Negotiation": {
+        "$id": "666",
+        "moneyValue": 0.0,
+        "type": "Negotiation"
+      },
+      "BreakingNegotiationPenalty": {
+        "$id": "667",
+        "moneyValue": 0.0,
+        "type": "BreakingNegotiationPenalty"
+      },
+      "Profit": {
+        "$id": "668",
+        "moneyValue": -260423.0,
+        "type": "PurchaseHouse"
+      }
+    }
+  },
+  "questStatistics": {
+    "$id": "669",
+    "Mounted": {
+      "$id": "670",
+      "toDo": 0,
+      "done": 0
+    }
+  },
+  "otherStatistics": {
+    "$id": "671",
+    "Mounted": 2.0,
+    "BoughtItems": 3.0,
+    "Painted": 513.0
+  },
+  "beforeAfterTexturesId": null,
+  "mowableState": {
+    "$id": "672",
+    "mainLawnState": {
+      "$id": "673",
+      "grassMode": 2,
+      "progress": 1.0,
+      "baseProgress": null,
+      "textureId": 1741734351,
+      "isOldScaleCorrectionSystem": null
+    },
+    "lawnAreasStates": null
+  },
+  "moleModification": {
+    "$id": "674",
+    "config": {
+      "$id": "675",
+      "spawnCenter": {
+        "$id": "676",
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "spawnRadius": 4.0,
+      "hillCount": 10,
+      "state": 2,
+      "maxSizeVariation": 0.25
+    },
+    "systemGuid": "a4fe46d7-85b9-49c8-a8ad-3d531608f877"
+  },
+  "gravelState": null,
+  "totalCostOfBoughtGravel": 0.0,
+  "totalPriceOfGrassFromTurfRoller": 0.0,
+  "playingOnMapTime": 682.5327,
+  "orderBudget": null,
+  "introCutscenesPlayed": [],
+  "luxuryDialogueWindows": [],
+  "gridFirstCorner": {
+    "$id": "677",
+    "x": -12.5,
+    "y": 0.0,
+    "z": -12.5,
+    "normalized": {
+      "x": -0.707106769,
+      "y": 0.0,
+      "z": -0.707106769,
+      "magnitude": 1.0,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 17.67767,
+    "sqrMagnitude": 312.5
+  },
+  "houseBuyer": null
+}

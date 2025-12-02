@@ -1,0 +1,17 @@
+"705120"
+{
+	"ChangeNumber"		"0"
+	"ostype"		"0"
+	"sysSave.bin"
+	{
+		"root"		"0"
+		"size"		"36146"
+		"localtime"		"1742285180"
+		"time"		"1742285182"
+		"remotetime"		"1742285183"
+		"sha"		"19abbac4472e0296e82cd256a95249cfba5b0c98"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}

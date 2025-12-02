@@ -1,0 +1,28 @@
+<Stats deaths="31" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="enlightened_alchemist | $damage_electricity" value="1" >
+    </E>
+    <E key="player | $damage_kick" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="20" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="lasergun" value="1" >
+    </E>
+    <E key="scorpion" value="1" >
+    </E>
+    <E key="tentacler_small" value="1" >
+    </E>
+    <E key="wizard_neutral" value="1" >
+    </E>
+  </kill_map>
+</Stats>

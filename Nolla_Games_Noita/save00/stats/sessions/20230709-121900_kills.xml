@@ -1,0 +1,20 @@
+<Stats deaths="1" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fly" value="1" >
+    </E>
+    <E key="playerghost" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+  </kill_map>
+</Stats>

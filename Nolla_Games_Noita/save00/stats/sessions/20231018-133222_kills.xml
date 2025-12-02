@@ -1,0 +1,62 @@
+<Stats deaths="0" kills="54" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bigzombie" value="1" >
+    </E>
+    <E key="bigzombiehead" value="1" >
+    </E>
+    <E key="bigzombietorso" value="1" >
+    </E>
+    <E key="boss_alchemist" value="1" >
+    </E>
+    <E key="enlightened_alchemist" value="6" >
+    </E>
+    <E key="failed_alchemist" value="1" >
+    </E>
+    <E key="friend" value="1" >
+    </E>
+    <E key="fungus" value="3" >
+    </E>
+    <E key="fungus_big" value="6" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="lukki_creepy_long" value="1" >
+    </E>
+    <E key="lukki_dark" value="2" >
+    </E>
+    <E key="lukki_eggs" value="1" >
+    </E>
+    <E key="lukki_tiny" value="1" >
+    </E>
+    <E key="lurker" value="2" >
+    </E>
+    <E key="necromancer_shop" value="3" >
+    </E>
+    <E key="shaman" value="2" >
+    </E>
+    <E key="spearbot" value="1" >
+    </E>
+    <E key="thundermage" value="2" >
+    </E>
+    <E key="thundermage_big" value="1" >
+    </E>
+    <E key="ultimate_killer" value="1" >
+    </E>
+    <E key="wizard_dark" value="1" >
+    </E>
+    <E key="wizard_homing" value="1" >
+    </E>
+    <E key="wizard_neutral" value="6" >
+    </E>
+    <E key="wizard_returner" value="2" >
+    </E>
+    <E key="wizard_tele" value="3" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="wizard_weaken" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,40 @@
+<Stats deaths="31" kills="12" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="4" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 诅咒岩石 的材料伤害" value="2" >
+    </E>
+    <E key="NULL | 来自材料的伤害：酸液" value="1" >
+    </E>
+    <E key="meatmaggot | worm bite" value="2" >
+    </E>
+    <E key="miniblob | $damage_melee" value="1" >
+    </E>
+    <E key="phantom_a | $damage_melee" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="12" >
+    </E>
+    <E key="player | $damage_slice" value="2" >
+    </E>
+    <E key="skullfly | $damage_melee" value="1" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="miniblob" value="4" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

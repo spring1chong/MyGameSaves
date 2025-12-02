@@ -1,0 +1,10 @@
+<Stats deaths="0" kills="5" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="bigfirebug" value="1" >
+    </E>
+    <E key="firebug" value="4" >
+    </E>
+  </kill_map>
+</Stats>

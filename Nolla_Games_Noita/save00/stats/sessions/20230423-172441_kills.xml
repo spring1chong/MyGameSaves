@@ -1,0 +1,12 @@
+<Stats deaths="1" kills="4" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | 来自材料的伤害：贪婪诅咒的液体" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter" value="2" >
+    </E>
+    <E key="acidshot" value="2" >
+    </E>
+  </kill_map>
+</Stats>

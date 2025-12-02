@@ -1,0 +1,22 @@
+<Stats deaths="1" kills="16" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="worm_big | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="fish" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="pebble_physics" value="4" >
+    </E>
+    <E key="rat" value="6" >
+    </E>
+    <E key="scavenger_grenade" value="1" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,102 @@
+<Stats deaths="748" kills="87" player_kills="3" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="33" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="70" >
+    </E>
+    <E key="NULL | $damage_fire" value="132" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="25" >
+    </E>
+    <E key="NULL | $damage_projectile" value="7" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="32" >
+    </E>
+    <E key="NULL | 来自材料的伤害：岩浆" value="11" >
+    </E>
+    <E key="NULL | 来自材料的伤害：毒液气体" value="3" >
+    </E>
+    <E key="bat | $damage_melee" value="5" >
+    </E>
+    <E key="bigfirebug | $damage_fire" value="3" >
+    </E>
+    <E key="black_hole_big | " value="5" >
+    </E>
+    <E key="boss_dragon | worm bite" value="1" >
+    </E>
+    <E key="effect_curse_cloud_01_temporary | $damage_explosion" value="2" >
+    </E>
+    <E key="firebug | $damage_fire" value="1" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="goblin_bomb | $damage_explosion" value="4" >
+    </E>
+    <E key="iceskull | $damage_ice" value="1" >
+    </E>
+    <E key="lukki_minion | $damage_curse" value="2" >
+    </E>
+    <E key="miner | $damage_explosion" value="2" >
+    </E>
+    <E key="miner | $damage_melee" value="1" >
+    </E>
+    <E key="physics_ragdoll_part_exploding | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="14" >
+    </E>
+    <E key="player | $damage_fire" value="1" >
+    </E>
+    <E key="player | $damage_ice" value="3" >
+    </E>
+    <E key="player | $damage_melee" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="197" >
+    </E>
+    <E key="player | $damage_slice" value="17" >
+    </E>
+    <E key="player | bzzt!" value="1" >
+    </E>
+    <E key="playerghost | $damage_ice" value="1" >
+    </E>
+    <E key="playerghost | $damage_melee" value="1" >
+    </E>
+    <E key="playerghost | $damage_projectile" value="2" >
+    </E>
+    <E key="rat | $damage_melee" value="9" >
+    </E>
+    <E key="scavenger_mine | $damage_melee" value="1" >
+    </E>
+    <E key="shotgunner | $damage_melee" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_explosion" value="4" >
+    </E>
+    <E key="sunbaby | $damage_sun" value="7" >
+    </E>
+    <E key="sunegg | $damage_sun" value="129" >
+    </E>
+    <E key="tentacle_portal | $damage_melee" value="3" >
+    </E>
+    <E key="worm | worm bite" value="11" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bat" value="5" >
+    </E>
+    <E key="firebug" value="16" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="miner" value="7" >
+    </E>
+    <E key="player" value="3" >
+    </E>
+    <E key="rat" value="49" >
+    </E>
+    <E key="shotgunner" value="4" >
+    </E>
+  </kill_map>
+</Stats>

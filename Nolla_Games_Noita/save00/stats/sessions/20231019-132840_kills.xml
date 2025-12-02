@@ -1,0 +1,14 @@
+<Stats deaths="0" kills="15" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="egg_red" value="12" >
+    </E>
+    <E key="hpcrystal" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="snowcrystal" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,28 @@
+<Stats deaths="24" kills="9" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 绿毒岩石 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 酸液 的材料伤害" value="2" >
+    </E>
+    <E key="player | $damage_kick" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="7" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="frog" value="3" >
+    </E>
+    <E key="miner_weak" value="2" >
+    </E>
+    <E key="miniblob" value="3" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+  </kill_map>
+</Stats>

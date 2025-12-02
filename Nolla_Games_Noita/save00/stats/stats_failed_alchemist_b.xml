@@ -1,0 +1,14 @@
+<Stats deaths="11" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | 来自材料的伤害：岩浆" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="1" >
+    </E>
+    <E key="skullrat | $damage_melee" value="7" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

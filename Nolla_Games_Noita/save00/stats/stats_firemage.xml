@@ -1,0 +1,30 @@
+<Stats deaths="34" kills="21" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | $damage_water" value="8" >
+    </E>
+    <E key="NULL | 来自 水 的材料伤害" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="22" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bigzombie" value="2" >
+    </E>
+    <E key="bigzombietorso" value="2" >
+    </E>
+    <E key="blob" value="2" >
+    </E>
+    <E key="meatmaggot" value="1" >
+    </E>
+    <E key="miniblob" value="12" >
+    </E>
+    <E key="scavenger_glue" value="1" >
+    </E>
+    <E key="tentacler" value="1" >
+    </E>
+  </kill_map>
+</Stats>

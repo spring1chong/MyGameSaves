@@ -1,0 +1,188 @@
+<StreamingEvents>
+  <Event enabled="1" id="HEALTH_PLUS" >
+  </Event>
+  <Event enabled="1" id="SPEEDY_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="PROTECT_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="TELEPORTING_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="POLYMORPH_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="TINY_GHOST_PLAYER" >
+  </Event>
+  <Event enabled="1" id="TINY_GHOST_ENEMY" >
+  </Event>
+  <Event enabled="1" id="HOMING_ENEMY_PROJECTILES" >
+  </Event>
+  <Event enabled="1" id="MAX_HEALTH_PLUS" >
+  </Event>
+  <Event enabled="1" id="REGENERATION_FIELD" >
+  </Event>
+  <Event enabled="1" id="PROTECT_PLAYER" >
+  </Event>
+  <Event enabled="1" id="SHIELD_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="SHIELD_PLAYER" >
+  </Event>
+  <Event enabled="1" id="FASTER_PLAYER" >
+  </Event>
+  <Event enabled="1" id="SLIMY_PLAYER" >
+  </Event>
+  <Event enabled="1" id="WET_PLAYER" >
+  </Event>
+  <Event enabled="1" id="OILED_PLAYER" >
+  </Event>
+  <Event enabled="1" id="DRUNK_PLAYER" >
+  </Event>
+  <Event enabled="1" id="DRUNK_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="SPELL_REFRESH" >
+  </Event>
+  <Event enabled="1" id="SEA_OF_X" >
+  </Event>
+  <Event enabled="1" id="SEA_OF_WATER" >
+  </Event>
+  <Event enabled="1" id="SEA_OF_OIL" >
+  </Event>
+  <Event enabled="1" id="SEA_OF_LAVA" >
+  </Event>
+  <Event enabled="1" id="NUKE" >
+  </Event>
+  <Event enabled="1" id="SPAWN_WORM" >
+  </Event>
+  <Event enabled="1" id="SPAWN_SHOPKEEPER" >
+  </Event>
+  <Event enabled="1" id="BOUNCY_SHOTS" >
+  </Event>
+  <Event enabled="1" id="BOOMERANG_SHOTS" >
+  </Event>
+  <Event enabled="1" id="FIZZLE" >
+  </Event>
+  <Event enabled="1" id="GRAVITY" >
+  </Event>
+  <Event enabled="1" id="ANTIGRAVITY" >
+  </Event>
+  <Event enabled="1" id="EXPLOSIVE_PROJECTILE" >
+  </Event>
+  <Event enabled="1" id="GIVE_WAND_TO_ENEMY" >
+  </Event>
+  <Event enabled="1" id="GIVE_WAND_TO_PLAYER" >
+  </Event>
+  <Event enabled="1" id="REMOVE_LIQUID" >
+  </Event>
+  <Event enabled="1" id="REMOVE_GROUND" >
+  </Event>
+  <Event enabled="1" id="BERSERK" >
+  </Event>
+  <Event enabled="1" id="FIREBALL_THROWER_PLAYER" >
+  </Event>
+  <Event enabled="1" id="FIREBALL_THROWER_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="SPAWN_CHEST" >
+  </Event>
+  <Event enabled="1" id="TRANSFORM_GIGA_DISCS" >
+  </Event>
+  <Event enabled="1" id="TRANSFORM_NUKES" >
+  </Event>
+  <Event enabled="1" id="RAIN_GOLD" >
+  </Event>
+  <Event enabled="1" id="RAIN_WORM" >
+  </Event>
+  <Event enabled="1" id="RAIN_BOMB" >
+  </Event>
+  <Event enabled="1" id="RAIN_BLACKHOLE" >
+  </Event>
+  <Event enabled="1" id="RAIN_HIISI" >
+  </Event>
+  <Event enabled="1" id="RAIN_BARREL" >
+  </Event>
+  <Event enabled="1" id="RAIN_POTION" >
+  </Event>
+  <Event enabled="1" id="GRAVITY_PLAYER" >
+  </Event>
+  <Event enabled="1" id="GRAVITY_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="PORTAL_EAST" >
+  </Event>
+  <Event enabled="1" id="PORTAL_BEGINNING" >
+  </Event>
+  <Event enabled="1" id="PORTAL_RANDOM" >
+  </Event>
+  <Event enabled="1" id="TRAIL_WATER" >
+  </Event>
+  <Event enabled="1" id="TRAIL_OIL" >
+  </Event>
+  <Event enabled="1" id="TRAIL_ALCOHOL" >
+  </Event>
+  <Event enabled="1" id="TRAIL_GUNPOWDER" >
+  </Event>
+  <Event enabled="1" id="TRAIL_ACID" >
+  </Event>
+  <Event enabled="1" id="TRAIL_LAVA" >
+  </Event>
+  <Event enabled="1" id="TRAIL_FIRE" >
+  </Event>
+  <Event enabled="1" id="TRAIL_POISON" >
+  </Event>
+  <Event enabled="1" id="PLAYER_TRIP" >
+  </Event>
+  <Event enabled="1" id="TRANSMUTATION" >
+  </Event>
+  <Event enabled="1" id="SLOW_BULLETS" >
+  </Event>
+  <Event enabled="1" id="SLOW_ENEMIES" >
+  </Event>
+  <Event enabled="1" id="SLOW_PLAYER" >
+  </Event>
+  <Event enabled="1" id="IMPROVE_WANDS" >
+  </Event>
+  <Event enabled="1" id="WEAKEN_WANDS" >
+  </Event>
+  <Event enabled="1" id="HEAL_GHOST" >
+  </Event>
+  <Event enabled="1" id="SHIELD_GHOST" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS_DARK" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS_HEAL" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS_FIRE" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS_LASER" >
+  </Event>
+  <Event enabled="1" id="HOMUNCULUS_PUNCH" >
+  </Event>
+  <Event enabled="1" id="PLAYER_GAS" >
+  </Event>
+  <Event enabled="1" id="AREADAMAGE_PLAYER" >
+  </Event>
+  <Event enabled="1" id="AREADAMAGE_ENEMY" >
+  </Event>
+  <Event enabled="1" id="TWITCHY" >
+  </Event>
+  <Event enabled="1" id="SPAWN_PERK" >
+  </Event>
+  <Event enabled="1" id="MATTER_EATER" >
+  </Event>
+  <Event enabled="1" id="INVISIBLE_PLAYER" >
+  </Event>
+  <Event enabled="1" id="INVISIBLE_ENEMY" >
+  </Event>
+  <Event enabled="1" id="NEUTRALIZED" >
+  </Event>
+  <Event enabled="1" id="HIGH_SPREAD" >
+  </Event>
+  <Event enabled="1" id="SPAWN_PERK_ENEMY" >
+  </Event>
+  <Event enabled="1" id="ALL_ACCESS_TELEPORT" >
+  </Event>
+  <Event enabled="1" id="HOLIDAY_MOOD" >
+  </Event>
+  <Event enabled="1" id="FIREWORKS" >
+  </Event>
+  <Event enabled="1" id="ADD_ALWAYS_CAST" >
+  </Event>
+</StreamingEvents>

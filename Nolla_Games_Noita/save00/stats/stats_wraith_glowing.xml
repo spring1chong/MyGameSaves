@@ -1,0 +1,24 @@
+<Stats deaths="15" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | 来自 冰冻蒸汽 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="1" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="10" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="iceskull" value="1" >
+    </E>
+    <E key="scavenger_heal" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+  </kill_map>
+</Stats>

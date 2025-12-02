@@ -1,0 +1,16 @@
+<Stats deaths="0" kills="6" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="barfer" value="1" >
+    </E>
+    <E key="friend" value="1" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="wizard_twitchy" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

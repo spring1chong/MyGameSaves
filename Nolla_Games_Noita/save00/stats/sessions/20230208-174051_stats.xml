@@ -1,0 +1,12 @@
+<Stats BUILD_NAME="Noita-Build-Apr 23 2021-18:44:24" >
+  <stats biomes_visited_with_wands="1" damage_taken="6.8" dead="1" death_count="0" death_pos.x="-34.5243" death_pos.y="5013.1" enemies_killed="0" gold="286" gold_all="286" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by=" | 过热" killed_by_extra="" places_visited="1" playtime="327.2" playtime_str="0:05:27" projectiles_shot="203" streaks="0" teleports="0" wands_edited="0" world_seed="20230208" >
+  </stats>
+  <biome_baseline biomes_visited_with_wands="1" damage_taken="0" dead="0" death_count="0" death_pos.x="0" death_pos.y="0" enemies_killed="0" gold="286" gold_all="286" gold_infinite="0" healed="0" heart_containers="0" hp="100" items="8" kicks="0" killed_by="" killed_by_extra="" places_visited="1" playtime="111.817" playtime_str="0:01:51" projectiles_shot="112" streaks="0" teleports="0" wands_edited="0" world_seed="20230208" >
+  </biome_baseline>
+  <item_map>
+  </item_map>
+  <biomes_visited>
+    <E key="$biome_holymountain" value="1" >
+    </E>
+  </biomes_visited>
+</Stats>

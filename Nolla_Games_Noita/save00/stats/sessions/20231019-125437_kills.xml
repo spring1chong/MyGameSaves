@@ -1,0 +1,24 @@
+<Stats deaths="0" kills="17" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="deer" value="1" >
+    </E>
+    <E key="essence_eater" value="1" >
+    </E>
+    <E key="polyshot" value="3" >
+    </E>
+    <E key="skygazer" value="3" >
+    </E>
+    <E key="spearbot" value="1" >
+    </E>
+    <E key="thundermage_big" value="2" >
+    </E>
+    <E key="thunderskull" value="4" >
+    </E>
+    <E key="wizard_tele" value="1" >
+    </E>
+    <E key="worm_skull" value="1" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,16 @@
+<Stats deaths="1" kills="7" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="scavenger_leader | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_physics" value="2" >
+    </E>
+    <E key="rat" value="1" >
+    </E>
+    <E key="scavenger_grenade" value="2" >
+    </E>
+    <E key="scavenger_smg" value="2" >
+    </E>
+  </kill_map>
+</Stats>

@@ -1,0 +1,34 @@
+<Stats deaths="1" kills="43" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="drone_lasership" value="1" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="iceskull" value="4" >
+    </E>
+    <E key="pebble_physics" value="3" >
+    </E>
+    <E key="rat" value="4" >
+    </E>
+    <E key="scavenger_grenade" value="15" >
+    </E>
+    <E key="scavenger_leader" value="1" >
+    </E>
+    <E key="scavenger_smg" value="5" >
+    </E>
+    <E key="shotgunner" value="2" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="sniper" value="2" >
+    </E>
+    <E key="tank" value="3" >
+    </E>
+    <E key="turret_right" value="1" >
+    </E>
+  </kill_map>
+</Stats>

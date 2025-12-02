@@ -1,0 +1,64 @@
+<Stats deaths="0" kills="161" player_kills="0" player_projectile_count="0" >
+  <death_map>
+  </death_map>
+  <kill_map>
+    <E key="acidshot" value="2" >
+    </E>
+    <E key="bat" value="6" >
+    </E>
+    <E key="bigbat" value="1" >
+    </E>
+    <E key="bigfirebug" value="3" >
+    </E>
+    <E key="firebug" value="9" >
+    </E>
+    <E key="frog" value="6" >
+    </E>
+    <E key="giant" value="1" >
+    </E>
+    <E key="glitter_bomb" value="1" >
+    </E>
+    <E key="goblin_bomb" value="3" >
+    </E>
+    <E key="iceskull" value="12" >
+    </E>
+    <E key="longleg" value="8" >
+    </E>
+    <E key="miner" value="6" >
+    </E>
+    <E key="miner_fire" value="2" >
+    </E>
+    <E key="miner_weak" value="17" >
+    </E>
+    <E key="pebble_physics" value="4" >
+    </E>
+    <E key="potion" value="1" >
+    </E>
+    <E key="rat" value="20" >
+    </E>
+    <E key="scavenger_glue" value="2" >
+    </E>
+    <E key="scavenger_grenade" value="8" >
+    </E>
+    <E key="scavenger_smg" value="6" >
+    </E>
+    <E key="shotgunner" value="10" >
+    </E>
+    <E key="shotgunner_weak" value="7" >
+    </E>
+    <E key="slimeshooter" value="9" >
+    </E>
+    <E key="slimeshooter_weak" value="3" >
+    </E>
+    <E key="sniper" value="3" >
+    </E>
+    <E key="tank" value="2" >
+    </E>
+    <E key="thundermage" value="1" >
+    </E>
+    <E key="tnt" value="1" >
+    </E>
+    <E key="zombie_weak" value="7" >
+    </E>
+  </kill_map>
+</Stats>

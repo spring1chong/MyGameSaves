@@ -1,0 +1,1564 @@
+Initialize engine version: 2017.4.27f1 (0c4b856e4c6e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25e0)
+    Vendor:   NVIDIA
+    VRAM:     3990 MB
+    Driver:   31.0.15.1700
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.115 seconds
+OnLevelWasLoaded was found on PlayMakerFSM
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.553200 ms
+WwiseUnity: Initialize sound engine ...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WwiseUnity: Sound engine initialized.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading data opt-out preferences from PlayerPrefs
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Requesting data opt-out preferences from https://data-optout-service.uca.cloud.unity3d.com/player/opt_out?appid=ad235566-efc1-443f-8222-928b1bca9f43&userid=e1785b946c4103b4297e06f362352bea&deviceid=5ab11a3dba1ffba89dbd74c36412eea5d78569ec
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+async loading bank id: 393239870
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'fiBackupSceneStorage') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 1.936800 ms
+Version: 2.1.9
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Now: 05.25.2024 01:12
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting Steam platform interface.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Failed to load 'D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Plugins/XInputInterface32.dll', expected x64 architecture, but was x86 architecture. You must recompile your plugin for x64 architecture.
+ 
+(Filename:  Line: 175)
+
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/XInputInterface32
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\XInputInterface32
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/XInputInterface32
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libXInputInterface32
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libXInputInterface32
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libXInputInterface32
+InControl (version 1.6.17 build 9143)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Post GameManager.Awake.AudioInit
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invoking standard WIN startup methods to set fullscreen: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Post GameManager.Awake.Resolution
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Terminating GameManager Awake()
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: ActiveA.game
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No mid game save found
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::DeviceType = Desktop
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceType = NVIDIA GeForce RTX 3050 Ti Laptop GPU
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceType = Direct3D11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceVendor = NVIDIA
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsDeviceVersion = Direct3D 11.0 [level 11.1]
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsShaderLevel = 50
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::GraphicsMemorySize = 3990
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::MaxTextureSize = 16384
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::NPOTSupport = Full
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportedRenderTargetCount = 8
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsImageEffects = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsRenderTextures = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsStencil = 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsDefaultHDR = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::SupportsDepthFormat = True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::Iteration = 1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 18588.
+Total: 62.530700 ms (FindLiveObjects: 0.932800 ms CreateObjectMapping: 0.655200 ms MarkObjects: 60.894600 ms  DeleteObjects: 0.047300 ms)
+
+Doing startup foyer checks!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attempting to generate flow: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ENCOUNTERING FLOW: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Succeeded generation iteration on: Foyer Flow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Right(Clone) : Gungeon Guardian Right FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Right(Clone) : Animation Handler
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Left(Clone) : Gungeon Guardian Left FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Guardian_Left(Clone) : Animation Handler
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_GunslingKing(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_GunslingKing(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_GunslingKing(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_LostAdventurer(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_LostAdventurer(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_LostAdventurer(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_LostAdventurer(Clone) : Jail FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Frifle : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Frifle : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Frifle : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Mauser : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Mauser : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Mauser : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Convict(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Rogue(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Marine(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Guide(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Jellyfish : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Robot(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Bullet(Clone) : Bullet Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_LedgeGoblin_01 : Ledge Goblin
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Trucker_Foyer : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_ManfredRival_Foyer(Clone) : Tutorial Knight 003 pits
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Tutorial_Knight_Foyer(Clone) : Tutorial Knight Intro FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Manservantes(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Manservantes(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Manservantes(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Cultist(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Artful_Dodger(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Artful_Dodger(Clone) : DODGER Game of Skill FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Artful_Dodger(Clone) : DODGER Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Beetle : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Eevee(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_FoyerCharacter_Gunslinger(Clone) : Convict Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Shortcut_Sherpa_ElevatorRoom(Clone) : Elevator Room FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_MetaShopkeeper : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Witchkeeper : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress : Jail FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Circle : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Circle : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Circle : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Square : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Square : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Sorceress_Knight_Square : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Daisuke(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Daisuke(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Daisuke(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Daisuke(Clone) : Jail FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Tonic(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Tonic(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Tonic(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Tonic(Clone) : Jail FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Bowler(Clone) : Location Check FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Bowler(Clone) : Dungeon FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Bowler(Clone) : Foyer FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Bowler(Clone) : Jail FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 11)
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BRV::StencilMode: True
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FINISHED LOADING SERIALIZED KEYBINDINGS.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding a new GameManager audio listener
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Opt-out preferences successfully retrieved, applied and saved:
+{"optOut":false,"analyticsEnabled":true,"deviceStatsEnabled":true,"limitUserTracking":false,"performanceReportingEnabled":true}
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/LightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/.\libLightFX
+Fallback handler could not load library D:/steam/steamapps/common/Enter the Gungeon/EtG_Data/Mono/libLightFX
+
+Unloading 404 unused Assets to reduce memory usage. Loaded Objects now: 43749.
+Total: 118.843600 ms (FindLiveObjects: 2.122200 ms CreateObjectMapping: 2.417000 ms MarkObjects: 114.050200 ms  DeleteObjects: 0.253700 ms)
+
+Something is attempting to get a NONE save flag!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received stats and achievements from Steam
+
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INSTANTIATING AMMONOMICON ???
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Collections.Generic.List`1[dfButton]|0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reacquiring Page Buffer 960x1080
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Save data doesn't exist: ActiveA.game
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No mid game save found
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Posting core music event: Play_MUS_Foyer_Theme_01 with playing ID: 11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: FLOOR_INTRO with core ID: 11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: FLOOR_INTRO
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Deregistering an unregistered interactable. Talk to Brent.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerBullet(Clone)|Bullet <====
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Can't add 'AkGameObj' to PlayerBullet(Clone) because a 'AkGameObj' is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+overriding hand shader
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overriding hand shader
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Material doesn't have a float or range property '_StencilVal'
+ 
+(Filename:  Line: 931)
+
+Destroying the GameManager's audio listener
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: CALM with core ID: 11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: CALM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overriding hand shader
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overriding hand shader
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Material doesn't have a float or range property '_StencilVal'
+ 
+(Filename:  Line: 931)
+
+Attemping to switch to state: SHOP with core ID: 11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: SHOP
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: CALM with core ID: 11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: CALM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to find clip 'select_idle' in library
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Calling clip.Play() with a null clip
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 11)
+UnloadTime: 103.288800 ms
+
+Unloading 1467 unused Assets to reduce memory usage. Loaded Objects now: 55044.
+Total: 150.303500 ms (FindLiveObjects: 2.753100 ms CreateObjectMapping: 3.704000 ms MarkObjects: 122.092300 ms  DeleteObjects: 21.753100 ms)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'fiBackupSceneStorage') is missing!
+ 
+(Filename:  Line: 1758)
+
+Attempting to generate flow: F1_Castle_Flow_03_TwoPathsToBoss
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_01_BulletBros|1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_01_BulletKing|1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_01_GatlingGull|0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Returning valid boss: BossTable_01_BulletKing|1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: curse shop
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: gunber muncher
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Castle Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning FIREPLACE from room: Castle_Special_FireplaceRoom_02
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: nothing
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Castle Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning FIREPLACE from room: Castle_Special_FireplaceRoom_04
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: gunber muncher
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Castle Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning FIREPLACE from room: Castle_Special_FireplaceRoom_03
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: gunber muncher
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Castle Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning FIREPLACE from room: Castle_Special_FireplaceRoom_05
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: nothing
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: early meta
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Castle Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning FIREPLACE from room: Castle_Special_FireplaceRoom_01
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ENCOUNTERING FLOW: F1_Castle_Flow_03_TwoPathsToBoss
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Succeeded generation iteration on: F1_Castle_Flow_03_TwoPathsToBoss
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FINISHED LOADING SERIALIZED KEYBINDINGS.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_CryoButton : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.4673086|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.4363921|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Shopkeep : Shopkeeper FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_CryoButton : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_Curse : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.1605144|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.283709|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.9147488|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1414 unused Assets to reduce memory usage. Loaded Objects now: 93521.
+Total: 308.891700 ms (FindLiveObjects: 5.606700 ms CreateObjectMapping: 4.595700 ms MarkObjects: 297.885000 ms  DeleteObjects: 0.803000 ms)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Posting core music event: Play_MUS_Castle_Theme_01 with playing ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: FLOOR_INTRO with core ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: FLOOR_INTRO
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Core music event: Play_MUS_Castle_Theme_01 ENDING with playing ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Mjolnir #13 of 33|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item GundromedaStrain #0 of 9|S
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Baseball_Bat_Gun #2 of 3|D
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item YellowChamber #6 of 8|S
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Boxing_Glove_Gun #1 of 2|C
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item BlankPersonality #15 of 16|D
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item space_rifle #15 of 54|B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item VampiricArmor #19 of 38|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_B with core ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_A with core ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.09775 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coin_SilverSPAWNED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coroutine couldn't be started because the the game object 'GodRay_Placeable(Clone)' is inactive!
+ 
+(Filename:  Line: 758)
+
+LootSystem::0 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.09775 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_B with core ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.1955 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ammo_PickupSPAWNED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting grabby...Ammo_Pickup(Clone)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+doing grabby...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_ResourcefulRat_Thief(Clone) : Thieving Rat
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WEST|58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Core music event: Play_MUS_Castle_Theme_01 ENDING with playing ID: 58
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.5||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 2.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 2|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.5||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+assigning SZH: 0.375
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+pedestal mimic 0.1847556|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting grabby...Ammo_Pickup(Clone)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+doing grabby...
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_ResourcefulRat_Thief(Clone) : Thieving Rat
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 14)
+UnloadTime: 133.829200 ms
+
+Unloading 7807 unused Assets to reduce memory usage. Loaded Objects now: 62068.
+Total: 202.061100 ms (FindLiveObjects: 3.941100 ms CreateObjectMapping: 4.676100 ms MarkObjects: 147.154800 ms  DeleteObjects: 46.288400 ms)
+
+StoreStats - success
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'fiBackupSceneStorage') is missing!
+ 
+(Filename:  Line: 1758)
+
+Attempting to generate flow: F2_Gungeon_Flow_02_SnowflakeLoopBranches
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_02_Bashellisk|0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_02_Beholster|1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding valid boss: BossTable_02_Meduzi|1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Returning valid boss: BossTable_02_Bashellisk|0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: Phantom Agunim
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: nothing
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Gungeon Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: general
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: gunber muncher
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Gungeon Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Base Shared Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: general
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assigning METADATA: nothing
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No prior injection: Gungeon Common Injection Data
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ENCOUNTERING FLOW: F2_Gungeon_Flow_02_SnowflakeLoopBranches
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Succeeded generation iteration on: F2_Gungeon_Flow_02_SnowflakeLoopBranches
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FINISHED LOADING SERIALIZED KEYBINDINGS.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: Shopkeep : Shopkeeper FSM
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.4541511|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_CryoButton : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.5685906|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: NPC_CryoButton : Main
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.674009|0.0225
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
+s_empty?: False
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1722 unused Assets to reduce memory usage. Loaded Objects now: 95993.
+Total: 339.919300 ms (FindLiveObjects: 5.532000 ms CreateObjectMapping: 4.786000 ms MarkObjects: 328.645600 ms  DeleteObjects: 0.954800 ms)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clearing Core Music ID!
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Posting core music event: Play_MUS_Dungeon_Theme_01 with playing ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: FLOOR_INTRO with core ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: FLOOR_INTRO
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Gilded_Hydra #2 of 13|S
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item RatSackItem #34 of 38|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Electro_Shark_Gun #25 of 33|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item AlphaItem #18 of 37|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Unicorn_Horn 2 #1 of 32|A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item FireBullets #8 of 63|B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Sling #1 of 3|D
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+returning item Tweezers #0 of 16|D
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+REBUILDING EXTRA GUN CARDS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_A with core ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.5||0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.09775 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.1955 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+REBUILDING EXTRA GUN CARDS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Coroutine couldn't be started because the the game object 'GodRay_Placeable(Clone)' is inactive!
+ 
+(Filename:  Line: 758)
+
+WEST|73
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Core music event: Play_MUS_Dungeon_Theme_01 ENDING with playing ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+assigning SZH: 0.25
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+mimic 0.8237942|0.0435
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.29325 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 2|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_B with core ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_B
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BlankSPAWNED
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Minimap_Teleporter_Icon(Clone) <- failed to get perp
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+REBUILDING EXTRA GUN CARDS
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Overwriting previous screen shake for Unicorn_Horn 2(Clone) (Gun)
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.09775 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Attemping to switch to state: ACTIVE_SIDE_A with core ID: 1531
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully switched to state: ACTIVE_SIDE_A
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.5||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 1|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LootSystem::0.1955 + 0.09775
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.5||0.5
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+changing health to: 0.5|3
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DELETING CURRENT MID GAME SAVE
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: d24 -> priority: 1 
+  Thread -> id: 3788 -> priority: 1 
+  Thread -> id: 5dc8 -> priority: 1 
+  Thread -> id: 17d8 -> priority: 1 
+  Thread -> id: 67b0 -> priority: 1 
+  Thread -> id: 3f08 -> priority: 1 
+  Thread -> id: 5b34 -> priority: 1 
+  Thread -> id: 248c -> priority: 1 
+SAVING DATA
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

@@ -2,7 +2,7 @@
 
 常见（Windows）存档位置：
 1. Steam（本地）  
-   D:\Steam\userdata\<Steam 好友代码>\<AppID>\remote
+   `D:\Steam\userdata\<Steam 好友代码>\<AppID>\remote`
 2. 文档目录  
    C:\Users\<用户名>\Documents\<游戏名>\
 3. 本地应用数据（常见）  

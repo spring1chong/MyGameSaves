@@ -40,6 +40,7 @@
    %USERPROFILE%\AppData\LocalLow\(<开发团队/公司/发行商名>\)<游戏名>\
    ```
 ### 4. **Roaming 配置**  
+   WinAppDataRoaming ：
    ```plaintext
    %USERPROFILE%\AppData\Roaming\<游戏名>\
    ```

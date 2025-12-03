@@ -30,7 +30,7 @@
    ```plaintext
    %OneDrive%\文档\My Games\<游戏名>\
    ```
-### 3. **本地应用数据**  
+### 4. **本地应用数据**  
    WinAppDataLocal ：
    ```plaintext
    %USERPROFILE%\AppData\Local\<游戏名>\
@@ -39,7 +39,7 @@
    ```plaintext
    %USERPROFILE%\AppData\LocalLow\(<开发团队/公司/发行商名>\)<游戏名>\
    ```
-### 4. **Roaming 配置**  
+### 5. **Roaming 配置**  
    WinAppDataRoaming ：
    ```plaintext
    %USERPROFILE%\AppData\Roaming\<游戏名>\

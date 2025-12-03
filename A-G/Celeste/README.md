@@ -1,0 +1,1 @@
+D:\steam\steamapps\common\Celeste\Saves

@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\LocalLow\nomada studio\GRIS\76561199181708062

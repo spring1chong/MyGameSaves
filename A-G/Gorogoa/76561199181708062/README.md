@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\LocalLow\Annapurna\Gorogoa\76561199181708062

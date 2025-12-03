@@ -1,0 +1,1 @@
+%UserProfile%\Saved Games\Astral Ascent

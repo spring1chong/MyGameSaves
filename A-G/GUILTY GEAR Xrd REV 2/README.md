@@ -1,0 +1,1 @@
+D:\steam\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\SAVE

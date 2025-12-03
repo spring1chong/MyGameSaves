@@ -1,0 +1,1 @@
+%UserProfile%\Saved Games\Arkane Studios\Dishonored2\base\savegame

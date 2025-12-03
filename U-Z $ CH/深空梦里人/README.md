@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\LocalLow\Jump Over the Age\Citizen Sleeper

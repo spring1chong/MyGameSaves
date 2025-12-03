@@ -1,0 +1,56 @@
+KLEI     1 {
+    "dststeam":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "swsteam":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },  
+    "rogsteam":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "hamletsteam":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "hamletstandalone":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "steam":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "swstandalone":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "rogstandalone":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    },
+    "standalone":{
+        "image_url":"https://s3.amazonaws.com/ds-motd/converted/hamlet/motd-pops.tex",
+        "image_version":"26",
+        "link_title":"More Info!",
+        "link_url":"http://bit.ly/DS-POPS"
+    }
+}

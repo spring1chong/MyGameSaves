@@ -1,2 +1,0 @@
-{"type":"analytics.appRunning.v1","msg":{"ts":1716571118907,"t_since_start":401912832,"duration":401,"local_time_offset":-28800000}}
-(1){"type":"analytics.appStop.v1","msg":{"ts":1716571118909,"t_since_start":401914561}}

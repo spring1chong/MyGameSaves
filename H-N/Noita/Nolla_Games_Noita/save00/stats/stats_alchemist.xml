@@ -1,0 +1,22 @@
+<Stats deaths="17" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_explosion" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：毒液气体" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="3" >
+    </E>
+    <E key="player | $damage_projectile" value="6" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

@@ -1,1 +1,1 @@
-# Journey
+C:\Users\86137\AppData\Local\Annapurna Interactive\Journey\Steam

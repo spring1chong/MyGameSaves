@@ -1,0 +1,46 @@
+<Stats deaths="45" kills="13" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="5" >
+    </E>
+    <E key="NULL | $damage_radioactive" value="5" >
+    </E>
+    <E key="NULL | 来自 酸液 的材料伤害" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="2" >
+    </E>
+    <E key="player | $damage_projectile" value="22" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="scavenger_clusterbomb | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="lukki_longleg" value="2" >
+    </E>
+    <E key="mine_scavenger" value="2" >
+    </E>
+    <E key="root_grower" value="1" >
+    </E>
+    <E key="scavenger_clusterbomb" value="1" >
+    </E>
+    <E key="scavenger_poison" value="1" >
+    </E>
+    <E key="sheep" value="1" >
+    </E>
+    <E key="shooterflower" value="2" >
+    </E>
+    <E key="worm" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+  </kill_map>
+</Stats>

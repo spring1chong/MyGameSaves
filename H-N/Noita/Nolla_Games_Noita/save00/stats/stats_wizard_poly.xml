@@ -1,0 +1,24 @@
+<Stats deaths="10" kills="10" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="1" >
+    </E>
+    <E key="NULL | $damage_fire" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：岩浆" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="5" >
+    </E>
+    <E key="tentacler_small | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="physics_torch_stand" value="1" >
+    </E>
+    <E key="sheep" value="8" >
+    </E>
+    <E key="sheep_fly" value="1" >
+    </E>
+  </kill_map>
+</Stats>

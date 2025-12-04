@@ -1,0 +1,18 @@
+<Stats deaths="9" kills="0" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_fire" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="2" >
+    </E>
+    <E key="NULL | 来自 诅咒岩石 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：岩浆" value="1" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="2" >
+    </E>
+  </death_map>
+  <kill_map>
+  </kill_map>
+</Stats>

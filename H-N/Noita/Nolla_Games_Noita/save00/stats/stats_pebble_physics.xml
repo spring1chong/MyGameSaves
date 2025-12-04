@@ -1,0 +1,44 @@
+<Stats deaths="155" kills="56" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_explosion" value="5" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | 来自 冰冻蒸汽 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：冰冷蒸汽" value="19" >
+    </E>
+    <E key="black_hole_big | " value="1" >
+    </E>
+    <E key="death_ghost | $damage_curse" value="1" >
+    </E>
+    <E key="iceskull | $damage_explosion" value="1" >
+    </E>
+    <E key="pebble_physics | $damage_explosion" value="54" >
+    </E>
+    <E key="player | $damage_explosion" value="4" >
+    </E>
+    <E key="player | $damage_projectile" value="55" >
+    </E>
+    <E key="player | $damage_slice" value="5" >
+    </E>
+    <E key="scavenger_glue | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="slimeshooter | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_projectile" value="2" >
+    </E>
+    <E key="tank_rocket | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="pebble_physics" value="54" >
+    </E>
+    <E key="scavenger_smg" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+  </kill_map>
+</Stats>

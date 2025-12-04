@@ -30,6 +30,9 @@
    ```plaintext
    %OneDrive%\文档\My Games\<游戏名>\
    ```
+   ```plaintext
+   %OneDrive%\文档\Saved Games\
+   ```
 ### 4. **本地应用数据**  
    WinAppDataLocal ：
    ```plaintext

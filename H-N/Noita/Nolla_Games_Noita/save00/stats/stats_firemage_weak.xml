@@ -1,0 +1,74 @@
+<Stats deaths="110" kills="63" player_kills="6" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="6" >
+    </E>
+    <E key="NULL | $damage_electricity" value="1" >
+    </E>
+    <E key="NULL | $damage_explosion" value="2" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="6" >
+    </E>
+    <E key="NULL | $damage_water" value="46" >
+    </E>
+    <E key="NULL | 来自 水 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 酸液 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：水" value="14" >
+    </E>
+    <E key="NULL | 来自材料的伤害：淤泥" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：酸液" value="3" >
+    </E>
+    <E key="firemage_weak | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="22" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player_rng_items | $damage_projectile" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="worm_tiny | worm bite" value="1" >
+    </E>
+    <E key="zombie_weak | $damage_melee" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="acidshooter_weak" value="2" >
+    </E>
+    <E key="firemage_weak" value="1" >
+    </E>
+    <E key="fireskull" value="2" >
+    </E>
+    <E key="frog" value="1" >
+    </E>
+    <E key="longleg" value="6" >
+    </E>
+    <E key="miner" value="1" >
+    </E>
+    <E key="miner_weak" value="9" >
+    </E>
+    <E key="player" value="6" >
+    </E>
+    <E key="radioactive_blob_trail" value="1" >
+    </E>
+    <E key="shotgunner" value="1" >
+    </E>
+    <E key="shotgunner_weak" value="8" >
+    </E>
+    <E key="slimeshooter" value="1" >
+    </E>
+    <E key="slimeshooter_weak" value="5" >
+    </E>
+    <E key="tnt" value="2" >
+    </E>
+    <E key="worm_tiny" value="1" >
+    </E>
+    <E key="zombie" value="2" >
+    </E>
+    <E key="zombie_weak" value="14" >
+    </E>
+  </kill_map>
+</Stats>

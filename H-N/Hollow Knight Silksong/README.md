@@ -1,0 +1,1 @@
+C:\Users\86137\AppData\LocalLow\Team Cherry\Hollow Knight Silksong\<Steam 好友代码>

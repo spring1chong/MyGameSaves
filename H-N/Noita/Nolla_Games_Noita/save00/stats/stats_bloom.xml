@@ -1,0 +1,54 @@
+<Stats deaths="73" kills="13" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="3" >
+    </E>
+    <E key="NULL | $damage_electricity" value="4" >
+    </E>
+    <E key="NULL | $damage_explosion" value="6" >
+    </E>
+    <E key="NULL | $damage_fire" value="29" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="3" >
+    </E>
+    <E key="NULL | $damage_plasmabeam" value="1" >
+    </E>
+    <E key="NULL | 来自 岩浆 的材料伤害" value="3" >
+    </E>
+    <E key="NULL | 来自 紫色毒液 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自 诅咒岩石 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：毒液" value="2" >
+    </E>
+    <E key="NULL | 来自材料的伤害：酸液" value="1" >
+    </E>
+    <E key="bloom | $damage_projectile" value="1" >
+    </E>
+    <E key="boss_dragon | worm bite" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="11" >
+    </E>
+    <E key="player | $damage_slice" value="3" >
+    </E>
+    <E key="worm | worm bite" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="bloom" value="1" >
+    </E>
+    <E key="fly" value="4" >
+    </E>
+    <E key="lukki" value="1" >
+    </E>
+    <E key="lukki_tiny" value="1" >
+    </E>
+    <E key="miniblob" value="1" >
+    </E>
+    <E key="pebble_player_physics" value="1" >
+    </E>
+    <E key="physics_torch_stand" value="4" >
+    </E>
+  </kill_map>
+</Stats>

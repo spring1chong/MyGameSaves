@@ -1,0 +1,66 @@
+<Stats deaths="118" kills="3" player_kills="0" player_projectile_count="0" >
+  <death_map>
+    <E key="NULL | $damage_drowning" value="10" >
+    </E>
+    <E key="NULL | $damage_electricity" value="10" >
+    </E>
+    <E key="NULL | $damage_explosion" value="24" >
+    </E>
+    <E key="NULL | $damage_fire" value="5" >
+    </E>
+    <E key="NULL | $damage_melee" value="1" >
+    </E>
+    <E key="NULL | $damage_physicshit" value="9" >
+    </E>
+    <E key="NULL | 来自 诅咒岩石 的材料伤害" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：冰冷蒸汽" value="4" >
+    </E>
+    <E key="NULL | 来自材料的伤害：毒液" value="1" >
+    </E>
+    <E key="NULL | 来自材料的伤害：酸液" value="1" >
+    </E>
+    <E key="drone_lasership | $damage_projectile" value="1" >
+    </E>
+    <E key="miner | $damage_explosion" value="1" >
+    </E>
+    <E key="orb_laseremitter_four | $damage_plasmabeam" value="2" >
+    </E>
+    <E key="player | $damage_explosion" value="5" >
+    </E>
+    <E key="player | $damage_kick" value="1" >
+    </E>
+    <E key="player | $damage_projectile" value="29" >
+    </E>
+    <E key="player | $damage_slice" value="1" >
+    </E>
+    <E key="player | hit" value="1" >
+    </E>
+    <E key="scavenger_grenade | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_heal | $damage_curse" value="1" >
+    </E>
+    <E key="scavenger_heal | $damage_explosion" value="1" >
+    </E>
+    <E key="scavenger_leader | $damage_projectile" value="1" >
+    </E>
+    <E key="scavenger_smg | $damage_projectile" value="1" >
+    </E>
+    <E key="sniper | $damage_projectile" value="1" >
+    </E>
+    <E key="tank | $damage_explosion" value="1" >
+    </E>
+    <E key="tentacler | $damage_melee" value="1" >
+    </E>
+    <E key="worm | worm bite" value="2" >
+    </E>
+    <E key="wraith_glowing | $damage_projectile" value="1" >
+    </E>
+  </death_map>
+  <kill_map>
+    <E key="scavenger_heal" value="2" >
+    </E>
+    <E key="sniper" value="1" >
+    </E>
+  </kill_map>
+</Stats>

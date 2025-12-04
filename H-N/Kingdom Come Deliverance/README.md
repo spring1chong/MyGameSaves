@@ -1,1 +1,1 @@
-# Ìì¹ú½µÁÙ
+C:\Users\86137\Saved Games\kingdomcome\saves

@@ -1,4 +1,4 @@
-<Stats deaths="342" kills="178" player_kills="0" player_projectile_count="0" >
+<Stats deaths="342" kills="182" player_kills="0" player_projectile_count="0" >
   <death_map>
     <E key="NULL | $damage_drowning" value="22" >
     </E>
@@ -56,7 +56,7 @@
     </E>
     <E key="giantshooter_weak" value="2" >
     </E>
-    <E key="longleg" value="12" >
+    <E key="longleg" value="16" >
     </E>
     <E key="miner_weak" value="9" >
     </E>

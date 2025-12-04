@@ -1,8 +1,8 @@
-<Stats deaths="1748" kills="55" player_kills="2" player_projectile_count="0" >
+<Stats deaths="1754" kills="55" player_kills="2" player_projectile_count="0" >
   <death_map>
-    <E key="NULL | $damage_drowning" value="56" >
+    <E key="NULL | $damage_drowning" value="59" >
     </E>
-    <E key="NULL | $damage_explosion" value="49" >
+    <E key="NULL | $damage_explosion" value="50" >
     </E>
     <E key="NULL | $damage_fire" value="191" >
     </E>
@@ -76,11 +76,11 @@
     </E>
     <E key="slimeshooter_nontoxic | $damage_projectile" value="2" >
     </E>
-    <E key="slimeshooter_weak | $damage_explosion" value="1" >
+    <E key="slimeshooter_weak | $damage_explosion" value="2" >
     </E>
     <E key="slimeshooter_weak | $damage_melee" value="4" >
     </E>
-    <E key="slimeshooter_weak | $damage_projectile" value="46" >
+    <E key="slimeshooter_weak | $damage_projectile" value="47" >
     </E>
     <E key="worm | worm bite" value="31" >
     </E>

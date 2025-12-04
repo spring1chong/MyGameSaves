@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\Local\Psychonauts2\Saved\SaveGames

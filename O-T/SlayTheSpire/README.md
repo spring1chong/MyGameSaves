@@ -1,1 +1,1 @@
-# SlayTheSpire
+D:\steam\steamapps\common\SlayTheSpire\preferences

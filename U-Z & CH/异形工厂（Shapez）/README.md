@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\Roaming\shapez.io\saves

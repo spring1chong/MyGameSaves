@@ -1,1 +1,1 @@
-# StardewValley
+C:\Users\86137\AppData\Roaming\StardewValley\Saves

@@ -1,1 +1,1 @@
-# Outer Wilds
+C:\Users\86137\AppData\LocalLow\Mobius Digital\Outer Wilds\SteamSaves

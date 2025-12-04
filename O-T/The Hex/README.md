@@ -1,1 +1,1 @@
-# The Hex
+D:\steam\steamapps\common\The Hex\SaveData

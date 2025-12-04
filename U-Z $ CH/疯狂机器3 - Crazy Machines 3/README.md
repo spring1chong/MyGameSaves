@@ -1,1 +1,0 @@
-%USERPROFILE%\AppData\Local\Daedalic Entertainment GmbH\Crazy Machines 3

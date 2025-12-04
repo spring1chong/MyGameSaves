@@ -1,0 +1,1 @@
+C:\Users\86137\AppData\LocalLow\blingame\haak\Luxko.Serde

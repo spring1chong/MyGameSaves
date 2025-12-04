@@ -1,0 +1,1174 @@
+{
+	"MoonieUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"AgreementSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"ControlsSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ScreenshakeSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"DisableVFXSettingSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"IntroductionCutsceneSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"OnBattleSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"repeatedEvents" : {
+		"__type" : "string",
+		"value" : "{\"value\":[\"DestroyRewardCustomEventSetup\",\"AmbushCustomEventSetup\",\"ForgottenWorkshopButtonCustomEventSetup\"]}"
+	},
+	"HiddenAnomalyLevelSecondBossPackageName" : {
+		"__type" : "string",
+		"value" : ""
+	},
+	"HiddenAnomalyLevelFirstBossDefeatedStartBattleOnSecondBoss" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"AstreaFirstPhaseDefeatedStartBattleOnAstreaSecondPhaseSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"DiscoveredBlessingsSave" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"AudacioussCardOmenData","KarmicBroochOmenData","TricksterCrossStaffOmenData","OminousShellOmenData","UncannyCandleOmenData","CondemnedReliquaryOmenData","SilentScarfOmenData","DecimatorSkullOmenData","ForgottenLetterOmenData","MoonEyeOmenData","StellarFlagOmenData","MoonShardOmenData","HauntedChalkOmenData","CosmicSandalsOmenData","TamedRemorasOmenData","DicesmithHammerOmenData","BottledVoidOmenData","DecayedCoreOmenData","CrypticMementoOmenData","FallenStarOmenData","RisingStarOmenData","FalseProphecyOmenData","DarknessShardOmenData","DiademOfMadnessOmenData","PhotonGloveOmenData","DiluvianFlaskOmenData","SingularitySextantOmenData","StarfieldVeilOmenData","PhaseSatchelOmenData","VengefulIdolOmenData","UnstableBubbleOmenData","LacertianScepterOmenData","DisruptiveKnucklesOmenData","StardustGarbOmenData","DampingDynamoOmenData","CodexOfBurdensOmenData","DicesmithAnvilOmenData","EntropyHoodOmenData","MaliciousOrbOmenData","ForbiddenAtlasOmenData","ZenithRingOmenData","SunEyeOmenData","LampofMistsOmenData","GildedHornOmenData","RenewerModuleOmenData","ArtisanStaffOmenData","ApianLampOmenData","CautioussCardOmenData","ApprenticesCardOmenData","StarfallBannerOmenData","DicesmithHelmetOmenData","SoaringNetOmenData","WhirlyLotusOmenData","AuspiciousDandelionOmenData","QuanticFungusOmenData","VacuumWingsOmenData","IndomitableFanOmenData","BehenianHourglassOmenData","SlateOfPlentyOmenData","BottledAuroraOmenData","PossessedToyOmenData","MultiverseCubeOmenData","RedemptionFlailOmenData","CagedAnomalyOmenData","ResonantAnkhOmenData","EtherealPlumeOmenData","EternalEggOmenData","BrightfulStoneOmenData","LuminaryBookmarkOmenData","ShadedTalismanOmenData","DualityDegreeOmenData","AzimuthRingOmenData","DaydreamsMaskOmenData","SacredMagnifierOmenData","RitualisticFeatherOmenData","HollowNestOmenData","ImpiousContractOmenData","NebulaRoseOmenData","InerasableBlackboardOmenData","ObsidianShacklesOmenData","TridentofDepthsOmenData","SagesCardOmenData","GoldenToothOmenData","JellyfishBellOmenData","DenticleSuitOmenData","BondDuplicatorOmenData","DetonationCoilOmenData","GlowingReactorOmenData","BrightResonatorOmenData","LightningRodOmenData","GuidingChimeOmenData","HiveModuleOmenData","FranticFireflyOmenData","TempestPollenOmenData","DrifterCatcherOmenData","WhisperingFluteOmenData","HulkModuleOmenData","StaticAlternatorOmenData","AquarianOrbsOmenData","RealityStretcherOmenData","GravitationalReagentOmenData","ShootingStarOmenData","PlatinumStarOmenData","HeartFragmentOmenData"
+	]
+	},
+	"DiscoveredDiceSave" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"MinorPurifyMoonie","MinorShieldMoonie","MinorEnhanceMoonie","StellarCleanseMoonie","MinorRerollMoonie","Purify","Convert","TwilightSigil","Manipulate","AstralRebound","Embrace","Incorruptible","Enhance","ForgePurify","Serenity","Amplify","ScarletSigil","OwllightCharge","Ascend","Research","CosmicWisdom","LightShield","LunarAlignment","Mindwreck","Eureka","DefensiveLight","DownfallStrike","ScholarCharge","IngeniousTouch","Reroll","Restoration","DefensiveBoon","Calm","Confused","MoonlightWrath","PerditionDive","Inventive","BalefulHoot","NocturnalUpdraft","ForgeCorrupt","Refresh","BrightEnhancement","VoidSeek","HighGuard","ShadowMastery","Expertise","GloomyEnlightenment","KnowledgeOutburst","ObsessedAnalysis","Acceptance","Deathrite","Excruciatus","ForgeAreaCorrupt","Paralyzed","NewMoonRay","Copycat","Decayed","Moonlight","MinorShieldCellarius","MinorRerollCellarius","MinorInvigoratingPunchCellarius","SharkBlowCellarius","SootheMind","Wave","SharkPayback","WaveCrasher","SharkFlux","IndigoSoul","Timeless","TwinSmash","SharkMadness","ShieldBoomerang","SharkTornado","QuickStrike","TidalJet","SharkRush","ApexInstinct","ReefSong","DefensiveAura","SharkStrike","MarineOffering","Seaquake","EridanianWrath","InvigoratingPunch","Draw","SharkOnslaught","GeyserUppercut","Surf","RefreshingHeadbutt","AnchorPush","SharkOverflow","SharkRupture","HighTide","SunkenCurse","TonicTrance","SharkSurge","ShieldRebound","Empower","Frenzy","DrawSafe","Vendetta","MinorPurifyHevelius","TinkererHevelius","MinorShieldHevelius","VorpalPlate","RadiantBomb","EmpoweredArmy","LinkEmpower","TinkererLunge","SentinelsUprising","BoomerangRepair","Healbot","WarningFlare","CleverScrapping","LinkRockPlate","EnduringScrapping","ShieldBash","SparklingRepair","MechanicalDomination","VorpalArmy","LinkBoost","LinkVorpalPlate","Precision","Fortify","AutoTurret","BoostedArmy","SerenityAura","RollingStars","Safeguard","Rearm","IronStrike","Meditate","SystematicRepair","Cleave","InnerPiece","ForgeAreaPurify","ChargedBody","Discharge","FieldBarrier","Barrier","VoltaicScrapping","Punch","ForgeLightShield","PerfectRepair","StainedRecharging","NegativeField","EngineAssault","DrawRebound","Repair","ScrapShield","EnergizedScrapping","AugmentedWelding","Reduction","Protection","OptimizedRepair","LacertianBeam","Recycle","Chaotic","MinorPurifyAustra","MinorShieldAustra","MinorAimlessAustra","Critical","Dodge","Thunderstorm","ElectrostaticField","ThunderingRiposte","EolicDivination","RisingGust","InspiringComets","WindGlide","FavorableWinds","SkyPiercer","FrenziedBlow","ForgeThunderstorm","SmokeBomb","WindSkitter","AstralCalling","Lightning","GlimmeringBreeze","SerenityComets","Hurricane","HornetDust","DangerousExcavation","CriticalMultiplier","HazardousExpedition","AerialNeedle","LightningSting","FierceSquall","ApianSkyfall","MinorReliefSothis","MinorShieldSothis","MinorGlassDaggersSothis","MinorPurifySothis","SandsOfTime","HourglassMastery","SearingCalamity","SunRay","SoulStigma","GlassDaggers","RefreshingMantra","Sandstorm","FlammableChakram","BehenianHowl","CleansingConflagration","ShamanicShout","MassCleanse","ScorchingSands","PrecisionMantra","SonataofHealing","Sandshaping","InnerWarmth","RewindChanting","FieryProjection","GhastlyFire","SunnyFlares","ChainedChanting","Chanting","SearingRitual","Soulburn","Relief","AbradingTouch","ShamanicDomination","PurgingEruption","PenumbraGlare","Plague","Wound","Dizzy","NoctuanComprehension","Epiphany","DrawRisky","CursedPrediction","DarkSide","FulminantQuills","SelenicDomination","SilverSnare","BlasphemousShriek","MoonBath","HammerheadWill","ForgeWave","SharpenFin","SharkTyphoon","AbyssalShatter","DevonianHeir","VendettaFever","HighHammerheadWill","MaelstromImpact","SharkLariat","ForcefulStream","PsychicBlow","Invoke","IncorruptibleAura","DrawBalanced","EnduringRepair","DefectiveSearchlight","Aimless","TurbulentHealing","Brilliance","Confuse","RenewalComets","TroubledFlight","UnstableClouds","MessyPurification","DazzlingLight","CrumblingSkies","DancingWings","DoubtDispeller","ResonantBuzz","VileRepair","SolarLullaby","AbradingWave","SyphonHourglass","SelflessIgnite","AstralMantra","Concentration","ShamanicForesight","EclipseBlast","RestoringFlames","BurningSands","ShamanicWhispering","DesertProtection","VoidMantra","MinorRevolutionOrion","MinorPurifyOrion","MinorConjureOrion","AlchemyOrion","UnstableConjuration","AquarianFlux","SupernovaPact","AstralExchange","Revolution","PenitenceBurst","OrbitalRestoration","PainfulRecapitulation","BrightfulDecree","PhasedIncantation","MelancholicRevelation","Oscillate","EquivalentConjuration","RighteousConjuration","StellarSynthetization","SorrowfulCalling","CosmicExpansion","EtherealConvergence","InfusionPact","Retrograde","Transcendence","AlchemicalRevelation","PrecisionExchange","ConflictedPurging","PrimordialCall","OrbitalRenovation","PredictionConvergence","Cleromancy","SupremeCollapse","AlchemistMissile","GoddessVerdict","ExceptionalConjure","RefreshingExchange","Conjure","ReversalRenovation","ProtectiveSacrament","FragilityPact","AegisWorship","CelestialRegret","FissionExpertise"
+	]
+	},
+	"MoonieCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MapPlayerTrackerSave" : {
+		"__type" : "string",
+		"value" : "{\"CurrentNodeIndex\":0,\"CurrentAreaLevelIndex\":10,\"CurrentAreaIndex\":2}"
+	},
+	"MapHistorySave" : {
+		"__type" : "string",
+		"value" : "{\"VisitedAreas\":[{\"visitedNodes\":[{\"levelIndex\":0,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":1,\"nodeIndex\":0,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":2,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":3,\"nodeIndex\":1,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":4,\"nodeIndex\":2,\"infoNode\":\"ForgeShopView\"},{\"levelIndex\":5,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":6,\"nodeIndex\":0,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":7,\"nodeIndex\":1,\"infoNode\":\"DestroyDiceView\"},{\"levelIndex\":8,\"nodeIndex\":0,\"infoNode\":\"ShrineView\"},{\"levelIndex\":9,\"nodeIndex\":0,\"infoNode\":\"Boss1-1_SmoulderingBeastView\"}]},{\"visitedNodes\":[{\"levelIndex\":0,\"nodeIndex\":0,\"infoNode\":\"EventView\"},{\"levelIndex\":1,\"nodeIndex\":1,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":2,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":3,\"nodeIndex\":0,\"infoNode\":\"BrokenShrineView\"},{\"levelIndex\":4,\"nodeIndex\":1,\"infoNode\":\"ChestView\"},{\"levelIndex\":5,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":6,\"nodeIndex\":0,\"infoNode\":\"EventView\"},{\"levelIndex\":7,\"nodeIndex\":1,\"infoNode\":\"SentinelShopView\"},{\"levelIndex\":8,\"nodeIndex\":2,\"infoNode\":\"ChestSafeView\"},{\"levelIndex\":9,\"nodeIndex\":0,\"infoNode\":\"ShrineView\"},{\"levelIndex\":10,\"nodeIndex\":0,\"infoNode\":\"Boss2-1_CorruptedAssemblerView\"}]},{\"visitedNodes\":[{\"levelIndex\":0,\"nodeIndex\":0,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":1,\"nodeIndex\":0,\"infoNode\":\"ForgeShopView\"},{\"levelIndex\":2,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":3,\"nodeIndex\":0,\"infoNode\":\"BrokenShrineView\"},{\"levelIndex\":4,\"nodeIndex\":0,\"infoNode\":\"EventView\"},{\"levelIndex\":5,\"nodeIndex\":1,\"infoNode\":\"ChestView\"},{\"levelIndex\":6,\"nodeIndex\":0,\"infoNode\":\"BattleNormalView\"},{\"levelIndex\":7,\"nodeIndex\":1,\"infoNode\":\"50StarShardsRewardView\"},{\"levelIndex\":8,\"nodeIndex\":2,\"infoNode\":\"EpicShopView\"},{\"levelIndex\":9,\"nodeIndex\":0,\"infoNode\":\"ShrineView\"},{\"levelIndex\":10,\"nodeIndex\":0,\"infoNode\":\"Boss3-2_DecayedStarView\"}]}]}"
+	},
+	"LastRunTotalTimeSave" : {
+		"__type" : "float",
+		"value" : 2660.89429
+	},
+	"CurrentHeartsSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"CurrentMaxHeartsSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"CurrentGoldSave" : {
+		"__type" : "int",
+		"value" : 90
+	},
+	"SentinelShopRewardTimesVisitedSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"DestroyDiceShopItemBoughtCounterSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DuplicateDiceShopItemBoughtSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CharacterSave" : {
+		"__type" : "string",
+		"value" : "Orion"
+	},
+	"ScoreXPItemDatasSave" : {
+		"__type" : "string",
+		"value" : "{\"ScoreXPItemDataRuntimeSave\":[{\"scoreXPItemDataName\":\"NormalBattleHighReefScoreXPItemData\",\"scoreXPItemAmount\":3},{\"scoreXPItemDataName\":\"BossBattleHighReefScoreXPItemData\",\"scoreXPItemAmount\":1},{\"scoreXPItemDataName\":\"NormalBattleAstropolisRuinsScoreXPItemData\",\"scoreXPItemAmount\":3},{\"scoreXPItemDataName\":\"BossBattleAstropolisRuinsScoreXPItemData\",\"scoreXPItemAmount\":1},{\"scoreXPItemDataName\":\"NormalBattleGroundZeroScoreXPItemData\",\"scoreXPItemAmount\":2}]}"
+	},
+	"HeartsSacrificedCounterSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HeartsLostOnBattleCounterSave" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"HighestPurification" : {
+		"__type" : "int",
+		"value" : 16
+	},
+	"DiceFacesForgedAmount" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"DiceDestroyedAmount" : {
+		"__type" : "int",
+		"value" : 6
+	},
+	"DiceDuplicatedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"VirtuesUsedAmount" : {
+		"__type" : "int",
+		"value" : 71
+	},
+	"StarShardsSpentAmountSave" : {
+		"__type" : "int",
+		"value" : 1300
+	},
+	"DiceInventorySave" : {
+		"__type" : "string",
+		"value" : "{\"DiceSaves\":[{\"DiceName\":\"precisionexchange+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"RetrogradeAction\",\"ActionValue\":10,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"phasedincantation+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":4,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"RetrogradeAction\",\"ActionValue\":10,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorrevolutionorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorconjureorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"alchemyorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"unstableconjuration\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"invoke\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"stellarsynthetization+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"draw+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"primordialcall\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"penitenceburst\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"reroll\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"aquarianflux+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"oscillate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cosmicexpansion+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]}"
+	},
+	"CompanionsSave" : {
+		"__type" : "string",
+		"value" : "{\"RuntimeCompanions\":[{\"CompanionDataName\":\"DiceDrive\",\"CompanionLevel\":4,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"BellKeeper\",\"CompanionLevel\":4,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]}"
+	},
+	"OmensSave" : {
+		"__type" : "string",
+		"value" : "{\"RuntimeOmenDataSaveList\":[{\"OmenDataName\":\"AquarianOrbsOmenData\",\"OmenCounter\":0},{\"OmenDataName\":\"OminousShellOmenData\",\"OmenCounter\":0},{\"OmenDataName\":\"CosmicSandalsOmenData\",\"OmenCounter\":0},{\"OmenDataName\":\"DaydreamsMaskOmenData\",\"OmenCounter\":0}]}"
+	},
+	"UnlockedAchievementsSave" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"MeissasSavior","PurificationPioneer","MechanicalBuddy","SanctuaryGuardian","MindIlluminator","StarKiller","NoctuanChampion","WildsKeeper","DicesmithingTime","EndlessTricks","LoyalPartner","StellarDismantler","Skeptical","AstrariumofHolding","WaveBender","EridanianChampion","AstralAdventurer","Gottatinkeremall","AnomalyDestroyer","ApianChampion","ShardSpender","LacertianChampion","Unbeatable","BehenianChampion","AquarianChampion","Artificer"
+	]
+	},
+	"PlayedTutorial" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MooniefirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"DiscoveredSentinelsSave" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"ColossusHand","Starry","Astrolabe","LunarRefractor","SolarPlexus","AutonomousBeacon","ChargedPylon","StasisClock","Protostar","AdaptedCourier","Guardian","ArtisanAssistant","DiceDrive","ArmillarySphere","UnknownDevice","AncientEffigy","SoothingRemora","FloatingCauldron","BellKeeper"
+	]
+	},
+	"SentinelShopTutorialShowed" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"ChapterMuteTutorialShowed" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MoonieXPSave" : {
+		"__type" : "int",
+		"value" : 4540
+	},
+	"CellariusUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MoonieAnomalyLevelsDefeated" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		0
+	]
+	},
+	"MoonieAstreaLevelsDefeated" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		0
+	]
+	},
+	"MoonieAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MoonieUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"TotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":7}"
+	},
+	"MoonieTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"CurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"MoonieCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"HighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"MoonieHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"MoonieCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"CurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":4,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"MoonieHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"HighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":4,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"TotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":225}"
+	},
+	"MoonieTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":87}"
+	},
+	"VictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":32}"
+	},
+	"MoonieVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":43}"
+	},
+	"TotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":7}"
+	},
+	"MoonieTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"MoonieFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2005.6807861328125}"
+	},
+	"MoonieHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1980}"
+	},
+	"TotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":16544.583984375}"
+	},
+	"MoonieTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5192.015625}"
+	},
+	"VictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2363.511962890625}"
+	},
+	"MoonieVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2596.0078125}"
+	},
+	"TotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":27175.177734375}"
+	},
+	"MoonieTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6296.953125}"
+	},
+	"MoonieHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":74}"
+	},
+	"SafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":144}"
+	},
+	"MoonieSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":50}"
+	},
+	"BalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":95}"
+	},
+	"MoonieBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":26}"
+	},
+	"RiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":49}"
+	},
+	"MoonieRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":10}"
+	},
+	"StarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":53}"
+	},
+	"MoonieStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"BlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":22}"
+	},
+	"MoonieBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"DiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":26}"
+	},
+	"MoonieDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"DiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":36}"
+	},
+	"MoonieDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"DiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":11}"
+	},
+	"MoonieDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5}"
+	},
+	"VirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":984}"
+	},
+	"MoonieVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":172}"
+	},
+	"SentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":56}"
+	},
+	"MoonieSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":12}"
+	},
+	"HeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":16}"
+	},
+	"MoonieHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"RunStatsSave" : {
+		"__type" : "string",
+		"value" : "{\"datas\":[{\"playedDate\":\"21-09-2024 - 12:45\",\"runTime\":\"0h 53m 6s\",\"character\":\"Moonie\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestBalancedView\",\"ForgeShopView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"ChestSafeView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestSafeView\",\"ChestSafeView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"50StarShardsRewardView\",\"ShrineView\",\"Boss2-2_DoomedAstronomerView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"BrokenShrineView\",\"EventView\",\"ChestRiskyView\",\"BattleNormalView\",\"ChestSafeView\",\"SentinelShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"TricksterCrossStaffOmenData\",\"DecimatorSkullOmenData\",\"StellarFlagOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"SolarPlexus\",\"CompanionLevel\":2,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ChargedPylon\",\"CompanionLevel\":3,\"CurrentCorruption\":0,\"StartingEffectSaves\":[{\"EffectName\":\"VorpalPlateEffect\",\"EffectAmount\":2},{\"EffectName\":\"CompanionBoostEffect\",\"EffectAmount\":100000000}]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"twilightsigil+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":5,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"cosmicwisdom\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":3,\"FaceName\":\"CosmicWisdom\",\"BattleActionName\":\"CorruptAction\",\"ActionValue\":12,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorrerollmoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":0,\"FaceName\":\"RerollPlayerSelfPurify\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":5,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorshieldmoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorenhancemoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"purify+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"astralrebound\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"forgepurify+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"amplify+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"ascend+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cosmicwisdom\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"purify\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lunaralignment+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"convert+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"twilightsigil\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"restoration\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"owllightcharge\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"convert\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"balefulhoot+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refresh+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"voidseek+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"serenity+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"purify+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"owllightcharge+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"expertise++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"acceptance+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"incorruptible++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"forgecorrupt++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"embrace+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"inventive\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1980,\"anomalyLevel\":0,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"28-10-2024 - 19:42\",\"runTime\":\"0h 40m 3s\",\"character\":\"Cellarius\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-1_SmoulderingBeastView\",\"EventView\",\"ForgeShopView\",\"BattleNormalView\",\"ChestView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"ShrineView\",\"Boss2-2_DoomedAstronomerView\",\"50StarShardsRewardView\",\"ChestRiskyView\",\"BattleNormalView\",\"ChestBalancedView\",\"ForgeShopView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"TamedRemorasOmenData\",\"CrypticMementoOmenData\",\"RisingStarOmenData\",\"DarknessShardOmenData\",\"DiluvianFlaskOmenData\",\"CosmicSandalsOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"LunarRefractor\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"SolarPlexus\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"tidaljet++\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"GeyserUppercutAction\",\"ActionValue\":7,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"defensiveaura++\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"IncorruptibleAction\",\"ActionValue\":-2,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"wave++\",\"DiceAmount\":2,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"WaveAction\",\"ActionValue\":14,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"soothemind\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"wavecrasher\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharkmadness+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"purify++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"shieldboomerang+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharktornado+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"tidaljet++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"apexinstinct++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"reefsong\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"marineoffering+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"draw+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"surf+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refreshingheadbutt+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharkstrike\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"marineoffering\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharksurge++\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"geyseruppercut\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"shieldrebound+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"wavecrasher+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"seaquake++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"astralrebound+\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1420,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Area Purify\",\"BattleActionName\":\"AreaPurifyAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Twin Smash\",\"BattleActionName\":\"TwinSmashAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"06-11-2024 - 18:13\",\"runTime\":\"0h 31m 13s\",\"character\":\"Hevelius\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"EventView\",\"SentinelShopView\",\"BattleNormalView\",\"ChestBalancedView\",\"ChestBalancedView\",\"BattleNormalView\",\"DestroyDiceView\",\"ForgeShopView\",\"50StarShardsRewardView\",\"ShrineView\",\"Boss2-2_DoomedAstronomerView\"],\"blessings\":[\"LacertianScepterOmenData\",\"StardustGarbOmenData\",\"DiademOfMadnessOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"Guardian\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"Astrolabe\",\"CompanionLevel\":2,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"cleverscrapping+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":3,\"FaceName\":\"AreaCorrupt\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":10,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"tinkererhevelius\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldhevelius\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"radiantbomb+\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererlunge+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"healbot+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"defensivelight+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sparklingrepair+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"linkboost+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"linkvorpalplate+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"radiantbomb+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"boostedarmy+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"rollingstars+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"rearm+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"innerpiece+\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1030,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Light Shield\",\"BattleActionName\":\"LightShieldAction\",\"ActionValue\":2},{\"FaceName\":\"Corrupt\",\"BattleActionName\":\"CorruptAction\",\"ActionValue\":3},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Rearm\",\"BattleActionName\":\"RearmAction\",\"ActionValue\":-2}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"06-11-2024 - 18:47\",\"runTime\":\"0h 30m 38s\",\"character\":\"Hevelius\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"BrokenShrineView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"ChestSafeView\",\"ShrineView\",\"Boss2-2_DoomedAstronomerView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"BrokenShrineView\",\"EventView\",\"ChestBalancedView\",\"BattleNormalView\",\"ChestBalancedView\",\"EpicShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"LacertianScepterOmenData\",\"EntropyHoodOmenData\",\"PhaseSatchelOmenData\",\"SilentScarfOmenData\",\"DampingDynamoOmenData\",\"OminousShellOmenData\",\"TricksterCrossStaffOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"Starry\",\"CompanionLevel\":4,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":2,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"minorpurifyhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererhevelius\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"purify\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"vorpalplate+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"punch\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"vorpalplate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"chargedbody\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"quickstrike\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"autoturret\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"energizedscrapping\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"quickstrike+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"chargedbody+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"augmentedwelding\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1750,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Light Shield\",\"BattleActionName\":\"LightShieldAction\",\"ActionValue\":2},{\"FaceName\":\"Corrupt\",\"BattleActionName\":\"CorruptAction\",\"ActionValue\":3},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Rearm\",\"BattleActionName\":\"RearmAction\",\"ActionValue\":-2}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"06-11-2024 - 18:56\",\"runTime\":\"0h 7m 1s\",\"character\":\"Austra\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\"],\"blessings\":[\"ApianLampOmenData\",\"PhaseSatchelOmenData\",\"SoaringNetOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"SolarPlexus\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"AdaptedCourier\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"chaotic++\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifyaustra\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldaustra\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minoraimlessaustra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dodge+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"electrostaticfield\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dodge\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"windglide\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"frenziedblow\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"calm\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":590,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Thunderstorm\",\"BattleActionName\":\"ThunderstormAction\",\"ActionValue\":6},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Confuse\",\"BattleActionName\":\"ConfuseAction\",\"ActionValue\":3},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":4},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Lightning\",\"BattleActionName\":\"LightningAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"07-11-2024 - 14:16\",\"runTime\":\"0h 10m 38s\",\"character\":\"Austra\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestRiskyView\",\"BattleNormalView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"BrokenShrineView\",\"50StarShardsRewardView\",\"BattleNormalView\"],\"blessings\":[\"ApianLampOmenData\",\"WhirlyLotusOmenData\",\"AuspiciousDandelionOmenData\",\"CodexOfBurdensOmenData\",\"CosmicSandalsOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ColossusHand\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"chaotic++\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifyaustra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldaustra\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minoraimlessaustra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"electrostaticfield+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"punch+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"forgepurify+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"glimmeringbreeze+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dodge++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"serenityaura++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"hornetdust+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dangerousexcavation+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"hazardousexpedition+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"purify+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"inventive+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"aerialneedle\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1180,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Thunderstorm\",\"BattleActionName\":\"ThunderstormAction\",\"ActionValue\":6},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Confuse\",\"BattleActionName\":\"ConfuseAction\",\"ActionValue\":3},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":4},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Lightning\",\"BattleActionName\":\"LightningAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"07-11-2024 - 14:22\",\"runTime\":\"0h 5m 7s\",\"character\":\"Sothis\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\"],\"blessings\":[\"BehenianHourglassOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"minorreliefsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minorglassdaggerssothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifysothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandsoftime\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sunray\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refreshingmantra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"behenianhowl\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"shamanicshout++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"serenity++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandsoftime++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"masscleanse+\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":370,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Scorching Sands\",\"BattleActionName\":\"ScorchingSandsAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Eclipse Blast\",\"BattleActionName\":\"EclipseBlastAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Sands of Time\",\"BattleActionName\":\"SandsOfTimeAction\",\"ActionValue\":10}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"07-11-2024 - 14:34\",\"runTime\":\"0h 12m 33s\",\"character\":\"Sothis\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"50StarShardsRewardView\",\"BattleHardView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\"],\"blessings\":[\"BehenianHourglassOmenData\",\"SlateOfPlentyOmenData\",\"StardustGarbOmenData\",\"PossessedToyOmenData\",\"RedemptionFlailOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"minorreliefsothis\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldsothis\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorglassdaggerssothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifysothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"glassdaggers\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"highguard+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"draw+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandshaping\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refreshingmantra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"flammablechakram+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"punch\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":840,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Scorching Sands\",\"BattleActionName\":\"ScorchingSandsAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Eclipse Blast\",\"BattleActionName\":\"EclipseBlastAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Sands of Time\",\"BattleActionName\":\"SandsOfTimeAction\",\"ActionValue\":10}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"07-11-2024 - 14:38\",\"runTime\":\"0h 3m 9s\",\"character\":\"Sothis\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\"],\"blessings\":[\"BehenianHourglassOmenData\",\"ResonantAnkhOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"minorreliefsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minorglassdaggerssothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifysothis\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"chanting\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cleansingconflagration\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"masscleanse\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"precisionmantra\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":220,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Scorching Sands\",\"BattleActionName\":\"ScorchingSandsAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Eclipse Blast\",\"BattleActionName\":\"EclipseBlastAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Sands of Time\",\"BattleActionName\":\"SandsOfTimeAction\",\"ActionValue\":10}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"07-11-2024 - 14:57\",\"runTime\":\"0h 18m 24s\",\"character\":\"Moonie\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleHardView\",\"50StarShardsRewardView\",\"DuplicateDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestView\",\"EpicShopView\",\"BattleHardView\"],\"blessings\":[\"EternalEggOmenData\",\"LuminaryBookmarkOmenData\",\"ShadedTalismanOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"UnknownDevice\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"minorpurifymoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldmoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorenhancemoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"stellarcleansemoonie\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorrerollmoonie\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"penumbraglare+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"convert+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"rollingstars+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"incorruptible++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lunaralignment++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"moonlightwrath+\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"gloomyenlightenment+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"research\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"ascend+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"owllightcharge+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":610,\"anomalyLevel\":1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Convert\",\"BattleActionName\":\"ConvertAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":4},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Draw\",\"BattleActionName\":\"DrawAction\",\"ActionValue\":1},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"11-11-2024 - 19:20\",\"runTime\":\"0h 33m 25s\",\"character\":\"Moonie\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BlackHoleTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestSafeView\",\"BattleNormalView\",\"ChestView\",\"SentinelShopView\",\"BattleHardView\",\"ChestSafeView\",\"ForgeShopView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"EventView\",\"ChestBalancedView\",\"BattleNormalView\",\"ChestView\",\"ChestRiskyView\",\"BattleHardView\",\"EventView\",\"ForgeShopView\",\"ChestSafeView\",\"ShrineView\",\"Boss2-1_CorruptedAssemblerView\",\"50StarShardsRewardView\",\"ChestSafeView\",\"BattleHardView\",\"ChestBalancedView\",\"SentinelShopView\",\"ChestView\",\"BattleNormalView\",\"ChestSafeView\",\"DuplicateDiceView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"Astrolabe\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"ascend+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"AreaCorrupt\",\"BattleActionName\":\"AstralCallingAction\",\"ActionValue\":-2,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"newmoonray\",\"DiceAmount\":6,\"DiceFaceForged\":[]},{\"DiceName\":\"research\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"reroll\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"cosmicwisdom\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"defensiveboon\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"innerpiece\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"calm\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"punch\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"scarletsigil\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"draw+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cursedprediction++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"convert+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"twilightsigil++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"rollingstars\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"nocturnalupdraft+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"astralcalling++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"quickstrike++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"research+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"ingenioustouch\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"scholarcharge\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"enhance++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"lightshield\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"convert\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"inventive\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"twilightsigil\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"restoration\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"quickstrike\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"masscleanse\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"owllightcharge\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1950,\"anomalyLevel\":0,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Convert\",\"BattleActionName\":\"ConvertAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":4},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Draw\",\"BattleActionName\":\"DrawAction\",\"ActionValue\":1},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"11-11-2024 - 20:11\",\"runTime\":\"0h 28m 11s\",\"character\":\"Cellarius\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BlackHoleTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestRiskyView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"ChestRiskyView\",\"ForgeShopView\",\"BattleNormalView\",\"ChestRiskyView\",\"ChestView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"ChestRiskyView\",\"ShrineView\",\"Boss2-1_CorruptedAssemblerView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleNormalView\",\"ChestRiskyView\",\"DestroyDiceView\",\"ChestRiskyView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"DecayedCoreOmenData\",\"ZenithRingOmenData\",\"QuanticFungusOmenData\",\"PossessedToyOmenData\",\"CrypticMementoOmenData\",\"TamedRemorasOmenData\",\"GoldenToothOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"LunarRefractor\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"wave++\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"WaveAction\",\"ActionValue\":14,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":3,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"IndigoSoulAction\",\"ActionValue\":1,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"invigoratingpunch++\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"MarineOfferingAction\",\"ActionValue\":14,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorshieldcellarius\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorrerollcellarius\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"minorinvigoratingpunchcellarius\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharkblowcellarius\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"wave++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"reefsong\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"apexinstinct\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"marineoffering\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"seaquake++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"geyseruppercut+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"tidaljet+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"hightide+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharksurge++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"wavecrasher\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refreshingheadbutt+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"vendettafever++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"indigosoul++\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"rollingstars\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"surf\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"seaquake+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"highguard+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"reroll\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"wave\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refresh++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sharkmadness+\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":2160,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Area Purify\",\"BattleActionName\":\"AreaPurifyAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Twin Smash\",\"BattleActionName\":\"TwinSmashAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"11-11-2024 - 21:47\",\"runTime\":\"0h 18m 20s\",\"character\":\"Hevelius\",\"winLose\":\"Defeat\",\"difficulty\":\"Normal\",\"path\":[\"BlackHoleTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestRiskyView\",\"BattleNormalView\",\"ChestBalancedView\",\"SentinelShopView\",\"BattleHardView\",\"ChestBalancedView\",\"ForgeShopView\",\"ShrineView\",\"Boss1-1_SmoulderingBeastView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestView\",\"ChestRiskyView\",\"BattleNormalView\"],\"blessings\":[\"LacertianScepterOmenData\",\"QuanticFungusOmenData\",\"StardustGarbOmenData\",\"BondDuplicatorOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"DiceDrive\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ColossusHand\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"linkempower++\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"AreaCorrupt\",\"BattleActionName\":\"AreaLightShieldAction\",\"ActionValue\":1,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorpurifyhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererhevelius\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"systematicrepair\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"linkvorpalplate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"autoturret\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"enduringrepair+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"chargedbody++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"linkempower+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cleverscrapping+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"voltaicscrapping+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"recycle\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"vorpalarmy+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"rearm+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"enduringrepair+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"refresh++\",\"DiceAmount\":2,\"DiceFaceForged\":[]}]},\"runScoreXP\":910,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Light Shield\",\"BattleActionName\":\"LightShieldAction\",\"ActionValue\":2},{\"FaceName\":\"Corrupt\",\"BattleActionName\":\"CorruptAction\",\"ActionValue\":3},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Rearm\",\"BattleActionName\":\"RearmAction\",\"ActionValue\":-2}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"11-11-2024 - 22:21\",\"runTime\":\"0h 28m 38s\",\"character\":\"Austra\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BlackHoleTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestSafeView\",\"BattleNormalView\",\"ChestSafeView\",\"ForgeShopView\",\"BattleHardView\",\"ChestRiskyView\",\"SentinelShopView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"50StarShardsRewardView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestView\",\"ChestBalancedView\",\"BattleHardView\",\"EventView\",\"ForgeShopView\",\"ChestBalancedView\",\"ShrineView\",\"Boss2-1_CorruptedAssemblerView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleHardView\",\"ChestSafeView\",\"EventView\",\"ChestRiskyView\",\"BattleHardView\",\"50StarShardsRewardView\",\"DuplicateDiceView\",\"ShrineView\",\"Boss3-1_UncagedAnomalyView\"],\"blessings\":[\"ApianLampOmenData\",\"ShadedTalismanOmenData\",\"LightningRodOmenData\",\"AzimuthRingOmenData\",\"EntropyHoodOmenData\",\"RisingStarOmenData\",\"GuidingChimeOmenData\",\"HiveModuleOmenData\",\"BrightfulStoneOmenData\",\"FranticFireflyOmenData\",\"KarmicBroochOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"UnknownDevice\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"critical++\",\"DiceAmount\":2,\"DiceFaceForged\":[{\"FaceIndex\":2,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"ThunderstormAction\",\"ActionValue\":12,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":3,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"DrawAction\",\"ActionValue\":2,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":4,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"AreaLightShieldAction\",\"ActionValue\":4,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"WindGlideAction\",\"ActionValue\":4,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"dodge+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":4,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"AreaLightShieldAction\",\"ActionValue\":4,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"chaotic++\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorpurifyaustra\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldaustra\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minoraimlessaustra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"timeless\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"critical+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"masscleanse\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"brilliance\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"rollingstars\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"invoke\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"hazardousexpedition+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dodge+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"thunderstorm\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"electrostaticfield+\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"aerialneedle++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"brilliance+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"critical+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"thunderstorm++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"aerialneedle+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"dancingwings\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":2510,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Thunderstorm\",\"BattleActionName\":\"ThunderstormAction\",\"ActionValue\":6},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"WindGlideAction\",\"ActionValue\":2},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":-1},{\"FaceName\":\"Confuse\",\"BattleActionName\":\"ConfuseAction\",\"ActionValue\":3},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":4},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":-1},{\"FaceName\":\"Lightning\",\"BattleActionName\":\"LightningAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"11-11-2024 - 22:58\",\"runTime\":\"0h 29m 55s\",\"character\":\"Hevelius\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BlackHoleTelescopeView\",\"ChestView\",\"BattleNormalView\",\"ChestSafeView\",\"BattleNormalView\",\"EventView\",\"ForgeShopView\",\"BattleHardView\",\"50StarShardsRewardView\",\"SentinelShopView\",\"ShrineView\",\"Boss1-2_SanctuaryParasiteView\",\"EventView\",\"ForgeShopView\",\"BattleNormalView\",\"ChestView\",\"ChestBalancedView\",\"BattleNormalView\",\"EventView\",\"ForgeShopView\",\"ChestRiskyView\",\"ShrineView\",\"Boss2-2_DoomedAstronomerView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleHardView\",\"ChestRiskyView\",\"EventView\",\"50StarShardsRewardView\",\"BattleHardView\",\"ChestSafeView\",\"EpicShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"LacertianScepterOmenData\",\"QuanticFungusOmenData\",\"HulkModuleOmenData\",\"LampofMistsOmenData\",\"RenewerModuleOmenData\",\"StaticAlternatorOmenData\",\"MaliciousOrbOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"UnknownDevice\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"DiceDrive\",\"CompanionLevel\":1,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"systematicrepair+\",\"DiceAmount\":2,\"DiceFaceForged\":[{\"FaceIndex\":0,\"FaceName\":\"SystematicRepair\",\"BattleActionName\":\"DrawAction\",\"ActionValue\":2,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":4,\"FaceName\":\"AreaCorrupt\",\"BattleActionName\":\"AreaPurifyAction\",\"ActionValue\":5,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":30,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"systematicrepair+\",\"DiceAmount\":2,\"DiceFaceForged\":[{\"FaceIndex\":4,\"FaceName\":\"AreaCorrupt\",\"BattleActionName\":\"AreaPurifyAction\",\"ActionValue\":5,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"PurifyAction\",\"ActionValue\":30,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorpurifyhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererhevelius\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldhevelius\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"systematicrepair\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"voltaicscrapping\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"energizedscrapping\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"linkvorpalplate\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"quickstrike\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"recycle\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"repair\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"enduringscrapping+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererlunge\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"tinkererlunge+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"boomerangrepair\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cleverscrapping\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"chargedbody+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"defensiveboon\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1780,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Light Shield\",\"BattleActionName\":\"LightShieldAction\",\"ActionValue\":2},{\"FaceName\":\"Corrupt\",\"BattleActionName\":\"CorruptAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":-1},{\"FaceName\":\"\",\"BattleActionName\":\"RecycleAction\",\"ActionValue\":-2},{\"FaceName\":\"Purify Enemy\",\"BattleActionName\":\"PurifyEnemyAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"ShieldBashAction\",\"ActionValue\":2},{\"FaceName\":\"Rearm\",\"BattleActionName\":\"RearmAction\",\"ActionValue\":-2}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"16-12-2024 - 20:57\",\"runTime\":\"0h 51m 7s\",\"character\":\"Sothis\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"StarTelescopeView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"ShrineView\",\"Boss1-1_SmoulderingBeastView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"ChestSafeView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"DestroyDiceView\",\"ForgeShopView\",\"ChestView\",\"ShrineView\",\"Boss2-1_CorruptedAssemblerView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleNormalView\",\"BrokenShrineView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"ShrineView\",\"Boss3-1_UncagedAnomalyView\"],\"blessings\":[\"BehenianHourglassOmenData\",\"CosmicSandalsOmenData\",\"EtherealPlumeOmenData\",\"StarfallBannerOmenData\",\"DecayedCoreOmenData\",\"LampofMistsOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"ArmillarySphere\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"ChargedPylon\",\"CompanionLevel\":0,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"drawsafe+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"PlayerSelfCorrupt\",\"BattleActionName\":\"SandsOfTimeAction\",\"ActionValue\":25,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"draw+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":3,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"DrawAction\",\"ActionValue\":2,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0},{\"FaceIndex\":4,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"AreaLightShieldAction\",\"ActionValue\":4,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorreliefsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"minorshieldsothis\",\"DiceAmount\":3,\"DiceFaceForged\":[]},{\"DiceName\":\"sunnyflares\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"masscleanse\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandsoftime\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"eclipseblast\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sonataofhealing+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandsoftime+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"soulburn+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandshaping\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sandstorm+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"precisionmantra\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"relief\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"sonataofhealing+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"highguard+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"desertprotection++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"invoke\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"syphonhourglass+\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1690,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Scorching Sands\",\"BattleActionName\":\"ScorchingSandsAction\",\"ActionValue\":1},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Eclipse Blast\",\"BattleActionName\":\"EclipseBlastAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Sands of Time\",\"BattleActionName\":\"SandsOfTimeAction\",\"ActionValue\":10}]},\"modifiersList\":[],\"runType\":0},{\"playedDate\":\"20-12-2024 - 19:21\",\"runTime\":\"0h 51m 20s\",\"character\":\"Orion\",\"winLose\":\"Victory\",\"difficulty\":\"Normal\",\"path\":[\"BattleNormalView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"DestroyDiceView\",\"ShrineView\",\"Boss1-1_SmoulderingBeastView\",\"EventView\",\"50StarShardsRewardView\",\"BattleNormalView\",\"BrokenShrineView\",\"ChestView\",\"BattleNormalView\",\"EventView\",\"SentinelShopView\",\"ChestSafeView\",\"ShrineView\",\"Boss2-1_CorruptedAssemblerView\",\"50StarShardsRewardView\",\"ForgeShopView\",\"BattleNormalView\",\"BrokenShrineView\",\"EventView\",\"ChestView\",\"BattleNormalView\",\"50StarShardsRewardView\",\"EpicShopView\",\"ShrineView\",\"Boss3-2_DecayedStarView\"],\"blessings\":[\"AquarianOrbsOmenData\",\"OminousShellOmenData\",\"CosmicSandalsOmenData\",\"DaydreamsMaskOmenData\"],\"sentinels\":{\"RuntimeCompanions\":[{\"CompanionDataName\":\"DiceDrive\",\"CompanionLevel\":4,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]},{\"CompanionDataName\":\"BellKeeper\",\"CompanionLevel\":4,\"CurrentCorruption\":0,\"StartingEffectSaves\":[]}]},\"diceInventorySave\":{\"DiceSaves\":[{\"DiceName\":\"precisionexchange+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":5,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"RetrogradeAction\",\"ActionValue\":10,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"phasedincantation+\",\"DiceAmount\":1,\"DiceFaceForged\":[{\"FaceIndex\":4,\"FaceName\":\"Corrupt\",\"BattleActionName\":\"RetrogradeAction\",\"ActionValue\":10,\"EnableSecondAction\":false,\"SecondBattleActionName\":\"\",\"SecondActionValue\":0}]},{\"DiceName\":\"minorrevolutionorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"minorconjureorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"alchemyorion\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"unstableconjuration\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"invoke\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"stellarsynthetization+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"draw+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"copycat\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"primordialcall\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"penitenceburst\",\"DiceAmount\":2,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"reroll\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"aquarianflux+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"oscillate\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"meditate+\",\"DiceAmount\":1,\"DiceFaceForged\":[]},{\"DiceName\":\"cosmicexpansion+++\",\"DiceAmount\":1,\"DiceFaceForged\":[]}]},\"runScoreXP\":1570,\"anomalyLevel\":-1,\"astreaLevel\":-1,\"runeSaves\":{\"RuneActionFaceSaves\":[{\"FaceName\":\"Phased Incantation\",\"BattleActionName\":\"PhasedIncantationAction\",\"ActionValue\":3},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Revolution\",\"BattleActionName\":\"RevolutionAction\",\"ActionValue\":1},{\"FaceName\":\"Cleromancy\",\"BattleActionName\":\"CleromancyAction\",\"ActionValue\":1},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Conjure\",\"BattleActionName\":\"ConjureAction\",\"ActionValue\":4}]},\"modifiersList\":[],\"runType\":0}]}"
+	},
+	"SentinelTutorialWarningActivated" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"PassedTroughSentinelShopFirstTime" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"DisableRewardAnimationsSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"BattleSpeedSave" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"LanguageSave" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"CellariusModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"TotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":10}"
+	},
+	"CurrentRunAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"CurrentRunAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : -1
+	},
+	"IsDailyRunSave" : {
+		"__type" : "bool",
+		"value" : false
+	},
+	"RunesSave" : {
+		"__type" : "string",
+		"value" : "{\"RuneActionFaceSaves\":[{\"FaceName\":\"Phased Incantation\",\"BattleActionName\":\"PhasedIncantationAction\",\"ActionValue\":3},{\"FaceName\":\"Reroll\",\"BattleActionName\":\"RerollAction\",\"ActionValue\":3},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Revolution\",\"BattleActionName\":\"RevolutionAction\",\"ActionValue\":1},{\"FaceName\":\"Cleromancy\",\"BattleActionName\":\"CleromancyAction\",\"ActionValue\":1},{\"FaceName\":\"\",\"BattleActionName\":\"\",\"ActionValue\":0},{\"FaceName\":\"Conjure\",\"BattleActionName\":\"ConjureAction\",\"ActionValue\":4}]}"
+	},
+	"CellariusfirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"CellariusXPSave" : {
+		"__type" : "int",
+		"value" : 3580
+	},
+	"HeveliusUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"CellariusTotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"CellariusTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4094.49560546875}"
+	},
+	"CellariusHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":29}"
+	},
+	"CellariusSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":16}"
+	},
+	"CellariusBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":13}"
+	},
+	"CellariusRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":19}"
+	},
+	"CellariusStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":7}"
+	},
+	"CellariusBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5}"
+	},
+	"CellariusDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6}"
+	},
+	"CellariusDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":8}"
+	},
+	"CellariusDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":138}"
+	},
+	"CellariusSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6}"
+	},
+	"CellariusHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5}"
+	},
+	"HeveliusModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"HeveliusTotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3}"
+	},
+	"HeveliusfirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"HeveliusXPSave" : {
+		"__type" : "int",
+		"value" : 5470
+	},
+	"HeveliusCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"HeveliusCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"HeveliusTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6608.01806640625}"
+	},
+	"HeveliusHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":30}"
+	},
+	"HeveliusSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":30}"
+	},
+	"HeveliusBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":26}"
+	},
+	"HeveliusRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"HeveliusStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":13}"
+	},
+	"HeveliusBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":8}"
+	},
+	"HeveliusDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5}"
+	},
+	"HeveliusDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":9}"
+	},
+	"HeveliusDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3}"
+	},
+	"HeveliusVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":269}"
+	},
+	"HeveliusSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":19}"
+	},
+	"HeveliusHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"AustraModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"AustraUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"AustraTotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"AustrafirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"AustraXPSave" : {
+		"__type" : "int",
+		"value" : 4280
+	},
+	"AustraCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"AustraTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2777.78125}"
+	},
+	"AustraHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":92}"
+	},
+	"AustraSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":16}"
+	},
+	"AustraBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":17}"
+	},
+	"AustraRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":12}"
+	},
+	"AustraStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":15}"
+	},
+	"AustraBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3}"
+	},
+	"AustraDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":5}"
+	},
+	"AustraDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":150}"
+	},
+	"AustraSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":7}"
+	},
+	"AustraHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6}"
+	},
+	"SothisModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"SothisUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SothisTotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3}"
+	},
+	"SothisfirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"SothisXPSave" : {
+		"__type" : "int",
+		"value" : 3120
+	},
+	"SothisCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"SothisCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"SothisTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4317.16455078125}"
+	},
+	"SothisHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":55}"
+	},
+	"SothisSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":22}"
+	},
+	"SothisBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":9}"
+	},
+	"SothisRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"SothisStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":12}"
+	},
+	"SothisBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"SothisDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"SothisDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":8}"
+	},
+	"SothisDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"SothisVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":171}"
+	},
+	"SothisSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"SothisHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"MoonieModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"MoonieTotalDefeatData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"RunTimerSettingSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"CellariusAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"CellariusUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"CellariusTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"CellariusTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":29}"
+	},
+	"CellariusVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":29}"
+	},
+	"CellariusTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"CellariusFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1691.202392578125}"
+	},
+	"CellariusHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2160}"
+	},
+	"CellariusTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1691.202392578125}"
+	},
+	"CellariusVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1691.202392578125}"
+	},
+	"PercentProgressionEventSent20" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"AustraCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"AustraAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"AustraUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"AustraTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"AustraTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":31}"
+	},
+	"AustraVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":31}"
+	},
+	"AustraTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"AustraFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1718.077392578125}"
+	},
+	"AustraHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2510}"
+	},
+	"AustraTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1718.077392578125}"
+	},
+	"AustraVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1718.077392578125}"
+	},
+	"HeveliusCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"HeveliusAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"HeveliusUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"HeveliusTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"HeveliusHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"HeveliusHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"HeveliusTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":29}"
+	},
+	"HeveliusVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":29}"
+	},
+	"HeveliusTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"HeveliusFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1795.06689453125}"
+	},
+	"HeveliusHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1780}"
+	},
+	"HeveliusTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1795.06689453125}"
+	},
+	"HeveliusVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1795.06689453125}"
+	},
+	"SothisCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"OrionUnlockedCharacterSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SothisAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SothisUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SothisTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"SothisHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"SothisHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":1,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"SothisTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":26}"
+	},
+	"SothisVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":26}"
+	},
+	"SothisTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"SothisFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3067.45849609375}"
+	},
+	"SothisHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1690}"
+	},
+	"SothisTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3067.45849609375}"
+	},
+	"SothisVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3067.45849609375}"
+	},
+	"OrionModifiersRunCustomizationBattleString" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		
+	]
+	},
+	"OrionCurrentAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"OrionCurrentActiveOrb" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"OrionfirstChestPicksCounterSave" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"OrionXPSave" : {
+		"__type" : "int",
+		"value" : 1570
+	},
+	"OrionAstreaHeartReachedSave" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"HeveliusCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"HeveliusUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"CellariusCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"CellariusUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"OrionCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"OrionUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"AustraCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"AustraUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SothisCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SothisUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MoonieCurrentAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MoonieUnlockedAstreaLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"OrionUnlockedAnomalyLevelSave" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"OrionTotalVictoryData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"OrionCurrentWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"OrionHighestWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"OrionCurrentAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":0,\"CurrentAnomalyLevelForWinStreak\":0,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"OrionHighestAnomalyAndAstreaWinStreakData" : {
+		"__type" : "string",
+		"value" : "{\"WinStreakAmount\":0,\"CurrentAnomalyLevelForWinStreak\":-1,\"CurrentAstreaLevelForWinStreak\":-1}"
+	},
+	"OrionTotalDicePoolData" : {
+		"__type" : "string",
+		"value" : "{\"value\":23}"
+	},
+	"OrionVictoryDicePoolSizeAverageData" : {
+		"__type" : "string",
+		"value" : "{\"value\":23}"
+	},
+	"OrionTotalAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1}"
+	},
+	"OrionFastestAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3080.763671875}"
+	},
+	"OrionHighestScoreAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":1570}"
+	},
+	"OrionTotalTimeVictoryAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3080.763671875}"
+	},
+	"OrionVictoryTimeAverageAstreaHeartReachedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3080.763671875}"
+	},
+	"OrionTotalPlaytimeData" : {
+		"__type" : "string",
+		"value" : "{\"value\":3080.763671875}"
+	},
+	"OrionHighestPurificationData" : {
+		"__type" : "string",
+		"value" : "{\"value\":52}"
+	},
+	"OrionSafeDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":10}"
+	},
+	"OrionBalancedDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":4}"
+	},
+	"OrionRiskyDiceTierPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":0}"
+	},
+	"OrionStarBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"OrionBlackHoleBlessingPickedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"OrionDiceFacesForgedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":2}"
+	},
+	"OrionDiceDestroyedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":6}"
+	},
+	"OrionDiceDuplicatedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":0}"
+	},
+	"OrionVirtuesUsedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":84}"
+	},
+	"OrionSentinelLevelSummedData" : {
+		"__type" : "string",
+		"value" : "{\"value\":10}"
+	},
+	"OrionHeartsSacrificedShrineWithColonData" : {
+		"__type" : "string",
+		"value" : "{\"value\":0}"
+	},
+	"PercentProgressionEventSent40" : {
+		"__type" : "bool",
+		"value" : true
+	}
+}
